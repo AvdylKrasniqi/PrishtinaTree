@@ -1,12 +1,30 @@
+var $_GET = {};
+$_GET['radius'] = 160;
+if(document.location.toString().indexOf('?') !== -1) {
+    var query = document.location
+                   .toString()
+                   // get the query string
+                   .replace(/^.*?\?/, '')
+                   // and remove any existing hash string (thanks, @vrijdenker)
+                   .replace(/#.*$/, '')
+                   .split('&');
+
+    for(var i=0, l=query.length; i<l; i++) {
+       var aux = decodeURIComponent(query[i]).split('=');
+       $_GET[aux[0]] = aux[1];
+    }
+}
+	
+
 
 $('#toggleDrunjet').change(function() {
 	if($(this).prop('checked')){
 		//map.addLayer(markers3);
-		map.addLayer(markers6);
+		//map.addLayer(markers6);
 	}
 	else{
 		//map.removeLayer(markers3);
-		map.removeLayer(markers6);
+		//map.removeLayer(markers6);
 	}
 })
 
@@ -31,7 +49,6 @@ $("document").ready(function() {
 $("#mapid").css("height",  "calc(100vh - " + $("nav").outerHeight() + "px)")
 
 map = L.map('mapid', {minZoom: 13, maxZoom: 20}).setView([42.667542, 21.166191], 14);
-
 
 const gjetherenesLarteIcon = L.divIcon({
 	html: '<svg height="10" width="10"><circle cx="5" cy="5" r="4" stroke="#4e753e" stroke-width="1" fill="#4e753e99"/></svg>',
@@ -74,15 +91,11 @@ const gjethembajtesUletIcon = L.divIcon({
 
 
 
-
 var gl = L.mapboxGL({
 	attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>',
 	accessToken: 'not-needed',
 	style: 'https://api.maptiler.com/maps/positron/style.json?key=SUSH2C7iOeiRtPMHq2pu'
   }).addTo(map);
-
-/* icons */
-
 
 
 
@@ -101,15 +114,15 @@ map.on('drag', function() {
 	//.openPopup();
 */
 //polygoni
+/*
 dardania = [[42.646496, 21.155415],[42.647274, 21.156808],[42.647491, 21.157477],[42.655514, 21.159591],[42.655702, 21.158578], [42.655704, 21.158024], [42.653091, 21.148391], [42.652853, 21.148482], [42.652577, 21.147757], [42.652215, 21.147459], [42.651886, 21.147427], [42.651689, 21.147556], [42.651579, 21.147395], [42.649494, 21.151600], [42.648318, 21.153617], [42.647647, 21.154464], [42.647079, 21.154990]];
 
 ulpiana = [[42.647465, 21.157504], [42.647181, 21.159500], [42.647148, 21.160618], [42.647320, 21.161556], [42.647480, 21.162052],[42.647858, 21.162765],[42.648727, 21.163649],[42.650233, 21.164821], [42.654022, 21.167615], [42.654216, 21.167527], [42.654544, 21.166813], [42.655544, 21.159613]];
 
 breguIDiellit = [[42.647799, 21.162972], [42.654045, 21.167717], [42.654727, 21.168370], [42.655305, 21.170034], [42.655503, 21.170448], [42.656142, 21.171409], [42.655823, 21.173269], [42.655881, 21.175207], [42.655826, 21.176858], [42.655412, 21.178184], [42.652379, 21.175520], [42.650687, 21.174465], [42.648804, 21.172424], [42.646718, 21.170884], [42.646031, 21.169812], [42.645509, 21.169431]];
+*/
 
-
-var size = pejtoni.length;
-var markers = [];
+    
     /*
     var a = pejtoni[i];
 	//qetu mujm me bo me type.
@@ -143,31 +156,111 @@ var markers = [];
     */
 
 
-var leafletView = new PruneClusterForLeaflet(160);
+var size = pejtoni.length;
+var markers = [];
+console.log("1" + new Date());
+console.log(parseInt($_GET['radius']));
+var leafletView = new PruneClusterForLeaflet(parseInt($_GET['radius']));
 for (var i = 0; i < size; ++i) {
     
     var a = pejtoni[i];
+	var description = "<dl>"
+						+ "<dt>Tipi i drurit</dt>"
+						+ "<dd>" + a[0] + "</dd>"
+						+ "<dt>Gjatësia</dt>"
+						+ "<dd>" + a[1] + "</dd>"
+						+ "<dt>Gjendja</dt>"
+						+ "<dd>" + a[2] + "</dd>"
+						+ "<dt>Koordinatat</dt>"
+						+ "<dd>" + a[3] + " " + a[4] + "</dd>"
+					+ "</dl>";
+	var marker = new PruneCluster.Marker(a[3], a[4], {popup: description});
 
-	var marker = new PruneCluster.Marker(a[3], a[4]);
+	if(a[0] == "Gjethërënës") {
+		if(a[1] == "I lartë (> 3m)")
+			marker.data.icon = gjetherenesLarteIcon;
+		else if(a[1] == "I mesëm (1 - 3m)")
+			marker.data.icon = gjetherenesMesemIcon;
+		else if(a[1] == "I ulët (< 1m)")
+			marker.data.icon = gjetherenesUletIcon;
+		else
+			marker.data.icon = gjetherenesMesemIcon;
+	} else if(a[0] == "Gjethëmbajtës") {
+		if(a[1] == "I lartë (> 3m)")
+			marker.data.icon = gjethembajtesLarteIcon;
+		else if(a[1] == "I mesëm (1 - 3m)")
+			marker.data.icon = gjethembajtesMesemIcon;
+		else if(a[1] == "I ulët (< 1m)")
+			marker.data.icon = gjethembajtesUletIcon;
+		else
+			marker.data.icon = gjethembajtesMesemIcon;
+	}
+	else
+		marker.data.icon = gjetherenesMesemIcon;
+
 
     markers.push(marker);
     leafletView.RegisterMarker(marker);
 }
+
+//map.addLayer(leafletView);
+
+setTimeout(function(){
+}, 0);
+console.log(i + new Date());
 
 var kampusi_size = kampusi.length;
+//var leafletView2 = new PruneClusterForLeaflet(50);
+
+var markers2 = [];
 for (var i = 0; i < kampusi_size; ++i) {
-    
     var a = kampusi[i];
+	var description = "<dl>"
+						+ "<dt>Tipi i drurit</dt>"
+						+ "<dd>" + a[0] + "</dd>"
+						+ "<dt>Gjatësia</dt>"
+						+ "<dd>" + a[1] + "</dd>"
+						+ "<dt>Gjendja</dt>"
+						+ "<dd>" + a[2] + "</dd>"
+						+ "<dt>Koordinatat</dt>"
+						+ "<dd>" + a[3] + " " + a[4] + "</dd>"
+					+ "</dl>";
+	var marker = new PruneCluster.Marker(a[3], a[4], {popup: description});
 
-	var marker = new PruneCluster.Marker(a[3], a[4]);
+	if(a[0] == "Gjethërënës") {
+		if(a[1] == "I lartë (> 3m)")
+			marker.data.icon = gjetherenesLarteIcon;
+		else if(a[1] == "I mesëm (1 - 3m)")
+			marker.data.icon = gjetherenesMesemIcon;
+		else if(a[1] == "I ulët (< 1m)")
+			marker.data.icon = gjetherenesUletIcon;
+		else
+			marker.data.icon = gjetherenesMesemIcon;
+	} else if(a[0] == "Gjethëmbajtës") {
+		if(a[1] == "I lartë (> 3m)")
+			marker.data.icon = gjethembajtesLarteIcon;
+		else if(a[1] == "I mesëm (1 - 3m)")
+			marker.data.icon = gjethembajtesMesemIcon;
+		else if(a[1] == "I ulët (< 1m)")
+			marker.data.icon = gjethembajtesUletIcon;
+		else
+			marker.data.icon = gjethembajtesMesemIcon;
+	}
+	else
+		marker.data.icon = gjetherenesMesemIcon;
 
-    markers.push(marker);
+
+    markers2.push(marker);
     leafletView.RegisterMarker(marker);
 }
+setTimeout(function(){
+}, 0);
 
-
+console.log(i + new Date());
 
 map.addLayer(leafletView);
+
+console.log(i + new Date());
 
 var lastUpdate = 0;
 var currentSizeSpan = document.getElementById('currentSize');
@@ -184,8 +277,9 @@ var currentSizeSpan = document.getElementById('currentSize');
 		lastUpdate = now;
 	};
     document.getElementById('sizeInput').onchange = updateSize; 
-    document.getElementById('sizeInput').oninput = updateSize; 
+    //document.getElementById('sizeInput').oninput = updateSize; 
 
+L.control.scale().addTo(map);
 
 
 /*
@@ -280,7 +374,6 @@ for (let i = 0; i < kampusi.length; i++) {
 //map.addLayer(markers6);
 
 */
-L.control.scale().addTo(map);
 
 /*
 markers3.on("clusterclick", function(a) {

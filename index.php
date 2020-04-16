@@ -5,6 +5,7 @@ require("header.php");
 <!DOCTYPE html>
 <html>
 	<?php get_header(); ?>
+
 	<div class="row m-0" style="overflow: hidden;">
 		
 		<div class="col p-0">
@@ -17,7 +18,11 @@ require("header.php");
 			<button onclick="$('#descDiv').toggle(function(){map.invalidateSize()});" id="descToggler" class="btn btn-sm btn-outline-dark btn-light" style="cursor: pointer; position: absolute; top:10px; right: 10px; z-index: 400"><i class="fas fa-angle-right"></i></button>
 		</div>
 		<div id="descDiv" class="col-4 p-5" style="height: 100vh; overflow-y: scroll;">
-			<div href="#" id="size">Shpeshtësia: <input type="range" value="160" min="0.01" max="500" step="0.01" id="sizeInput"/><span id="currentSize">160</span></div>
+			<div href="#" id="size">
+				Radius i cluster:
+				 <input type="range" value="50" min="0.9" max="100" step="0.1" id="sizeInput"/>
+				<span id="currentSize">50</span>
+			</div>
 			<table  class="table table-bordered table-striped table-hover text-center">
 				<thead>
 					<tr>
@@ -89,8 +94,8 @@ require("header.php");
 						<button class="button rounded-circle border-0" style="background-color: #714220; height: 30px; width: 30px;">&nbsp;</button>Ultë: <span>200</span><br/>
 					</div>
 				</div>
-				<div class="col-12 pt-2 pb-2" style="border-bottom: 1px dashed;"></div>
-				<div class="col-3 p-1" style="border-bottom: 1px dashed;">
+				<hr/>
+				<hr/>
 					<img class="w-100" src="./assets/images/drunjte.png"/>
 				</div>
 				<div class="col-9" style="border-bottom: 1px dashed;">
@@ -125,12 +130,27 @@ require("header.php");
 						<button class="button rounded-circle border-0" style="background-color: #714220; height: 30px; width: 30px;">&nbsp;</button>Ultë: <span>200</span><br/>
 					</div>
 				</div>
-				<div class="col-12 pt-2 pb-2" style="border-bottom: 1px dashed;"></div>
-				
-				<div class="col-12 pt-2 pb-2" style="border-bottom: 1px dashed;"></div>
+				<hr/>
+				<hr/>
 			</div>
 		</div>
 	</div>
 </body>
 <script src="./js/script.js"></script>
+<script>
+		var notified = false;
+		$("#sizeInput").on("input change", function() {
+		 	dosmth($(this).val()); 
+		})
+		function dosmth(val){
+			console.log(val);
+			if(notified)
+				return;
+			if(val <= 20)
+			{
+				notified = true;
+				alert("Kujdes: Zvoglimi i tepert i radius shkakton ngadalsim!");
+			}
+		}
+	</script>
 </html>
