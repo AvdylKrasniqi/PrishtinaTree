@@ -75,8 +75,8 @@ require("header.php");
 				</div>
 				<div class="col-6">
 					<div class="row">
-						<div class="col-2 p-2">
-							<img src="./assets/images/gjethembajtes.png" class="w-100" style="height: 50px;" />
+						<div class="col-2">
+							<img src="./assets/images/gjethembajtes.png" style="height: 50px;" />
 						</div>
 						<div class="col-10">
 							<h5>Gjethrënës</h5>
@@ -93,8 +93,8 @@ require("header.php");
 
 				<div class="col-6">
 					<div class="row">
-						<div class="col-2 p-2">
-							<img src="./assets/images/gjetherenes.png" class="w-100" style="height: 50px;" />
+						<div class="col-2">
+							<img src="./assets/images/gjetherenes.png" style="height: 50px;" />
 						</div>
 						<div class="col-10">
 							<h5>Gjethmbajtës</h5>
