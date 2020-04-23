@@ -1,0 +1,7364 @@
+[
+  {
+    "id": 520002,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16473,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520002,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65901,
+    "Photo": ""
+  },
+  {
+    "id": 520003,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16479,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520004,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16477,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520005,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16477,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": "",
+    "Lloji": "",
+    "Lartësi": "",
+    "Gjendja": "",
+    "KordinataX": 21.16477,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520006,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16472,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520007,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16475,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520008,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16479,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520009,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1648,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520010,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16479,
+    "KordinataY": 42.659,
+    "Photo": ""
+  },
+  {
+    "id": 520011,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16473,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520012,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16476,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520013,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16478,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520014,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16476,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520015,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16476,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520016,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16469,
+    "KordinataY": 42.65888,
+    "Photo": ""
+  },
+  {
+    "id": 520017,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16469,
+    "KordinataY": 42.65886,
+    "Photo": ""
+  },
+  {
+    "id": "",
+    "Lloji": "",
+    "Lartësi": "",
+    "Gjendja": "",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.6588,
+    "Photo": ""
+  },
+  {
+    "id": 520018,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.6588,
+    "Photo": ""
+  },
+  {
+    "id": 520019,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65879,
+    "Photo": ""
+  },
+  {
+    "id": 520020,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65877,
+    "Photo": ""
+  },
+  {
+    "id": 520021,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65875,
+    "Photo": ""
+  },
+  {
+    "id": 520022,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520023,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520024,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65872,
+    "Photo": ""
+  },
+  {
+    "id": "",
+    "Lloji": "",
+    "Lartësi": "",
+    "Gjendja": "",
+    "KordinataX": 21.16467,
+    "KordinataY": 42.65868,
+    "Photo": ""
+  },
+  {
+    "id": 520025,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16467,
+    "KordinataY": 42.65868,
+    "Photo": ""
+  },
+  {
+    "id": 520026,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16467,
+    "KordinataY": 42.65867,
+    "Photo": ""
+  },
+  {
+    "id": 520028,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16467,
+    "KordinataY": 42.65861,
+    "Photo": ""
+  },
+  {
+    "id": 520027,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65864,
+    "Photo": ""
+  },
+  {
+    "id": 520029,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16467,
+    "KordinataY": 42.6586,
+    "Photo": ""
+  },
+  {
+    "id": 520030,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16467,
+    "KordinataY": 42.65858,
+    "Photo": ""
+  },
+  {
+    "id": 520031,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16466,
+    "KordinataY": 42.65856,
+    "Photo": ""
+  },
+  {
+    "id": 520032,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16465,
+    "KordinataY": 42.65855,
+    "Photo": ""
+  },
+  {
+    "id": 520033,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16466,
+    "KordinataY": 42.65853,
+    "Photo": ""
+  },
+  {
+    "id": 520034,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16466,
+    "KordinataY": 42.65852,
+    "Photo": ""
+  },
+  {
+    "id": 520035,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16466,
+    "KordinataY": 42.65851,
+    "Photo": ""
+  },
+  {
+    "id": 520036,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16466,
+    "KordinataY": 42.6585,
+    "Photo": ""
+  },
+  {
+    "id": 520038,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16467,
+    "KordinataY": 42.65849,
+    "Photo": ""
+  },
+  {
+    "id": 520039,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1647,
+    "KordinataY": 42.65848,
+    "Photo": ""
+  },
+  {
+    "id": 520040,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65848,
+    "Photo": ""
+  },
+  {
+    "id": 520041,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16469,
+    "KordinataY": 42.65848,
+    "Photo": ""
+  },
+  {
+    "id": 520042,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1647,
+    "KordinataY": 42.65845,
+    "Photo": ""
+  },
+  {
+    "id": 520043,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16466,
+    "KordinataY": 42.65843,
+    "Photo": ""
+  },
+  {
+    "id": 520044,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16471,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520045,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16468,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520046,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16472,
+    "KordinataY": 42.65829,
+    "Photo": ""
+  },
+  {
+    "id": 520047,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16463,
+    "KordinataY": 42.65828,
+    "Photo": ""
+  },
+  {
+    "id": 520048,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16473,
+    "KordinataY": 42.65821,
+    "Photo": ""
+  },
+  {
+    "id": 520049,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16464,
+    "KordinataY": 42.65819,
+    "Photo": ""
+  },
+  {
+    "id": 520050,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1644,
+    "KordinataY": 42.65756,
+    "Photo": ""
+  },
+  {
+    "id": 520051,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1644,
+    "KordinataY": 42.6576,
+    "Photo": ""
+  },
+  {
+    "id": 520052,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16441,
+    "KordinataY": 42.65766,
+    "Photo": ""
+  },
+  {
+    "id": 520053,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16442,
+    "KordinataY": 42.6577,
+    "Photo": ""
+  },
+  {
+    "id": 520055,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16441,
+    "KordinataY": 42.65778,
+    "Photo": ""
+  },
+  {
+    "id": 520056,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16441,
+    "KordinataY": 42.65782,
+    "Photo": ""
+  },
+  {
+    "id": 520057,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16445,
+    "KordinataY": 42.658,
+    "Photo": ""
+  },
+  {
+    "id": 520059,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16445,
+    "KordinataY": 42.65803,
+    "Photo": ""
+  },
+  {
+    "id": 520060,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16446,
+    "KordinataY": 42.65806,
+    "Photo": ""
+  },
+  {
+    "id": 520061,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16446,
+    "KordinataY": 42.65809,
+    "Photo": ""
+  },
+  {
+    "id": 520062,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16445,
+    "KordinataY": 42.65813,
+    "Photo": ""
+  },
+  {
+    "id": 520063,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16446,
+    "KordinataY": 42.65817,
+    "Photo": ""
+  },
+  {
+    "id": 520064,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16446,
+    "KordinataY": 42.65822,
+    "Photo": ""
+  },
+  {
+    "id": 520065,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16447,
+    "KordinataY": 42.65827,
+    "Photo": ""
+  },
+  {
+    "id": "",
+    "Lloji": "",
+    "Lartësi": "",
+    "Gjendja": "",
+    "KordinataX": 21.16447,
+    "KordinataY": 42.65828,
+    "Photo": ""
+  },
+  {
+    "id": 520067,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16446,
+    "KordinataY": 42.6583,
+    "Photo": ""
+  },
+  {
+    "id": 520068,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16448,
+    "KordinataY": 42.65833,
+    "Photo": ""
+  },
+  {
+    "id": 520069,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16448,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520070,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16448,
+    "KordinataY": 42.65843,
+    "Photo": ""
+  },
+  {
+    "id": 520071,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16449,
+    "KordinataY": 42.65845,
+    "Photo": ""
+  },
+  {
+    "id": 520072,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.1645,
+    "KordinataY": 42.65849,
+    "Photo": ""
+  },
+  {
+    "id": 520073,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1645,
+    "KordinataY": 42.65851,
+    "Photo": ""
+  },
+  {
+    "id": 520074,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1645,
+    "KordinataY": 42.65853,
+    "Photo": ""
+  },
+  {
+    "id": 520076,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16451,
+    "KordinataY": 42.65857,
+    "Photo": ""
+  },
+  {
+    "id": 520077,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16451,
+    "KordinataY": 42.65858,
+    "Photo": ""
+  },
+  {
+    "id": 520078,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16451,
+    "KordinataY": 42.6586,
+    "Photo": ""
+  },
+  {
+    "id": 520079,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16451,
+    "KordinataY": 42.65861,
+    "Photo": ""
+  },
+  {
+    "id": 520080,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16451,
+    "KordinataY": 42.65863,
+    "Photo": ""
+  },
+  {
+    "id": 520081,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16451,
+    "KordinataY": 42.65865,
+    "Photo": ""
+  },
+  {
+    "id": 520082,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16452,
+    "KordinataY": 42.65868,
+    "Photo": ""
+  },
+  {
+    "id": 520083,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16453,
+    "KordinataY": 42.65871,
+    "Photo": ""
+  },
+  {
+    "id": 520084,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16453,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520085,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16454,
+    "KordinataY": 42.65876,
+    "Photo": ""
+  },
+  {
+    "id": 520087,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16455,
+    "KordinataY": 42.65883,
+    "Photo": ""
+  },
+  {
+    "id": 520088,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16454,
+    "KordinataY": 42.65887,
+    "Photo": ""
+  },
+  {
+    "id": 520089,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16455,
+    "KordinataY": 42.65891,
+    "Photo": ""
+  },
+  {
+    "id": 520090,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16455,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520092,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16485,
+    "KordinataY": 42.65902,
+    "Photo": ""
+  },
+  {
+    "id": 520093,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16488,
+    "KordinataY": 42.65902,
+    "Photo": ""
+  },
+  {
+    "id": 520094,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1649,
+    "KordinataY": 42.65902,
+    "Photo": ""
+  },
+  {
+    "id": 520095,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16492,
+    "KordinataY": 42.65902,
+    "Photo": ""
+  },
+  {
+    "id": 520096,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16495,
+    "KordinataY": 42.65902,
+    "Photo": ""
+  },
+  {
+    "id": 520097,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16488,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 560098,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16489,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520099,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1649,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520100,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1649,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520101,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16488,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520102,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16489,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520103,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.6589,
+    "Photo": ""
+  },
+  {
+    "id": 520104,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520105,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16491,
+    "KordinataY": 42.65891,
+    "Photo": ""
+  },
+  {
+    "id": 52106,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.65899,
+    "Photo": ""
+  },
+  {
+    "id": 520107,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65891,
+    "Photo": ""
+  },
+  {
+    "id": 520108,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16489,
+    "KordinataY": 42.65891,
+    "Photo": ""
+  },
+  {
+    "id": 520109,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16484,
+    "KordinataY": 42.65884,
+    "Photo": "DCIM/20190519125821504.jpg"
+  },
+  {
+    "id": 520110,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16503,
+    "KordinataY": 42.65891,
+    "Photo": ""
+  },
+  {
+    "id": 520111,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16502,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520112,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520113,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16505,
+    "KordinataY": 42.6589,
+    "Photo": ""
+  },
+  {
+    "id": 520114,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.6589,
+    "Photo": ""
+  },
+  {
+    "id": 520115,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16505,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520116,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16505,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520117,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16505,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520118,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520119,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16505,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520120,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16502,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520121,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16502,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520122,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520123,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16507,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520124,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520125,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16503,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520126,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16502,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520127,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16502,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520128,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16502,
+    "KordinataY": 42.65899,
+    "Photo": ""
+  },
+  {
+    "id": 520129,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65899,
+    "Photo": ""
+  },
+  {
+    "id": 520130,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16506,
+    "KordinataY": 42.65901,
+    "Photo": ""
+  },
+  {
+    "id": 520131,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16503,
+    "KordinataY": 42.659,
+    "Photo": ""
+  },
+  {
+    "id": 520133,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16508,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520134,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16506,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520135,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16508,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520136,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1651,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520137,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520138,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16506,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520139,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16507,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520140,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16508,
+    "KordinataY": 42.65901,
+    "Photo": ""
+  },
+  {
+    "id": 520142,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520144,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520145,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520146,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520147,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520148,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520149,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520149,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520151,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520153,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520154,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1651,
+    "KordinataY": 42.65899,
+    "Photo": ""
+  },
+  {
+    "id": 520155,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65899,
+    "Photo": ""
+  },
+  {
+    "id": 520156,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65901,
+    "Photo": ""
+  },
+  {
+    "id": 520157,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520158,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520159,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16518,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520160,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520161,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520162,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520164,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520165,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520166,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520166,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65895,
+    "Photo": ""
+  },
+  {
+    "id": 520167,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520168,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520169,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65893,
+    "Photo": ""
+  },
+  {
+    "id": 520170,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65894,
+    "Photo": ""
+  },
+  {
+    "id": 520171,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65891,
+    "Photo": ""
+  },
+  {
+    "id": 520172,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65889,
+    "Photo": ""
+  },
+  {
+    "id": 520173,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65887,
+    "Photo": ""
+  },
+  {
+    "id": 520174,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.65886,
+    "Photo": ""
+  },
+  {
+    "id": 520175,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65886,
+    "Photo": ""
+  },
+  {
+    "id": 520176,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.65885,
+    "Photo": ""
+  },
+  {
+    "id": 520177,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65885,
+    "Photo": ""
+  },
+  {
+    "id": 520178,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65884,
+    "Photo": ""
+  },
+  {
+    "id": 520179,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16518,
+    "KordinataY": 42.65883,
+    "Photo": ""
+  },
+  {
+    "id": 520180,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65882,
+    "Photo": ""
+  },
+  {
+    "id": 520181,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65882,
+    "Photo": ""
+  },
+  {
+    "id": 520182,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.65881,
+    "Photo": ""
+  },
+  {
+    "id": 520183,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.6588,
+    "Photo": ""
+  },
+  {
+    "id": 520184,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16518,
+    "KordinataY": 42.65879,
+    "Photo": ""
+  },
+  {
+    "id": 520185,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65878,
+    "Photo": ""
+  },
+  {
+    "id": 520186,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16518,
+    "KordinataY": 42.65877,
+    "Photo": ""
+  },
+  {
+    "id": 520187,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65876,
+    "Photo": ""
+  },
+  {
+    "id": 520188,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16518,
+    "KordinataY": 42.65876,
+    "Photo": ""
+  },
+  {
+    "id": 520189,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.65875,
+    "Photo": ""
+  },
+  {
+    "id": 520190,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.65873,
+    "Photo": ""
+  },
+  {
+    "id": 520191,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.65872,
+    "Photo": ""
+  },
+  {
+    "id": 520192,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.6587,
+    "Photo": ""
+  },
+  {
+    "id": 520193,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65871,
+    "Photo": ""
+  },
+  {
+    "id": 520194,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65871,
+    "Photo": ""
+  },
+  {
+    "id": 520195,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65871,
+    "Photo": ""
+  },
+  {
+    "id": 520196,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65871,
+    "Photo": ""
+  },
+  {
+    "id": 520197,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65872,
+    "Photo": ""
+  },
+  {
+    "id": 520198,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.6587,
+    "Photo": ""
+  },
+  {
+    "id": 520199,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65871,
+    "Photo": ""
+  },
+  {
+    "id": 520200,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.6587,
+    "Photo": ""
+  },
+  {
+    "id": 520201,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65869,
+    "Photo": ""
+  },
+  {
+    "id": 520202,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65869,
+    "Photo": ""
+  },
+  {
+    "id": 520203,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65868,
+    "Photo": ""
+  },
+  {
+    "id": 520204,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65869,
+    "Photo": ""
+  },
+  {
+    "id": 520205,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65866,
+    "Photo": ""
+  },
+  {
+    "id": 520206,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65867,
+    "Photo": ""
+  },
+  {
+    "id": 520207,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65867,
+    "Photo": ""
+  },
+  {
+    "id": 520208,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16507,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520209,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16507,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520210,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16505,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520211,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520212,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16502,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520213,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.165,
+    "KordinataY": 42.65873,
+    "Photo": ""
+  },
+  {
+    "id": 520214,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16499,
+    "KordinataY": 42.65873,
+    "Photo": ""
+  },
+  {
+    "id": 520215,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16498,
+    "KordinataY": 42.65873,
+    "Photo": ""
+  },
+  {
+    "id": 520216,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.65873,
+    "Photo": ""
+  },
+  {
+    "id": 520217,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16495,
+    "KordinataY": 42.65873,
+    "Photo": ""
+  },
+  {
+    "id": 520219,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65873,
+    "Photo": ""
+  },
+  {
+    "id": 520220,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65874,
+    "Photo": ""
+  },
+  {
+    "id": 520221,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16489,
+    "KordinataY": 42.65869,
+    "Photo": ""
+  },
+  {
+    "id": 520222,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16489,
+    "KordinataY": 42.65866,
+    "Photo": ""
+  },
+  {
+    "id": 520223,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1649,
+    "KordinataY": 42.65864,
+    "Photo": ""
+  },
+  {
+    "id": 520224,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1649,
+    "KordinataY": 42.65861,
+    "Photo": ""
+  },
+  {
+    "id": 520225,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1649,
+    "KordinataY": 42.65859,
+    "Photo": ""
+  },
+  {
+    "id": 520226,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16492,
+    "KordinataY": 42.65854,
+    "Photo": ""
+  },
+  {
+    "id": 520227,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16493,
+    "KordinataY": 42.65852,
+    "Photo": ""
+  },
+  {
+    "id": 520228,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16493,
+    "KordinataY": 42.65851,
+    "Photo": ""
+  },
+  {
+    "id": 520228,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16493,
+    "KordinataY": 42.65849,
+    "Photo": ""
+  },
+  {
+    "id": 520229,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16493,
+    "KordinataY": 42.65847,
+    "Photo": ""
+  },
+  {
+    "id": 520230,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65845,
+    "Photo": ""
+  },
+  {
+    "id": 520231,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65844,
+    "Photo": ""
+  },
+  {
+    "id": 520232,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65842,
+    "Photo": ""
+  },
+  {
+    "id": 520233,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.6584,
+    "Photo": ""
+  },
+  {
+    "id": 520234,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65837,
+    "Photo": ""
+  },
+  {
+    "id": 520235,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65835,
+    "Photo": ""
+  },
+  {
+    "id": 520236,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520237,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65832,
+    "Photo": ""
+  },
+  {
+    "id": 520238,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16495,
+    "KordinataY": 42.6583,
+    "Photo": ""
+  },
+  {
+    "id": 520239,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16495,
+    "KordinataY": 42.65828,
+    "Photo": ""
+  },
+  {
+    "id": 520240,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16495,
+    "KordinataY": 42.65826,
+    "Photo": ""
+  },
+  {
+    "id": 520241,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.65825,
+    "Photo": ""
+  },
+  {
+    "id": 520242,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.65823,
+    "Photo": ""
+  },
+  {
+    "id": 520243,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.6582,
+    "Photo": ""
+  },
+  {
+    "id": 520244,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.65817,
+    "Photo": ""
+  },
+  {
+    "id": 520245,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65857,
+    "Photo": ""
+  },
+  {
+    "id": 8520246,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65857,
+    "Photo": ""
+  },
+  {
+    "id": 520247,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65856,
+    "Photo": ""
+  },
+  {
+    "id": 520248,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65856,
+    "Photo": ""
+  },
+  {
+    "id": 520249,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65853,
+    "Photo": ""
+  },
+  {
+    "id": 520251,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65852,
+    "Photo": ""
+  },
+  {
+    "id": 8520252,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.6585,
+    "Photo": ""
+  },
+  {
+    "id": 8520253,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65845,
+    "Photo": ""
+  },
+  {
+    "id": 520254,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65844,
+    "Photo": ""
+  },
+  {
+    "id": 520255,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65843,
+    "Photo": ""
+  },
+  {
+    "id": 520256,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16517,
+    "KordinataY": 42.65842,
+    "Photo": ""
+  },
+  {
+    "id": 520257,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65841,
+    "Photo": ""
+  },
+  {
+    "id": 8520258,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16516,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520270,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520271,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520272,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.6583,
+    "Photo": ""
+  },
+  {
+    "id": 520273,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16511,
+    "KordinataY": 42.65828,
+    "Photo": ""
+  },
+  {
+    "id": 520274,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65827,
+    "Photo": ""
+  },
+  {
+    "id": 520275,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65825,
+    "Photo": ""
+  },
+  {
+    "id": 530276,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65822,
+    "Photo": ""
+  },
+  {
+    "id": 520277,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.6582,
+    "Photo": ""
+  },
+  {
+    "id": 520278,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65819,
+    "Photo": ""
+  },
+  {
+    "id": 520279,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65818,
+    "Photo": ""
+  },
+  {
+    "id": 520280,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65819,
+    "Photo": ""
+  },
+  {
+    "id": 520281,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65817,
+    "Photo": ""
+  },
+  {
+    "id": 520282,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16512,
+    "KordinataY": 42.65815,
+    "Photo": ""
+  },
+  {
+    "id": 520283,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65814,
+    "Photo": ""
+  },
+  {
+    "id": 520284,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16514,
+    "KordinataY": 42.65814,
+    "Photo": ""
+  },
+  {
+    "id": 520285,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65813,
+    "Photo": ""
+  },
+  {
+    "id": 520286,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65811,
+    "Photo": ""
+  },
+  {
+    "id": 8520287,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.6581,
+    "Photo": ""
+  },
+  {
+    "id": 520288,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65809,
+    "Photo": ""
+  },
+  {
+    "id": 520289,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65808,
+    "Photo": ""
+  },
+  {
+    "id": 520290,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65806,
+    "Photo": ""
+  },
+  {
+    "id": 520292,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16485,
+    "KordinataY": 42.6579,
+    "Photo": ""
+  },
+  {
+    "id": 520291,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16488,
+    "KordinataY": 42.65792,
+    "Photo": ""
+  },
+  {
+    "id": 520293,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16491,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520294,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16491,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520295,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16494,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520296,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520297,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16497,
+    "KordinataY": 42.65795,
+    "Photo": ""
+  },
+  {
+    "id": 520298,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16499,
+    "KordinataY": 42.65795,
+    "Photo": ""
+  },
+  {
+    "id": 520299,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.165,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520300,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.165,
+    "KordinataY": 42.65795,
+    "Photo": ""
+  },
+  {
+    "id": 520301,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.165,
+    "KordinataY": 42.65792,
+    "Photo": ""
+  },
+  {
+    "id": 520302,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.165,
+    "KordinataY": 42.65791,
+    "Photo": ""
+  },
+  {
+    "id": 520303,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.165,
+    "KordinataY": 42.65789,
+    "Photo": ""
+  },
+  {
+    "id": 520304,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16501,
+    "KordinataY": 42.65788,
+    "Photo": ""
+  },
+  {
+    "id": 520305,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16498,
+    "KordinataY": 42.65788,
+    "Photo": ""
+  },
+  {
+    "id": 520306,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16497,
+    "KordinataY": 42.6579,
+    "Photo": ""
+  },
+  {
+    "id": 520307,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16497,
+    "KordinataY": 42.65792,
+    "Photo": ""
+  },
+  {
+    "id": 520308,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16493,
+    "KordinataY": 42.65791,
+    "Photo": ""
+  },
+  {
+    "id": 520309,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16495,
+    "KordinataY": 42.65791,
+    "Photo": ""
+  },
+  {
+    "id": 520310,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16503,
+    "KordinataY": 42.65786,
+    "Photo": "DCIM/20190521092341526.jpg"
+  },
+  {
+    "id": 5203011,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16507,
+    "KordinataY": 42.65785,
+    "Photo": "DCIM/20190521092447831.jpg"
+  },
+  {
+    "id": 520312,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16484,
+    "KordinataY": 42.65768,
+    "Photo": ""
+  },
+  {
+    "id": 520313,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16484,
+    "KordinataY": 42.65767,
+    "Photo": ""
+  },
+  {
+    "id": 520314,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16484,
+    "KordinataY": 42.65766,
+    "Photo": ""
+  },
+  {
+    "id": 520315,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16484,
+    "KordinataY": 42.65765,
+    "Photo": ""
+  },
+  {
+    "id": 520316,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16484,
+    "KordinataY": 42.65764,
+    "Photo": ""
+  },
+  {
+    "id": 520317,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16483,
+    "KordinataY": 42.65763,
+    "Photo": ""
+  },
+  {
+    "id": 520318,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16483,
+    "KordinataY": 42.65762,
+    "Photo": ""
+  },
+  {
+    "id": 520319,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16484,
+    "KordinataY": 42.65761,
+    "Photo": ""
+  },
+  {
+    "id": 520320,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16485,
+    "KordinataY": 42.65761,
+    "Photo": ""
+  },
+  {
+    "id": 520321,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16486,
+    "KordinataY": 42.65761,
+    "Photo": ""
+  },
+  {
+    "id": 520322,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16487,
+    "KordinataY": 42.6576,
+    "Photo": ""
+  },
+  {
+    "id": 520323,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16485,
+    "KordinataY": 42.65761,
+    "Photo": ""
+  },
+  {
+    "id": 520324,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16488,
+    "KordinataY": 42.65761,
+    "Photo": ""
+  },
+  {
+    "id": 520325,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16488,
+    "KordinataY": 42.65762,
+    "Photo": ""
+  },
+  {
+    "id": 520326,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16487,
+    "KordinataY": 42.65762,
+    "Photo": ""
+  },
+  {
+    "id": 520327,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16486,
+    "KordinataY": 42.65763,
+    "Photo": ""
+  },
+  {
+    "id": 520328,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16485,
+    "KordinataY": 42.65762,
+    "Photo": ""
+  },
+  {
+    "id": 8520329,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16485,
+    "KordinataY": 42.65764,
+    "Photo": ""
+  },
+  {
+    "id": 520330,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16501,
+    "KordinataY": 42.65762,
+    "Photo": ""
+  },
+  {
+    "id": 520331,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16501,
+    "KordinataY": 42.65764,
+    "Photo": ""
+  },
+  {
+    "id": 520332,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16501,
+    "KordinataY": 42.65767,
+    "Photo": ""
+  },
+  {
+    "id": 520333,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.6576,
+    "Photo": ""
+  },
+  {
+    "id": 520334,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65762,
+    "Photo": ""
+  },
+  {
+    "id": 520335,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65764,
+    "Photo": ""
+  },
+  {
+    "id": 520336,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65766,
+    "Photo": ""
+  },
+  {
+    "id": 520337,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16504,
+    "KordinataY": 42.65768,
+    "Photo": ""
+  },
+  {
+    "id": 520339,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16536,
+    "KordinataY": 42.65724,
+    "Photo": ""
+  },
+  {
+    "id": 520340,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16535,
+    "KordinataY": 42.65727,
+    "Photo": ""
+  },
+  {
+    "id": 520341,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16531,
+    "KordinataY": 42.65724,
+    "Photo": ""
+  },
+  {
+    "id": 520342,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16528,
+    "KordinataY": 42.65724,
+    "Photo": ""
+  },
+  {
+    "id": 520343,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16528,
+    "KordinataY": 42.65726,
+    "Photo": ""
+  },
+  {
+    "id": 520344,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16529,
+    "KordinataY": 42.65726,
+    "Photo": ""
+  },
+  {
+    "id": 520345,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16528,
+    "KordinataY": 42.65728,
+    "Photo": ""
+  },
+  {
+    "id": 520346,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16524,
+    "KordinataY": 42.65731,
+    "Photo": ""
+  },
+  {
+    "id": 520347,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16524,
+    "KordinataY": 42.65733,
+    "Photo": ""
+  },
+  {
+    "id": 520348,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16525,
+    "KordinataY": 42.65736,
+    "Photo": ""
+  },
+  {
+    "id": 520349,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16525,
+    "KordinataY": 42.65739,
+    "Photo": ""
+  },
+  {
+    "id": 520350,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16526,
+    "KordinataY": 42.65735,
+    "Photo": ""
+  },
+  {
+    "id": 520351,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16527,
+    "KordinataY": 42.65737,
+    "Photo": ""
+  },
+  {
+    "id": 520352,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16528,
+    "KordinataY": 42.6574,
+    "Photo": ""
+  },
+  {
+    "id": 8520353,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16532,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  },
+  {
+    "id": 8520354,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16531,
+    "KordinataY": 42.65735,
+    "Photo": ""
+  },
+  {
+    "id": 8520355,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16531,
+    "KordinataY": 42.65732,
+    "Photo": ""
+  },
+  {
+    "id": 8520356,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16532,
+    "KordinataY": 42.65729,
+    "Photo": ""
+  },
+  {
+    "id": 520357,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1653,
+    "KordinataY": 42.65736,
+    "Photo": ""
+  },
+  {
+    "id": 520358,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16528,
+    "KordinataY": 42.65737,
+    "Photo": ""
+  },
+  {
+    "id": 520359,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16531,
+    "KordinataY": 42.65741,
+    "Photo": ""
+  },
+  {
+    "id": 8520360,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16528,
+    "KordinataY": 42.65741,
+    "Photo": ""
+  },
+  {
+    "id": 520361,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16525,
+    "KordinataY": 42.65742,
+    "Photo": ""
+  },
+  {
+    "id": 8520362,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16533,
+    "KordinataY": 42.65741,
+    "Photo": ""
+  },
+  {
+    "id": 520363,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1653,
+    "KordinataY": 42.65741,
+    "Photo": ""
+  },
+  {
+    "id": 520364,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16526,
+    "KordinataY": 42.65742,
+    "Photo": ""
+  },
+  {
+    "id": 520365,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1652,
+    "KordinataY": 42.65741,
+    "Photo": ""
+  },
+  {
+    "id": 520366,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1652,
+    "KordinataY": 42.6574,
+    "Photo": "DCIM/20190521095207179.jpg"
+  },
+  {
+    "id": 520370,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16537,
+    "KordinataY": 42.65763,
+    "Photo": ""
+  },
+  {
+    "id": 520371,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16537,
+    "KordinataY": 42.65774,
+    "Photo": ""
+  },
+  {
+    "id": 520372,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1654,
+    "KordinataY": 42.65785,
+    "Photo": ""
+  },
+  {
+    "id": 8520373,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "",
+    "KordinataX": 21.16548,
+    "KordinataY": 42.65785,
+    "Photo": ""
+  },
+  {
+    "id": 8520374,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16553,
+    "KordinataY": 42.65784,
+    "Photo": ""
+  },
+  {
+    "id": 520376,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16558,
+    "KordinataY": 42.65784,
+    "Photo": ""
+  },
+  {
+    "id": 520377,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16562,
+    "KordinataY": 42.65783,
+    "Photo": ""
+  },
+  {
+    "id": 520378,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16566,
+    "KordinataY": 42.65783,
+    "Photo": ""
+  },
+  {
+    "id": 520379,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16569,
+    "KordinataY": 42.65783,
+    "Photo": ""
+  },
+  {
+    "id": 520381,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1653,
+    "KordinataY": 42.65836,
+    "Photo": ""
+  },
+  {
+    "id": 8520382,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16533,
+    "KordinataY": 42.65837,
+    "Photo": ""
+  },
+  {
+    "id": 520383,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16531,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520384,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16531,
+    "KordinataY": 42.65845,
+    "Photo": ""
+  },
+  {
+    "id": 520385,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16531,
+    "KordinataY": 42.65848,
+    "Photo": ""
+  },
+  {
+    "id": 8520386,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16535,
+    "KordinataY": 42.65849,
+    "Photo": ""
+  },
+  {
+    "id": 520387,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16529,
+    "KordinataY": 42.6585,
+    "Photo": ""
+  },
+  {
+    "id": 520393,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16534,
+    "KordinataY": 42.65878,
+    "Photo": ""
+  },
+  {
+    "id": 520394,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16537,
+    "KordinataY": 42.65892,
+    "Photo": ""
+  },
+  {
+    "id": 520396,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16539,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520397,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16541,
+    "KordinataY": 42.65898,
+    "Photo": ""
+  },
+  {
+    "id": 520398,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16547,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520399,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16551,
+    "KordinataY": 42.65897,
+    "Photo": ""
+  },
+  {
+    "id": 520400,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16553,
+    "KordinataY": 42.65888,
+    "Photo": ""
+  },
+  {
+    "id": 520401,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16556,
+    "KordinataY": 42.65886,
+    "Photo": ""
+  },
+  {
+    "id": 520401,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1656,
+    "KordinataY": 42.6589,
+    "Photo": ""
+  },
+  {
+    "id": 520403,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1656,
+    "KordinataY": 42.65896,
+    "Photo": ""
+  },
+  {
+    "id": 520404,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16561,
+    "KordinataY": 42.6588,
+    "Photo": ""
+  },
+  {
+    "id": 520407,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16595,
+    "KordinataY": 42.65899,
+    "Photo": ""
+  },
+  {
+    "id": 520411,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16632,
+    "KordinataY": 42.65856,
+    "Photo": ""
+  },
+  {
+    "id": 520412,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16632,
+    "KordinataY": 42.65854,
+    "Photo": ""
+  },
+  {
+    "id": 520413,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16632,
+    "KordinataY": 42.65852,
+    "Photo": ""
+  },
+  {
+    "id": 520415,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16641,
+    "KordinataY": 42.65836,
+    "Photo": ""
+  },
+  {
+    "id": 520416,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16642,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520417,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1663,
+    "KordinataY": 42.65848,
+    "Photo": ""
+  },
+  {
+    "id": 8520418,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16631,
+    "KordinataY": 42.65846,
+    "Photo": ""
+  },
+  {
+    "id": 520419,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1663,
+    "KordinataY": 42.65845,
+    "Photo": ""
+  },
+  {
+    "id": 520420,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16628,
+    "KordinataY": 42.65841,
+    "Photo": ""
+  },
+  {
+    "id": 520421,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16626,
+    "KordinataY": 42.65841,
+    "Photo": ""
+  },
+  {
+    "id": 520422,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16623,
+    "KordinataY": 42.65841,
+    "Photo": ""
+  },
+  {
+    "id": 520424,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16608,
+    "KordinataY": 42.65829,
+    "Photo": ""
+  },
+  {
+    "id": 520425,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16605,
+    "KordinataY": 42.65829,
+    "Photo": ""
+  },
+  {
+    "id": 520426,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16603,
+    "KordinataY": 42.65829,
+    "Photo": ""
+  },
+  {
+    "id": 520427,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16601,
+    "KordinataY": 42.65829,
+    "Photo": ""
+  },
+  {
+    "id": 520428,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16608,
+    "KordinataY": 42.65831,
+    "Photo": ""
+  },
+  {
+    "id": 520429,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16601,
+    "KordinataY": 42.65831,
+    "Photo": ""
+  },
+  {
+    "id": 8520430,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16598,
+    "KordinataY": 42.65831,
+    "Photo": ""
+  },
+  {
+    "id": 520431,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16607,
+    "KordinataY": 42.65829,
+    "Photo": ""
+  },
+  {
+    "id": 520432,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16592,
+    "KordinataY": 42.6584,
+    "Photo": "DCIM/20190524144117190.jpg"
+  },
+  {
+    "id": 520433,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16589,
+    "KordinataY": 42.65849,
+    "Photo": ""
+  },
+  {
+    "id": 520434,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16588,
+    "KordinataY": 42.65847,
+    "Photo": ""
+  },
+  {
+    "id": 520435,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16588,
+    "KordinataY": 42.65845,
+    "Photo": ""
+  },
+  {
+    "id": 520436,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16588,
+    "KordinataY": 42.65842,
+    "Photo": ""
+  },
+  {
+    "id": 8520437,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520438,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65838,
+    "Photo": ""
+  },
+  {
+    "id": 520439,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65836,
+    "Photo": ""
+  },
+  {
+    "id": 520440,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65835,
+    "Photo": ""
+  },
+  {
+    "id": 520441,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520442,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520443,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65833,
+    "Photo": ""
+  },
+  {
+    "id": 520444,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65832,
+    "Photo": ""
+  },
+  {
+    "id": 520445,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65832,
+    "Photo": ""
+  },
+  {
+    "id": 520446,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65831,
+    "Photo": ""
+  },
+  {
+    "id": 520447,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65831,
+    "Photo": ""
+  },
+  {
+    "id": 520448,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.6583,
+    "Photo": ""
+  },
+  {
+    "id": 520449,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1658,
+    "KordinataY": 42.65834,
+    "Photo": "DCIM/20190524144835567.jpg"
+  },
+  {
+    "id": 520450,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1658,
+    "KordinataY": 42.65835,
+    "Photo": ""
+  },
+  {
+    "id": 520451,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16579,
+    "KordinataY": 42.65831,
+    "Photo": ""
+  },
+  {
+    "id": 520452,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16576,
+    "KordinataY": 42.65831,
+    "Photo": ""
+  },
+  {
+    "id": 520453,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16572,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520454,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16572,
+    "KordinataY": 42.65838,
+    "Photo": ""
+  },
+  {
+    "id": 520455,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16572,
+    "KordinataY": 42.65837,
+    "Photo": ""
+  },
+  {
+    "id": 520456,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16572,
+    "KordinataY": 42.65835,
+    "Photo": ""
+  },
+  {
+    "id": 520457,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16572,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520458,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16572,
+    "KordinataY": 42.65833,
+    "Photo": ""
+  },
+  {
+    "id": 520459,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16571,
+    "KordinataY": 42.65832,
+    "Photo": ""
+  },
+  {
+    "id": 520460,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16569,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520461,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16568,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520462,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16566,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520463,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16564,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520464,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16567,
+    "KordinataY": 42.65833,
+    "Photo": ""
+  },
+  {
+    "id": 520465,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1657,
+    "KordinataY": 42.65834,
+    "Photo": ""
+  },
+  {
+    "id": 520466,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16555,
+    "KordinataY": 42.65837,
+    "Photo": ""
+  },
+  {
+    "id": 520467,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16555,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520468,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16549,
+    "KordinataY": 42.65836,
+    "Photo": ""
+  },
+  {
+    "id": 520469,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16548,
+    "KordinataY": 42.65838,
+    "Photo": ""
+  },
+  {
+    "id": 520470,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16549,
+    "KordinataY": 42.65839,
+    "Photo": ""
+  },
+  {
+    "id": 520471,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16549,
+    "KordinataY": 42.65841,
+    "Photo": ""
+  },
+  {
+    "id": 520472,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16549,
+    "KordinataY": 42.65843,
+    "Photo": ""
+  },
+  {
+    "id": 520473,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1655,
+    "KordinataY": 42.65844,
+    "Photo": ""
+  },
+  {
+    "id": 520475,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16566,
+    "KordinataY": 42.65797,
+    "Photo": ""
+  },
+  {
+    "id": 520476,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16569,
+    "KordinataY": 42.65797,
+    "Photo": ""
+  },
+  {
+    "id": 520477,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16571,
+    "KordinataY": 42.65797,
+    "Photo": ""
+  },
+  {
+    "id": 520478,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16573,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520479,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16573,
+    "KordinataY": 42.65797,
+    "Photo": ""
+  },
+  {
+    "id": 520480,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16606,
+    "KordinataY": 42.65818,
+    "Photo": ""
+  },
+  {
+    "id": 520481,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16608,
+    "KordinataY": 42.65818,
+    "Photo": ""
+  },
+  {
+    "id": 520482,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16608,
+    "KordinataY": 42.65819,
+    "Photo": ""
+  },
+  {
+    "id": 520483,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16609,
+    "KordinataY": 42.65819,
+    "Photo": ""
+  },
+  {
+    "id": 520484,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16614,
+    "KordinataY": 42.65819,
+    "Photo": ""
+  },
+  {
+    "id": 520485,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16616,
+    "KordinataY": 42.65819,
+    "Photo": ""
+  },
+  {
+    "id": 520486,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16622,
+    "KordinataY": 42.65818,
+    "Photo": ""
+  },
+  {
+    "id": 520487,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16622,
+    "KordinataY": 42.65815,
+    "Photo": ""
+  },
+  {
+    "id": 520488,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16624,
+    "KordinataY": 42.65811,
+    "Photo": ""
+  },
+  {
+    "id": 520489,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1662,
+    "KordinataY": 42.6581,
+    "Photo": ""
+  },
+  {
+    "id": 8520490,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16623,
+    "KordinataY": 42.65806,
+    "Photo": ""
+  },
+  {
+    "id": 520491,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16622,
+    "KordinataY": 42.65802,
+    "Photo": ""
+  },
+  {
+    "id": 520492,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16618,
+    "KordinataY": 42.658,
+    "Photo": ""
+  },
+  {
+    "id": 520493,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16617,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520494,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16613,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520495,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16605,
+    "KordinataY": 42.65799,
+    "Photo": ""
+  },
+  {
+    "id": 520497,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1664,
+    "KordinataY": 42.65802,
+    "Photo": ""
+  },
+  {
+    "id": 520498,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16637,
+    "KordinataY": 42.65798,
+    "Photo": ""
+  },
+  {
+    "id": 520499,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16642,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520500,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16639,
+    "KordinataY": 42.65794,
+    "Photo": ""
+  },
+  {
+    "id": 520501,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16642,
+    "KordinataY": 42.65793,
+    "Photo": ""
+  },
+  {
+    "id": 520502,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16644,
+    "KordinataY": 42.65791,
+    "Photo": ""
+  },
+  {
+    "id": 520503,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16637,
+    "KordinataY": 42.6579,
+    "Photo": ""
+  },
+  {
+    "id": 520504,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16638,
+    "KordinataY": 42.65786,
+    "Photo": ""
+  },
+  {
+    "id": 520505,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1664,
+    "KordinataY": 42.65784,
+    "Photo": ""
+  },
+  {
+    "id": 520506,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16644,
+    "KordinataY": 42.65785,
+    "Photo": ""
+  },
+  {
+    "id": 520507,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16637,
+    "KordinataY": 42.65781,
+    "Photo": ""
+  },
+  {
+    "id": 520509,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16613,
+    "KordinataY": 42.65763,
+    "Photo": ""
+  },
+  {
+    "id": 520511,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16605,
+    "KordinataY": 42.65764,
+    "Photo": ""
+  },
+  {
+    "id": 520512,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16609,
+    "KordinataY": 42.65757,
+    "Photo": ""
+  },
+  {
+    "id": 520513,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16608,
+    "KordinataY": 42.65754,
+    "Photo": ""
+  },
+  {
+    "id": 520514,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16605,
+    "KordinataY": 42.65753,
+    "Photo": ""
+  },
+  {
+    "id": 520515,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16603,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520516,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16601,
+    "KordinataY": 42.65752,
+    "Photo": ""
+  },
+  {
+    "id": 520517,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16651,
+    "KordinataY": 42.65775,
+    "Photo": ""
+  },
+  {
+    "id": 520518,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16647,
+    "KordinataY": 42.65774,
+    "Photo": ""
+  },
+  {
+    "id": 520519,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16645,
+    "KordinataY": 42.65773,
+    "Photo": ""
+  },
+  {
+    "id": 520520,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16642,
+    "KordinataY": 42.65773,
+    "Photo": ""
+  },
+  {
+    "id": 520521,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16639,
+    "KordinataY": 42.65772,
+    "Photo": ""
+  },
+  {
+    "id": 520522,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16637,
+    "KordinataY": 42.65772,
+    "Photo": ""
+  },
+  {
+    "id": 520538,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16626,
+    "KordinataY": 42.65756,
+    "Photo": ""
+  },
+  {
+    "id": 520537,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16626,
+    "KordinataY": 42.65758,
+    "Photo": ""
+  },
+  {
+    "id": 8520536,
+    "Lloji": "",
+    "Lartësi": "",
+    "Gjendja": "",
+    "KordinataX": 21.16627,
+    "KordinataY": 42.6576,
+    "Photo": ""
+  },
+  {
+    "id": 520535,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16627,
+    "KordinataY": 42.65761,
+    "Photo": ""
+  },
+  {
+    "id": 520534,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16627,
+    "KordinataY": 42.65763,
+    "Photo": ""
+  },
+  {
+    "id": 520533,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16628,
+    "KordinataY": 42.65764,
+    "Photo": ""
+  },
+  {
+    "id": 520532,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16628,
+    "KordinataY": 42.65765,
+    "Photo": ""
+  },
+  {
+    "id": 520531,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16628,
+    "KordinataY": 42.65766,
+    "Photo": ""
+  },
+  {
+    "id": 520530,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16628,
+    "KordinataY": 42.65767,
+    "Photo": ""
+  },
+  {
+    "id": 520529,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16628,
+    "KordinataY": 42.65768,
+    "Photo": ""
+  },
+  {
+    "id": 520528,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16629,
+    "KordinataY": 42.65769,
+    "Photo": ""
+  },
+  {
+    "id": 520527,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1663,
+    "KordinataY": 42.65769,
+    "Photo": ""
+  },
+  {
+    "id": 520526,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16631,
+    "KordinataY": 42.6577,
+    "Photo": ""
+  },
+  {
+    "id": 520525,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16633,
+    "KordinataY": 42.6577,
+    "Photo": ""
+  },
+  {
+    "id": 520524,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16634,
+    "KordinataY": 42.65771,
+    "Photo": ""
+  },
+  {
+    "id": 520523,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16635,
+    "KordinataY": 42.65771,
+    "Photo": ""
+  },
+  {
+    "id": 520539,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16628,
+    "KordinataY": 42.65755,
+    "Photo": ""
+  },
+  {
+    "id": 520540,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1663,
+    "KordinataY": 42.65754,
+    "Photo": ""
+  },
+  {
+    "id": 520541,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16632,
+    "KordinataY": 42.65752,
+    "Photo": ""
+  },
+  {
+    "id": 520542,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16634,
+    "KordinataY": 42.65752,
+    "Photo": ""
+  },
+  {
+    "id": 520543,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16636,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520544,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16638,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520545,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1664,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520546,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16642,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520547,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16644,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520548,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16646,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520549,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16649,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520550,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16651,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520551,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16653,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520552,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16655,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520553,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16655,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520554,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16657,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520555,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16658,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520556,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16659,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520557,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16661,
+    "KordinataY": 42.65751,
+    "Photo": ""
+  },
+  {
+    "id": 520560,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16617,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  },
+  {
+    "id": 520561,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1662,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  },
+  {
+    "id": 520562,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16623,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  },
+  {
+    "id": 520563,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16623,
+    "KordinataY": 42.65734,
+    "Photo": ""
+  },
+  {
+    "id": 520564,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16617,
+    "KordinataY": 42.65731,
+    "Photo": ""
+  },
+  {
+    "id": 520565,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16603,
+    "KordinataY": 42.65734,
+    "Photo": ""
+  },
+  {
+    "id": 520566,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16617,
+    "KordinataY": 42.65726,
+    "Photo": ""
+  },
+  {
+    "id": 520567,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16627,
+    "KordinataY": 42.65725,
+    "Photo": ""
+  },
+  {
+    "id": 520568,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1663,
+    "KordinataY": 42.65724,
+    "Photo": ""
+  },
+  {
+    "id": 520569,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16634,
+    "KordinataY": 42.65723,
+    "Photo": ""
+  },
+  {
+    "id": 520570,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16634,
+    "KordinataY": 42.6572,
+    "Photo": ""
+  },
+  {
+    "id": 520571,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16627,
+    "KordinataY": 42.65721,
+    "Photo": ""
+  },
+  {
+    "id": 520573,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16626,
+    "KordinataY": 42.65721,
+    "Photo": ""
+  },
+  {
+    "id": 520574,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16618,
+    "KordinataY": 42.65721,
+    "Photo": ""
+  },
+  {
+    "id": 520575,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16616,
+    "KordinataY": 42.65721,
+    "Photo": ""
+  },
+  {
+    "id": 520576,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16612,
+    "KordinataY": 42.65719,
+    "Photo": ""
+  },
+  {
+    "id": 520577,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16612,
+    "KordinataY": 42.65716,
+    "Photo": ""
+  },
+  {
+    "id": 520578,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16611,
+    "KordinataY": 42.65712,
+    "Photo": ""
+  },
+  {
+    "id": 520579,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1661,
+    "KordinataY": 42.65709,
+    "Photo": ""
+  },
+  {
+    "id": 520580,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16612,
+    "KordinataY": 42.65708,
+    "Photo": ""
+  },
+  {
+    "id": 520581,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16617,
+    "KordinataY": 42.65707,
+    "Photo": ""
+  },
+  {
+    "id": 520582,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16617,
+    "KordinataY": 42.65709,
+    "Photo": ""
+  },
+  {
+    "id": 520584,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16595,
+    "KordinataY": 42.65713,
+    "Photo": ""
+  },
+  {
+    "id": 520585,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16592,
+    "KordinataY": 42.6571,
+    "Photo": ""
+  },
+  {
+    "id": 520586,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16584,
+    "KordinataY": 42.65711,
+    "Photo": ""
+  },
+  {
+    "id": 520587,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16575,
+    "KordinataY": 42.65712,
+    "Photo": ""
+  },
+  {
+    "id": 520588,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1657,
+    "KordinataY": 42.65711,
+    "Photo": ""
+  },
+  {
+    "id": 520589,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16584,
+    "KordinataY": 42.65713,
+    "Photo": ""
+  },
+  {
+    "id": 520590,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16576,
+    "KordinataY": 42.65714,
+    "Photo": ""
+  },
+  {
+    "id": 520591,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16577,
+    "KordinataY": 42.65716,
+    "Photo": ""
+  },
+  {
+    "id": 520592,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16577,
+    "KordinataY": 42.65723,
+    "Photo": ""
+  },
+  {
+    "id": 520593,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16575,
+    "KordinataY": 42.65713,
+    "Photo": ""
+  },
+  {
+    "id": 520594,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16577,
+    "KordinataY": 42.65713,
+    "Photo": ""
+  },
+  {
+    "id": 520597,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16566,
+    "KordinataY": 42.65712,
+    "Photo": ""
+  },
+  {
+    "id": 520596,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16561,
+    "KordinataY": 42.65712,
+    "Photo": ""
+  },
+  {
+    "id": 520598,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16558,
+    "KordinataY": 42.65712,
+    "Photo": ""
+  },
+  {
+    "id": 520599,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16556,
+    "KordinataY": 42.65713,
+    "Photo": ""
+  },
+  {
+    "id": 520600,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16549,
+    "KordinataY": 42.65716,
+    "Photo": ""
+  },
+  {
+    "id": 520601,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16548,
+    "KordinataY": 42.65716,
+    "Photo": ""
+  },
+  {
+    "id": 520602,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16546,
+    "KordinataY": 42.65716,
+    "Photo": ""
+  },
+  {
+    "id": 520603,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16545,
+    "KordinataY": 42.65716,
+    "Photo": ""
+  },
+  {
+    "id": 520604,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16543,
+    "KordinataY": 42.65716,
+    "Photo": ""
+  },
+  {
+    "id": 520605,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16547,
+    "KordinataY": 42.65725,
+    "Photo": ""
+  },
+  {
+    "id": 520606,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16547,
+    "KordinataY": 42.6572,
+    "Photo": ""
+  },
+  {
+    "id": 520606,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16548,
+    "KordinataY": 42.65722,
+    "Photo": ""
+  },
+  {
+    "id": 520607,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.1655,
+    "KordinataY": 42.65721,
+    "Photo": ""
+  },
+  {
+    "id": 520608,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1655,
+    "KordinataY": 42.65719,
+    "Photo": ""
+  },
+  {
+    "id": 520609,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16551,
+    "KordinataY": 42.65723,
+    "Photo": ""
+  },
+  {
+    "id": 520610,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16551,
+    "KordinataY": 42.65726,
+    "Photo": ""
+  },
+  {
+    "id": 520616,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16642,
+    "KordinataY": 42.657,
+    "Photo": ""
+  },
+  {
+    "id": 520617,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16644,
+    "KordinataY": 42.65699,
+    "Photo": ""
+  },
+  {
+    "id": 520618,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16645,
+    "KordinataY": 42.65699,
+    "Photo": ""
+  },
+  {
+    "id": 520619,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1665,
+    "KordinataY": 42.65697,
+    "Photo": ""
+  },
+  {
+    "id": 520620,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16666,
+    "KordinataY": 42.65695,
+    "Photo": ""
+  },
+  {
+    "id": 520622,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16688,
+    "KordinataY": 42.65693,
+    "Photo": ""
+  },
+  {
+    "id": 520623,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16698,
+    "KordinataY": 42.65692,
+    "Photo": ""
+  },
+  {
+    "id": 520624,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16706,
+    "KordinataY": 42.65692,
+    "Photo": ""
+  },
+  {
+    "id": 520625,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16707,
+    "KordinataY": 42.65695,
+    "Photo": ""
+  },
+  {
+    "id": 520627,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16706,
+    "KordinataY": 42.65712,
+    "Photo": ""
+  },
+  {
+    "id": 520628,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16706,
+    "KordinataY": 42.65711,
+    "Photo": ""
+  },
+  {
+    "id": 520630,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16693,
+    "KordinataY": 42.65711,
+    "Photo": ""
+  },
+  {
+    "id": 520631,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16703,
+    "KordinataY": 42.65718,
+    "Photo": ""
+  },
+  {
+    "id": 520632,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16709,
+    "KordinataY": 42.65721,
+    "Photo": ""
+  },
+  {
+    "id": 520634,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16709,
+    "KordinataY": 42.65725,
+    "Photo": ""
+  },
+  {
+    "id": 520633,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16709,
+    "KordinataY": 42.65723,
+    "Photo": ""
+  },
+  {
+    "id": 520635,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16709,
+    "KordinataY": 42.65727,
+    "Photo": ""
+  },
+  {
+    "id": 520636,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16711,
+    "KordinataY": 42.65722,
+    "Photo": ""
+  },
+  {
+    "id": 520637,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16711,
+    "KordinataY": 42.65726,
+    "Photo": ""
+  },
+  {
+    "id": 520638,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16711,
+    "KordinataY": 42.65732,
+    "Photo": ""
+  },
+  {
+    "id": 520639,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16712,
+    "KordinataY": 42.65734,
+    "Photo": ""
+  },
+  {
+    "id": 520640,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16712,
+    "KordinataY": 42.65736,
+    "Photo": ""
+  },
+  {
+    "id": 520641,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1671,
+    "KordinataY": 42.65737,
+    "Photo": ""
+  },
+  {
+    "id": 520642,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16713,
+    "KordinataY": 42.65739,
+    "Photo": ""
+  },
+  {
+    "id": 520643,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16696,
+    "KordinataY": 42.65743,
+    "Photo": ""
+  },
+  {
+    "id": 520644,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16696,
+    "KordinataY": 42.6574,
+    "Photo": ""
+  },
+  {
+    "id": 520645,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16708,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  },
+  {
+    "id": 520648,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16707,
+    "KordinataY": 42.65748,
+    "Photo": ""
+  },
+  {
+    "id": 520649,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16704,
+    "KordinataY": 42.65748,
+    "Photo": ""
+  },
+  {
+    "id": 520650,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16694,
+    "KordinataY": 42.65749,
+    "Photo": ""
+  },
+  {
+    "id": 520651,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16688,
+    "KordinataY": 42.65743,
+    "Photo": ""
+  },
+  {
+    "id": 520652,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16664,
+    "KordinataY": 42.65737,
+    "Photo": ""
+  },
+  {
+    "id": 520653,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16689,
+    "KordinataY": 42.6576,
+    "Photo": ""
+  },
+  {
+    "id": 520654,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16688,
+    "KordinataY": 42.65761,
+    "Photo": ""
+  },
+  {
+    "id": 520655,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16683,
+    "KordinataY": 42.65744,
+    "Photo": ""
+  },
+  {
+    "id": 520656,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16678,
+    "KordinataY": 42.65742,
+    "Photo": ""
+  },
+  {
+    "id": 520657,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16675,
+    "KordinataY": 42.65742,
+    "Photo": ""
+  },
+  {
+    "id": 520658,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16679,
+    "KordinataY": 42.65741,
+    "Photo": ""
+  },
+  {
+    "id": 520659,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16678,
+    "KordinataY": 42.65741,
+    "Photo": ""
+  },
+  {
+    "id": 520660,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16672,
+    "KordinataY": 42.65742,
+    "Photo": ""
+  },
+  {
+    "id": 520661,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16669,
+    "KordinataY": 42.65745,
+    "Photo": ""
+  },
+  {
+    "id": 520662,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16659,
+    "KordinataY": 42.65745,
+    "Photo": ""
+  },
+  {
+    "id": 520663,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16654,
+    "KordinataY": 42.65745,
+    "Photo": ""
+  },
+  {
+    "id": 520664,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16651,
+    "KordinataY": 42.65745,
+    "Photo": ""
+  },
+  {
+    "id": 520665,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16648,
+    "KordinataY": 42.65746,
+    "Photo": ""
+  },
+  {
+    "id": 520666,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16642,
+    "KordinataY": 42.65743,
+    "Photo": ""
+  },
+  {
+    "id": 520667,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16641,
+    "KordinataY": 42.65741,
+    "Photo": ""
+  },
+  {
+    "id": 520668,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16641,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  },
+  {
+    "id": 520669,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16641,
+    "KordinataY": 42.65736,
+    "Photo": ""
+  },
+  {
+    "id": 520670,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16641,
+    "KordinataY": 42.65734,
+    "Photo": ""
+  },
+  {
+    "id": 520671,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1664,
+    "KordinataY": 42.65731,
+    "Photo": ""
+  },
+  {
+    "id": 520672,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16639,
+    "KordinataY": 42.65729,
+    "Photo": ""
+  },
+  {
+    "id": 520673,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16638,
+    "KordinataY": 42.65744,
+    "Photo": ""
+  },
+  {
+    "id": 520674,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16627,
+    "KordinataY": 42.65748,
+    "Photo": ""
+  },
+  {
+    "id": 520675,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16625,
+    "KordinataY": 42.65749,
+    "Photo": ""
+  },
+  {
+    "id": 520676,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16623,
+    "KordinataY": 42.65749,
+    "Photo": ""
+  },
+  {
+    "id": 520578,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16659,
+    "KordinataY": 42.65778,
+    "Photo": ""
+  },
+  {
+    "id": 520679,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16659,
+    "KordinataY": 42.65776,
+    "Photo": ""
+  },
+  {
+    "id": 520680,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16667,
+    "KordinataY": 42.65792,
+    "Photo": ""
+  },
+  {
+    "id": 520681,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16671,
+    "KordinataY": 42.65793,
+    "Photo": ""
+  },
+  {
+    "id": 520682,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16672,
+    "KordinataY": 42.65794,
+    "Photo": ""
+  },
+  {
+    "id": 520683,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16675,
+    "KordinataY": 42.65795,
+    "Photo": ""
+  },
+  {
+    "id": 520684,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16677,
+    "KordinataY": 42.65795,
+    "Photo": ""
+  },
+  {
+    "id": 520685,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16678,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520686,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16679,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520687,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1668,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520688,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1668,
+    "KordinataY": 42.65796,
+    "Photo": ""
+  },
+  {
+    "id": 520693,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16691,
+    "KordinataY": 42.658,
+    "Photo": ""
+  },
+  {
+    "id": 520694,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16694,
+    "KordinataY": 42.65799,
+    "Photo": ""
+  },
+  {
+    "id": 520696,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16706,
+    "KordinataY": 42.65806,
+    "Photo": ""
+  },
+  {
+    "id": 520697,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16715,
+    "KordinataY": 42.6581,
+    "Photo": ""
+  },
+  {
+    "id": 520701,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16698,
+    "KordinataY": 42.65794,
+    "Photo": ""
+  },
+  {
+    "id": 520702,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16709,
+    "KordinataY": 42.65795,
+    "Photo": ""
+  },
+  {
+    "id": 520703,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16705,
+    "KordinataY": 42.65794,
+    "Photo": ""
+  },
+  {
+    "id": 520704,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16703,
+    "KordinataY": 42.65793,
+    "Photo": ""
+  },
+  {
+    "id": 520705,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16699,
+    "KordinataY": 42.65792,
+    "Photo": ""
+  },
+  {
+    "id": 520706,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16696,
+    "KordinataY": 42.65791,
+    "Photo": ""
+  },
+  {
+    "id": 520707,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16692,
+    "KordinataY": 42.6579,
+    "Photo": ""
+  },
+  {
+    "id": 520708,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16685,
+    "KordinataY": 42.65786,
+    "Photo": ""
+  },
+  {
+    "id": 520709,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16689,
+    "KordinataY": 42.65788,
+    "Photo": ""
+  },
+  {
+    "id": 520710,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1668,
+    "KordinataY": 42.65785,
+    "Photo": ""
+  },
+  {
+    "id": 520711,
+    "Lloji": "",
+    "Lartësi": "",
+    "Gjendja": "",
+    "KordinataX": 21.16683,
+    "KordinataY": 42.65779,
+    "Photo": ""
+  },
+  {
+    "id": 520712,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16696,
+    "KordinataY": 42.65784,
+    "Photo": ""
+  },
+  {
+    "id": 520713,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "",
+    "KordinataX": 21.16706,
+    "KordinataY": 42.65788,
+    "Photo": ""
+  },
+  {
+    "id": 520714,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16703,
+    "KordinataY": 42.65785,
+    "Photo": ""
+  },
+  {
+    "id": 520715,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16717,
+    "KordinataY": 42.6579,
+    "Photo": ""
+  },
+  {
+    "id": 520717,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16717,
+    "KordinataY": 42.65793,
+    "Photo": ""
+  },
+  {
+    "id": 520718,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16717,
+    "KordinataY": 42.65791,
+    "Photo": ""
+  },
+  {
+    "id": 520719,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16716,
+    "KordinataY": 42.65782,
+    "Photo": ""
+  },
+  {
+    "id": 520720,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16717,
+    "KordinataY": 42.65779,
+    "Photo": ""
+  },
+  {
+    "id": 520734,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16692,
+    "KordinataY": 42.65825,
+    "Photo": ""
+  },
+  {
+    "id": 520735,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16698,
+    "KordinataY": 42.65826,
+    "Photo": ""
+  },
+  {
+    "id": 520736,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16703,
+    "KordinataY": 42.65828,
+    "Photo": ""
+  },
+  {
+    "id": 520736,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16708,
+    "KordinataY": 42.65828,
+    "Photo": ""
+  },
+  {
+    "id": 520738,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16708,
+    "KordinataY": 42.65826,
+    "Photo": ""
+  },
+  {
+    "id": 520739,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16709,
+    "KordinataY": 42.65824,
+    "Photo": ""
+  },
+  {
+    "id": 520740,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16715,
+    "KordinataY": 42.65826,
+    "Photo": ""
+  },
+  {
+    "id": 520741,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16715,
+    "KordinataY": 42.65829,
+    "Photo": ""
+  },
+  {
+    "id": 520742,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16716,
+    "KordinataY": 42.65828,
+    "Photo": ""
+  },
+  {
+    "id": 520737,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16713,
+    "KordinataY": 42.6583,
+    "Photo": ""
+  },
+  {
+    "id": 53001,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16448,
+    "KordinataY": 42.65499,
+    "Photo": ""
+  },
+  {
+    "id": 53002,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16434,
+    "KordinataY": 42.6551,
+    "Photo": ""
+  },
+  {
+    "id": 53003,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16436,
+    "KordinataY": 42.65521,
+    "Photo": ""
+  },
+  {
+    "id": 53004,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16432,
+    "KordinataY": 42.65527,
+    "Photo": ""
+  },
+  {
+    "id": 53005,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16435,
+    "KordinataY": 42.65542,
+    "Photo": ""
+  },
+  {
+    "id": 53006,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16455,
+    "KordinataY": 42.65548,
+    "Photo": ""
+  },
+  {
+    "id": 53007,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16434,
+    "KordinataY": 42.65553,
+    "Photo": ""
+  },
+  {
+    "id": 53008,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16435,
+    "KordinataY": 42.6556,
+    "Photo": ""
+  },
+  {
+    "id": 53009,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16437,
+    "KordinataY": 42.65566,
+    "Photo": ""
+  },
+  {
+    "id": 53010,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16438,
+    "KordinataY": 42.65573,
+    "Photo": ""
+  },
+  {
+    "id": 53011,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16438,
+    "KordinataY": 42.65579,
+    "Photo": ""
+  },
+  {
+    "id": 53012,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16442,
+    "KordinataY": 42.65597,
+    "Photo": ""
+  },
+  {
+    "id": 53013,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16441,
+    "KordinataY": 42.65606,
+    "Photo": ""
+  },
+  {
+    "id": 53014,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16445,
+    "KordinataY": 42.65662,
+    "Photo": ""
+  },
+  {
+    "id": 53015,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16445,
+    "KordinataY": 42.65665,
+    "Photo": ""
+  },
+  {
+    "id": 53017,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16454,
+    "KordinataY": 42.65676,
+    "Photo": ""
+  },
+  {
+    "id": 53017,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16459,
+    "KordinataY": 42.65676,
+    "Photo": ""
+  },
+  {
+    "id": 53018,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16465,
+    "KordinataY": 42.65676,
+    "Photo": ""
+  },
+  {
+    "id": 53019,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16469,
+    "KordinataY": 42.65677,
+    "Photo": ""
+  },
+  {
+    "id": 53020,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16453,
+    "KordinataY": 42.65685,
+    "Photo": ""
+  },
+  {
+    "id": 53021,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1647,
+    "KordinataY": 42.6568,
+    "Photo": ""
+  },
+  {
+    "id": 53022,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16464,
+    "KordinataY": 42.65681,
+    "Photo": ""
+  },
+  {
+    "id": 53023,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16459,
+    "KordinataY": 42.6568,
+    "Photo": ""
+  },
+  {
+    "id": 53026,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16452,
+    "KordinataY": 42.65689,
+    "Photo": ""
+  },
+  {
+    "id": 53027,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16452,
+    "KordinataY": 42.65691,
+    "Photo": ""
+  },
+  {
+    "id": 53028,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16462,
+    "KordinataY": 42.65685,
+    "Photo": ""
+  },
+  {
+    "id": 53029,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16456,
+    "KordinataY": 42.65691,
+    "Photo": ""
+  },
+  {
+    "id": 53030,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16459,
+    "KordinataY": 42.65691,
+    "Photo": ""
+  },
+  {
+    "id": 53030,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16456,
+    "KordinataY": 42.65689,
+    "Photo": ""
+  },
+  {
+    "id": 53031,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16459,
+    "KordinataY": 42.65689,
+    "Photo": ""
+  },
+  {
+    "id": 53032,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "Jo e mirë",
+    "KordinataX": 21.16465,
+    "KordinataY": 42.65691,
+    "Photo": ""
+  },
+  {
+    "id": 53033,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16465,
+    "KordinataY": 42.65689,
+    "Photo": ""
+  },
+  {
+    "id": 53034,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1647,
+    "KordinataY": 42.65691,
+    "Photo": ""
+  },
+  {
+    "id": 53035,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16469,
+    "KordinataY": 42.65689,
+    "Photo": ""
+  },
+  {
+    "id": 53036,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16462,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  },
+  {
+    "id": 53037,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16465,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  },
+  {
+    "id": 53040,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16463,
+    "KordinataY": 42.65614,
+    "Photo": ""
+  },
+  {
+    "id": 53044,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16487,
+    "KordinataY": 42.65618,
+    "Photo": ""
+  },
+  {
+    "id": 53045,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16473,
+    "KordinataY": 42.65615,
+    "Photo": ""
+  },
+  {
+    "id": 53046,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16467,
+    "KordinataY": 42.65573,
+    "Photo": ""
+  },
+  {
+    "id": 53047,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16477,
+    "KordinataY": 42.65596,
+    "Photo": ""
+  },
+  {
+    "id": 53048,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16469,
+    "KordinataY": 42.6558,
+    "Photo": ""
+  },
+  {
+    "id": 53049,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16489,
+    "KordinataY": 42.65557,
+    "Photo": ""
+  },
+  {
+    "id": 53050,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16482,
+    "KordinataY": 42.65571,
+    "Photo": ""
+  },
+  {
+    "id": 53051,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16487,
+    "KordinataY": 42.65569,
+    "Photo": ""
+  },
+  {
+    "id": 53054,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16496,
+    "KordinataY": 42.65541,
+    "Photo": ""
+  },
+  {
+    "id": 53055,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16501,
+    "KordinataY": 42.6554,
+    "Photo": ""
+  },
+  {
+    "id": 53055,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16513,
+    "KordinataY": 42.65547,
+    "Photo": ""
+  },
+  {
+    "id": 53056,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16518,
+    "KordinataY": 42.65557,
+    "Photo": ""
+  },
+  {
+    "id": 53057,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16509,
+    "KordinataY": 42.65562,
+    "Photo": ""
+  },
+  {
+    "id": 53058,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16518,
+    "KordinataY": 42.655,
+    "Photo": ""
+  },
+  {
+    "id": 53060,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16515,
+    "KordinataY": 42.65522,
+    "Photo": ""
+  },
+  {
+    "id": 53062,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16509,
+    "KordinataY": 42.65503,
+    "Photo": ""
+  },
+  {
+    "id": 53063,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16497,
+    "KordinataY": 42.65504,
+    "Photo": ""
+  },
+  {
+    "id": 53063,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16558,
+    "KordinataY": 42.65633,
+    "Photo": ""
+  },
+  {
+    "id": 53064,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16553,
+    "KordinataY": 42.65638,
+    "Photo": ""
+  },
+  {
+    "id": 53065,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16538,
+    "KordinataY": 42.65648,
+    "Photo": ""
+  },
+  {
+    "id": 53066,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16542,
+    "KordinataY": 42.65674,
+    "Photo": ""
+  },
+  {
+    "id": 53067,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16534,
+    "KordinataY": 42.65672,
+    "Photo": ""
+  },
+  {
+    "id": 53069,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16596,
+    "KordinataY": 42.65669,
+    "Photo": ""
+  },
+  {
+    "id": 53070,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16601,
+    "KordinataY": 42.65667,
+    "Photo": ""
+  },
+  {
+    "id": 53071,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16608,
+    "KordinataY": 42.65665,
+    "Photo": ""
+  },
+  {
+    "id": 53072,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16623,
+    "KordinataY": 42.65665,
+    "Photo": ""
+  },
+  {
+    "id": 53073,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1662,
+    "KordinataY": 42.65691,
+    "Photo": ""
+  },
+  {
+    "id": 53074,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16629,
+    "KordinataY": 42.6569,
+    "Photo": ""
+  },
+  {
+    "id": 53075,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16634,
+    "KordinataY": 42.65689,
+    "Photo": ""
+  },
+  {
+    "id": 53076,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16641,
+    "KordinataY": 42.65688,
+    "Photo": ""
+  },
+  {
+    "id": 53077,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16687,
+    "KordinataY": 42.6568,
+    "Photo": ""
+  },
+  {
+    "id": 53078,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16697,
+    "KordinataY": 42.65679,
+    "Photo": ""
+  },
+  {
+    "id": 53079,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16701,
+    "KordinataY": 42.65649,
+    "Photo": ""
+  },
+  {
+    "id": 53080,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16679,
+    "KordinataY": 42.65668,
+    "Photo": ""
+  },
+  {
+    "id": 53081,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16602,
+    "KordinataY": 42.65598,
+    "Photo": ""
+  },
+  {
+    "id": 53082,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1664,
+    "KordinataY": 42.65619,
+    "Photo": ""
+  },
+  {
+    "id": 53083,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16618,
+    "KordinataY": 42.65583,
+    "Photo": ""
+  },
+  {
+    "id": 53085,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16581,
+    "KordinataY": 42.65553,
+    "Photo": ""
+  },
+  {
+    "id": 53086,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I ulët (< 1m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16578,
+    "KordinataY": 42.65556,
+    "Photo": ""
+  },
+  {
+    "id": 53087,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16585,
+    "KordinataY": 42.65573,
+    "Photo": ""
+  },
+  {
+    "id": 53088,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16576,
+    "KordinataY": 42.65575,
+    "Photo": ""
+  },
+  {
+    "id": 53089,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1661,
+    "KordinataY": 42.65543,
+    "Photo": ""
+  },
+  {
+    "id": 53090,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16595,
+    "KordinataY": 42.65538,
+    "Photo": ""
+  },
+  {
+    "id": 53091,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16594,
+    "KordinataY": 42.65533,
+    "Photo": ""
+  },
+  {
+    "id": 53092,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16566,
+    "KordinataY": 42.65536,
+    "Photo": ""
+  },
+  {
+    "id": 53093,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16585,
+    "KordinataY": 42.65516,
+    "Photo": ""
+  },
+  {
+    "id": 53094,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16585,
+    "KordinataY": 42.65509,
+    "Photo": ""
+  },
+  {
+    "id": 53095,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1658,
+    "KordinataY": 42.65483,
+    "Photo": ""
+  },
+  {
+    "id": 53096,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16571,
+    "KordinataY": 42.65497,
+    "Photo": ""
+  },
+  {
+    "id": 53097,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16587,
+    "KordinataY": 42.65483,
+    "Photo": ""
+  },
+  {
+    "id": 53098,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16595,
+    "KordinataY": 42.65479,
+    "Photo": ""
+  },
+  {
+    "id": 53099,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16602,
+    "KordinataY": 42.65478,
+    "Photo": ""
+  },
+  {
+    "id": 53100,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16609,
+    "KordinataY": 42.65477,
+    "Photo": ""
+  },
+  {
+    "id": 53101,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1662,
+    "KordinataY": 42.65479,
+    "Photo": ""
+  },
+  {
+    "id": 53102,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16623,
+    "KordinataY": 42.65486,
+    "Photo": ""
+  },
+  {
+    "id": 53103,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1664,
+    "KordinataY": 42.65489,
+    "Photo": ""
+  },
+  {
+    "id": 53104,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16629,
+    "KordinataY": 42.65509,
+    "Photo": ""
+  },
+  {
+    "id": 53105,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16637,
+    "KordinataY": 42.65502,
+    "Photo": ""
+  },
+  {
+    "id": 53106,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16615,
+    "KordinataY": 42.65512,
+    "Photo": ""
+  },
+  {
+    "id": 53107,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16657,
+    "KordinataY": 42.65477,
+    "Photo": ""
+  },
+  {
+    "id": 53108,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16677,
+    "KordinataY": 42.65479,
+    "Photo": ""
+  },
+  {
+    "id": 30109,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16679,
+    "KordinataY": 42.65487,
+    "Photo": ""
+  },
+  {
+    "id": 53110,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16671,
+    "KordinataY": 42.65513,
+    "Photo": ""
+  },
+  {
+    "id": 53111,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16686,
+    "KordinataY": 42.65527,
+    "Photo": ""
+  },
+  {
+    "id": 53113,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16658,
+    "KordinataY": 42.65526,
+    "Photo": ""
+  },
+  {
+    "id": 53114,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16651,
+    "KordinataY": 42.65529,
+    "Photo": ""
+  },
+  {
+    "id": 53116,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16641,
+    "KordinataY": 42.65531,
+    "Photo": ""
+  },
+  {
+    "id": 53117,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16654,
+    "KordinataY": 42.6555,
+    "Photo": ""
+  },
+  {
+    "id": 53118,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1666,
+    "KordinataY": 42.65549,
+    "Photo": ""
+  },
+  {
+    "id": 53119,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16668,
+    "KordinataY": 42.65549,
+    "Photo": ""
+  },
+  {
+    "id": 53119,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16656,
+    "KordinataY": 42.65556,
+    "Photo": ""
+  },
+  {
+    "id": 53119,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16661,
+    "KordinataY": 42.6556,
+    "Photo": ""
+  },
+  {
+    "id": 53120,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16669,
+    "KordinataY": 42.65556,
+    "Photo": ""
+  },
+  {
+    "id": 53121,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1668,
+    "KordinataY": 42.65585,
+    "Photo": ""
+  },
+  {
+    "id": 53122,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16687,
+    "KordinataY": 42.65585,
+    "Photo": ""
+  },
+  {
+    "id": 53123,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16695,
+    "KordinataY": 42.65593,
+    "Photo": ""
+  },
+  {
+    "id": 53124,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16681,
+    "KordinataY": 42.65594,
+    "Photo": ""
+  },
+  {
+    "id": 53125,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16671,
+    "KordinataY": 42.65595,
+    "Photo": ""
+  },
+  {
+    "id": 53126,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16669,
+    "KordinataY": 42.65598,
+    "Photo": ""
+  },
+  {
+    "id": 53127,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16672,
+    "KordinataY": 42.65606,
+    "Photo": ""
+  },
+  {
+    "id": 53128,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16696,
+    "KordinataY": 42.65614,
+    "Photo": ""
+  },
+  {
+    "id": 53129,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16697,
+    "KordinataY": 42.656,
+    "Photo": ""
+  },
+  {
+    "id": 53130,
+    "Lloji": "Gjethëmbajtës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16698,
+    "KordinataY": 42.65602,
+    "Photo": ""
+  },
+  {
+    "id": 53130,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16748,
+    "KordinataY": 42.65662,
+    "Photo": ""
+  },
+  {
+    "id": 53131,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1675,
+    "KordinataY": 42.65671,
+    "Photo": ""
+  },
+  {
+    "id": 53132,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16739,
+    "KordinataY": 42.65669,
+    "Photo": ""
+  },
+  {
+    "id": 53170,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16509,
+    "KordinataY": 42.65662,
+    "Photo": ""
+  },
+  {
+    "id": 33201,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16417,
+    "KordinataY": 42.65514,
+    "Photo": ""
+  },
+  {
+    "id": 33202,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16418,
+    "KordinataY": 42.6552,
+    "Photo": ""
+  },
+  {
+    "id": 33203,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16419,
+    "KordinataY": 42.65525,
+    "Photo": ""
+  },
+  {
+    "id": 33204,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16419,
+    "KordinataY": 42.65529,
+    "Photo": ""
+  },
+  {
+    "id": 33205,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16418,
+    "KordinataY": 42.65532,
+    "Photo": ""
+  },
+  {
+    "id": 33207,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.1642,
+    "KordinataY": 42.65542,
+    "Photo": ""
+  },
+  {
+    "id": 33208,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16421,
+    "KordinataY": 42.65549,
+    "Photo": ""
+  },
+  {
+    "id": 33209,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16421,
+    "KordinataY": 42.65554,
+    "Photo": ""
+  },
+  {
+    "id": 33210,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16422,
+    "KordinataY": 42.65559,
+    "Photo": ""
+  },
+  {
+    "id": 35213,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16422,
+    "KordinataY": 42.65567,
+    "Photo": ""
+  },
+  {
+    "id": 35214,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16422,
+    "KordinataY": 42.65577,
+    "Photo": ""
+  },
+  {
+    "id": 35215,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16422,
+    "KordinataY": 42.65585,
+    "Photo": ""
+  },
+  {
+    "id": 35217,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16423,
+    "KordinataY": 42.65596,
+    "Photo": ""
+  },
+  {
+    "id": 35218,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16424,
+    "KordinataY": 42.65608,
+    "Photo": ""
+  },
+  {
+    "id": 35221,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16427,
+    "KordinataY": 42.65622,
+    "Photo": ""
+  },
+  {
+    "id": 35223,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16427,
+    "KordinataY": 42.65626,
+    "Photo": ""
+  },
+  {
+    "id": 35224,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16427,
+    "KordinataY": 42.65631,
+    "Photo": ""
+  },
+  {
+    "id": 35225,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16427,
+    "KordinataY": 42.65636,
+    "Photo": ""
+  },
+  {
+    "id": 35226,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16428,
+    "KordinataY": 42.65645,
+    "Photo": ""
+  },
+  {
+    "id": 35227,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16429,
+    "KordinataY": 42.65654,
+    "Photo": ""
+  },
+  {
+    "id": 35229,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16431,
+    "KordinataY": 42.65675,
+    "Photo": ""
+  },
+  {
+    "id": 35330,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16432,
+    "KordinataY": 42.65679,
+    "Photo": ""
+  },
+  {
+    "id": 35331,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16433,
+    "KordinataY": 42.65684,
+    "Photo": ""
+  },
+  {
+    "id": 35333,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I lartë (> 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16434,
+    "KordinataY": 42.65699,
+    "Photo": ""
+  },
+  {
+    "id": 35334,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16435,
+    "KordinataY": 42.65704,
+    "Photo": ""
+  },
+  {
+    "id": 35335,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16435,
+    "KordinataY": 42.65713,
+    "Photo": ""
+  },
+  {
+    "id": 35337,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16435,
+    "KordinataY": 42.65722,
+    "Photo": ""
+  },
+  {
+    "id": 35338,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16436,
+    "KordinataY": 42.65727,
+    "Photo": ""
+  },
+  {
+    "id": 35339,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16438,
+    "KordinataY": 42.65732,
+    "Photo": ""
+  },
+  {
+    "id": 35340,
+    "Lloji": "Gjethërënës",
+    "Lartësi": "I mesëm (1 - 3m)",
+    "Gjendja": "E mirë",
+    "KordinataX": 21.16437,
+    "KordinataY": 42.65738,
+    "Photo": ""
+  }
+]

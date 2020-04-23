@@ -1,5 +1,16 @@
 var $_GET = {};
 $_GET['radius'] = 160;
+var gjetherenesLarteIcon
+var gjetherenesMesemIcon
+var gjetherenesUletIcon
+var gjethembajtesLarteIcon
+var gjethembajtesMesemIcon
+var gjethembajtesUletIcon
+var publicMarkers = [];
+var leafletView = new PruneClusterForLeaflet(parseInt($_GET['radius']));
+var leafletView5 = new PruneClusterForLeaflet(parseInt($_GET['radius']));
+
+//map.removeLayer(leafletView);
 if(document.location.toString().indexOf('?') !== -1) {
     var query = document.location
                    .toString()
@@ -50,40 +61,40 @@ $("#mapid").css("height",  "calc(100vh - " + $("nav").outerHeight() + "px)")
 
 map = L.map('mapid', {minZoom: 13, maxZoom: 20}).setView([42.667542, 21.166191], 14);
 
-const gjetherenesLarteIcon = L.divIcon({
+gjetherenesLarteIcon = L.divIcon({
 	html: '<svg height="10" width="10"><circle cx="5" cy="5" r="4" stroke="#4e753e" stroke-width="1" fill="#4e753e99"/></svg>',
 	iconSize: [10, 10],
 	className: 'gjetherenesLarteIcon'
 });
 
-const gjetherenesMesemIcon = L.divIcon({
+gjetherenesMesemIcon = L.divIcon({
 	html: '<svg height="10" width="10"><circle cx="5" cy="5" r="4" stroke="#7e9c3b" stroke-width="1" fill="#7e9c3b99"/></svg>',
 	iconSize: [10, 10],
 	className: 'gjetherenesMesemIcon'
 });
 
 
-const gjetherenesUletIcon = L.divIcon({
+gjetherenesUletIcon = L.divIcon({
 	html: '<svg height="10" width="10"><circle cx="5" cy="5" r="4" stroke="#c0ae28" stroke-width="1" fill="#c0ae2899"/></svg>',
 	iconSize: [10, 10],
 	className: 'gjetherenesUletIcon'
 });
 
-const gjethembajtesLarteIcon = L.divIcon({
+gjethembajtesLarteIcon = L.divIcon({
 	html: '<svg height="10" width="10"><circle cx="5" cy="5" r="4" stroke="#674835" stroke-width="1" fill="#67483599"/></svg>',
 	iconSize: [10, 10],
 	className: 'gjethembajtesLarteIcon'
 });
 
 
-const gjethembajtesMesemIcon = L.divIcon({
+gjethembajtesMesemIcon = L.divIcon({
 	html: '<svg height="10" width="10"><circle cx="5" cy="5" r="4" stroke="#62653a" stroke-width="1" fill="#62653a99"/></svg>',
 	iconSize: [10, 10],
 	className: 'gjethembajtesMesemIcon'
 });
 
 
-const gjethembajtesUletIcon = L.divIcon({
+gjethembajtesUletIcon = L.divIcon({
 	html: '<svg height="10" width="10"><circle cx="5" cy="5" r="4" stroke="#714220" stroke-width="1" fill="#71422099"/></svg>',
 	iconSize: [10, 10],
 	className: 'gjethembajtesUletIcon'
@@ -107,6 +118,27 @@ map.setMaxBounds(bounds);
 map.on('drag', function() {
 	map.panInsideBounds(bounds, { animate: false });
 });
+
+
+var lastUpdate = 0;
+var currentSizeSpan = document.getElementById('currentSize');
+
+var updateSize = function () {
+	leafletView5.Cluster.Size = parseFloat(this.value);
+	currentSizeSpan.firstChild.data = this.value;
+
+    var now = +new Date();
+    if ((now - lastUpdate) < 400) {
+    	return;
+    }
+	leafletView5.ProcessView();
+	lastUpdate = now;
+};
+document.getElementById('sizeInput').onchange = updateSize; 
+//document.getElementById('sizeInput').oninput = updateSize; 
+
+L.control.scale().addTo(map);
+
 
 
 /*L.marker([42.667542, 21.166191],{ icon:  faTree}).addTo(map)
@@ -155,131 +187,6 @@ breguIDiellit = [[42.647799, 21.162972], [42.654045, 21.167717], [42.654727, 21.
 
     */
 
-
-var size = pejtoni.length;
-var markers = [];
-console.log("1" + new Date());
-console.log(parseInt($_GET['radius']));
-var leafletView = new PruneClusterForLeaflet(parseInt($_GET['radius']));
-for (var i = 0; i < size; ++i) {
-    
-    var a = pejtoni[i];
-	var description = "<dl>"
-						+ "<dt>Tipi i drurit</dt>"
-						+ "<dd>" + a[0] + "</dd>"
-						+ "<dt>Gjatësia</dt>"
-						+ "<dd>" + a[1] + "</dd>"
-						+ "<dt>Gjendja</dt>"
-						+ "<dd>" + a[2] + "</dd>"
-						+ "<dt>Koordinatat</dt>"
-						+ "<dd>" + a[3] + " " + a[4] + "</dd>"
-					+ "</dl>";
-	var marker = new PruneCluster.Marker(a[3], a[4], {popup: description});
-
-	if(a[0] == "Gjethërënës") {
-		if(a[1] == "I lartë (> 3m)")
-			marker.data.icon = gjetherenesLarteIcon;
-		else if(a[1] == "I mesëm (1 - 3m)")
-			marker.data.icon = gjetherenesMesemIcon;
-		else if(a[1] == "I ulët (< 1m)")
-			marker.data.icon = gjetherenesUletIcon;
-		else
-			marker.data.icon = gjetherenesMesemIcon;
-	} else if(a[0] == "Gjethëmbajtës") {
-		if(a[1] == "I lartë (> 3m)")
-			marker.data.icon = gjethembajtesLarteIcon;
-		else if(a[1] == "I mesëm (1 - 3m)")
-			marker.data.icon = gjethembajtesMesemIcon;
-		else if(a[1] == "I ulët (< 1m)")
-			marker.data.icon = gjethembajtesUletIcon;
-		else
-			marker.data.icon = gjethembajtesMesemIcon;
-	}
-	else
-		marker.data.icon = gjetherenesMesemIcon;
-
-
-    markers.push(marker);
-    leafletView.RegisterMarker(marker);
-}
-
-//map.addLayer(leafletView);
-
-setTimeout(function(){
-}, 0);
-console.log(i + new Date());
-
-var kampusi_size = kampusi.length;
-//var leafletView2 = new PruneClusterForLeaflet(50);
-
-var markers2 = [];
-for (var i = 0; i < kampusi_size; ++i) {
-    var a = kampusi[i];
-	var description = "<dl>"
-						+ "<dt>Tipi i drurit</dt>"
-						+ "<dd>" + a[0] + "</dd>"
-						+ "<dt>Gjatësia</dt>"
-						+ "<dd>" + a[1] + "</dd>"
-						+ "<dt>Gjendja</dt>"
-						+ "<dd>" + a[2] + "</dd>"
-						+ "<dt>Koordinatat</dt>"
-						+ "<dd>" + a[3] + " " + a[4] + "</dd>"
-					+ "</dl>";
-	var marker = new PruneCluster.Marker(a[3], a[4], {popup: description});
-
-	if(a[0] == "Gjethërënës") {
-		if(a[1] == "I lartë (> 3m)")
-			marker.data.icon = gjetherenesLarteIcon;
-		else if(a[1] == "I mesëm (1 - 3m)")
-			marker.data.icon = gjetherenesMesemIcon;
-		else if(a[1] == "I ulët (< 1m)")
-			marker.data.icon = gjetherenesUletIcon;
-		else
-			marker.data.icon = gjetherenesMesemIcon;
-	} else if(a[0] == "Gjethëmbajtës") {
-		if(a[1] == "I lartë (> 3m)")
-			marker.data.icon = gjethembajtesLarteIcon;
-		else if(a[1] == "I mesëm (1 - 3m)")
-			marker.data.icon = gjethembajtesMesemIcon;
-		else if(a[1] == "I ulët (< 1m)")
-			marker.data.icon = gjethembajtesUletIcon;
-		else
-			marker.data.icon = gjethembajtesMesemIcon;
-	}
-	else
-		marker.data.icon = gjetherenesMesemIcon;
-
-
-    markers2.push(marker);
-    leafletView.RegisterMarker(marker);
-}
-setTimeout(function(){
-}, 0);
-
-console.log(i + new Date());
-
-map.addLayer(leafletView);
-
-console.log(i + new Date());
-
-var lastUpdate = 0;
-var currentSizeSpan = document.getElementById('currentSize');
-
-	var updateSize = function () {
-    	leafletView.Cluster.Size = parseFloat(this.value);
-		currentSizeSpan.firstChild.data = this.value;
-
-	    var now = +new Date();
-	    if ((now - lastUpdate) < 400) {
-	    	return;
-	    }
-		leafletView.ProcessView();
-		lastUpdate = now;
-	};
-    document.getElementById('sizeInput').onchange = updateSize; 
-    //document.getElementById('sizeInput').oninput = updateSize; 
-
-L.control.scale().addTo(map);
 
 
 /*

@@ -15,7 +15,7 @@ echo '<head>
 	<link href="./assets/bootstrap/bootstrap-4.4.1.min.css" rel="stylesheet">
 	<script src="./assets/bootstrap/bootstrap-4.4.1.min.js"></script>
 	
-	
+	<script type="text/javascript" src="./js/treeparser.js"></script>
 
   <script src="./assets/prunecluster/dist/PruneCluster.js"></script>
 
