@@ -139,6 +139,23 @@ document.getElementById('sizeInput').onchange = updateSize;
 
 L.control.scale().addTo(map);
 
+new TreeParser("./assets/datas/trees/aktash1_drunjet.json");
+new TreeParser("./assets/datas/trees/aktash2_drunjet.json");
+new TreeParser("./assets/datas/trees/breguidiellit1_drunjet.json");
+new TreeParser("./assets/datas/trees/kampusi1_drunjet.json");
+new TreeParser("./assets/datas/trees/kampusi2_drunjet.json");
+new TreeParser("./assets/datas/trees/kampusi3_drunjet.json");
+new TreeParser("./assets/datas/trees/mahallamuhaxhereve1_drunjet.json");
+new TreeParser("./assets/datas/trees/pejton1_drunjet.json");
+new TreeParser("./assets/datas/trees/pejton2_drunjet.json");
+new TreeParser("./assets/datas/trees/qendra1_drunjet.json");
+new TreeParser("./assets/datas/trees/qendra2_drunjet.json");
+new TreeParser("./assets/datas/trees/qendra3_drunjet.json");
+new TreeParser("./assets/datas/trees/qendra4_drunjet.json");
+new TreeParser("./assets/datas/trees/qendra5_drunjet.json");
+new TreeParser("./assets/datas/trees/qendra6_drunjet.json");
+new TreeParser("./assets/datas/trees/qendra7_drunjet.json");
+new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json");
 
 
 /*L.marker([42.667542, 21.166191],{ icon:  faTree}).addTo(map)
