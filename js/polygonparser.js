@@ -1,8 +1,10 @@
+var x = 2;
 class PolygonParser {
     jsonUrl;
     color;
-    polygoncoords = [];
     polygonName;
+    layer;
+    polygoncoords = [];
     constructor(jsonUrl, polygonName){
         this.polygonName = polygonName;
         this.jsonUrl = jsonUrl;
@@ -14,25 +16,26 @@ class PolygonParser {
     get color(){
         return this.color;
     }
-    get polygonName(){
-        return this.polygonName;
+    setXpolygoncoords(polygoncoords){
+        this.polygoncoords = polygoncoords;
+    }
+    hide() {
+        map.removeLayer(this.layer);
+    }
+    show() {
+        map.addLayer(this.layer);
     }
     render() {
-        $.getJSON(this.jsonUrl, function(data) {
-            console.log(data[0][this.polygonName]);
-            console.log(this.polygonName);
-            //this.polygonCoords.push(jd[0]["dardania"]);
-            return data;
-        }).done(function(data) {
+        var _this = this;
+        $.getJSON(_this.jsonUrl, function(data) {
+            x = data[0];
+            console.log(data[0]);
+            console.log(data[0][_this.polygonName]);
 
-            console.log(data["dardania"])
-
-
-            console.log( "second success" );
-        }).fail(function() {
-            console.log( "error" );
-        }).always(function() {
-            console.log( "complete" );
-        });;
+            _this.polygoncoords =  data[0][_this.polygonName];
+            _this.layer = L.polygon(_this.polygoncoords, {color: "green"}).bindTooltip("Ulpiana",
+                {permanent: false, direction:"center"}
+            ).openTooltip().addTo(map);
+        });
     }
 }

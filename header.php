@@ -17,7 +17,7 @@ echo '<head>
 	
 	<script type="text/javascript" src="./js/treeparser.js"></script>
     <script type="text/javascript" src="./js/polygonparser.js"></script>
-  <script src="./assets/prunecluster/dist/PruneCluster.js"></script>
+    <script src="./assets/prunecluster/dist/PruneCluster.js"></script>
 
   <link href="./assets/prunecluster/dist/LeafletStyleSheet.css" rel="stylesheet">
 	' 

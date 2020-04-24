@@ -11,6 +11,9 @@ var leafletView = new PruneClusterForLeaflet(parseInt($_GET['radius']));
 var leafletView5 = new PruneClusterForLeaflet(parseInt($_GET['radius']));
 var x;
 //map.removeLayer(leafletView);
+
+
+
 if(document.location.toString().indexOf('?') !== -1) {
     var query = document.location
                    .toString()
@@ -159,9 +162,27 @@ var onPolyClick = function(event){
 	map.fitBounds(event.target.getBounds())
 	new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json");
 };
-	ulpiana_polygon.on('click', onPolyClick);
+	//ulpiana_polygon.on('click', onPolyClick);
 
 L.control.scale().addTo(map);
+
+
+	var prevZoom = map.getZoom();
+	map.on('zoomend',function(e){
+		//debugger;
+		var currZoom = map.getZoom();
+		var diff = prevZoom - currZoom;
+		if(diff > 0){
+			console.log('zoomed out');
+		} else if(diff < 0) {
+			console.log('zoomed in');
+		} else {
+			console.log('no change');
+		}
+		prevZoom = currZoom;
+	});
+
+
 /*
 new TreeParser("./assets/datas/trees/aktash1_drunjet.json");
 new TreeParser("./assets/datas/trees/aktash2_drunjet.json");
@@ -417,20 +438,6 @@ for (let i = 0; i < dardania.length; i++) {
 map.addLayer(markers2);
 
 
-var prevZoom = map.getZoom();
-map.on('zoomstart',function(e){
-	//debugger;
-	var currZoom = map.getZoom();
-	var diff = prevZoom - currZoom;
-	if(diff > 0){
-	   console.log('zoomed out');
-	} else if(diff < 0) {
-	   console.log('zoomed in');
-	} else {
-	   console.log('no change');
-	}
-	prevZoom = currZoom;
-});
 */
 
 //markers3.on("clusterclick", a => a.layer.spiderfy());
