@@ -9,7 +9,7 @@ var gjethembajtesUletIcon
 var publicMarkers = [];
 var leafletView = new PruneClusterForLeaflet(parseInt($_GET['radius']));
 var leafletView5 = new PruneClusterForLeaflet(parseInt($_GET['radius']));
-
+var x;
 //map.removeLayer(leafletView);
 if(document.location.toString().indexOf('?') !== -1) {
     var query = document.location
@@ -136,9 +136,33 @@ var updateSize = function () {
 };
 document.getElementById('sizeInput').onchange = updateSize; 
 //document.getElementById('sizeInput').oninput = updateSize; 
+dardania = [[42.646496, 21.155415],[42.647274, 21.156808],[42.647491, 21.157477],[42.655514, 21.159591],[42.655702, 21.158578], [42.655704, 21.158024], [42.653091, 21.148391], [42.652853, 21.148482], [42.652577, 21.147757], [42.652215, 21.147459], [42.651886, 21.147427], [42.651689, 21.147556], [42.651579, 21.147395], [42.649494, 21.151600], [42.648318, 21.153617], [42.647647, 21.154464], [42.647079, 21.154990]];
+
+ulpiana = [[42.647465, 21.157504], [42.647181, 21.159500], [42.647148, 21.160618], [42.647320, 21.161556], [42.647480, 21.162052],[42.647858, 21.162765],[42.648727, 21.163649],[42.650233, 21.164821], [42.654022, 21.167615], [42.654216, 21.167527], [42.654544, 21.166813], [42.655544, 21.159613]];
+
+breguIDiellit = [[42.647799, 21.162972], [42.654045, 21.167717], [42.654727, 21.168370], [42.655305, 21.170034], [42.655503, 21.170448], [42.656142, 21.171409], [42.655823, 21.173269], [42.655881, 21.175207], [42.655826, 21.176858], [42.655412, 21.178184], [42.652379, 21.175520], [42.650687, 21.174465], [42.648804, 21.172424], [42.646718, 21.170884], [42.646031, 21.169812], [42.645509, 21.169431]];
+
+
+
+dardania_polygon = L.polygon(dardania, {color: 'green'}).addTo(map);
+/*
+
+ulpiana_polygon = L.polygon(ulpiana, {color: 'green'}).bindTooltip("Ulpiana",
+	{permanent: false, direction:"center"}
+).openTooltip().addTo(map);
+*/
+
+breguIDiellit_polygon = L.polygon(breguIDiellit, {color: 'green'}).addTo(map);
+
+
+var onPolyClick = function(event){
+	map.fitBounds(event.target.getBounds())
+	new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json");
+};
+	ulpiana_polygon.on('click', onPolyClick);
 
 L.control.scale().addTo(map);
-
+/*
 new TreeParser("./assets/datas/trees/aktash1_drunjet.json");
 new TreeParser("./assets/datas/trees/aktash2_drunjet.json");
 new TreeParser("./assets/datas/trees/breguidiellit1_drunjet.json");
@@ -156,6 +180,7 @@ new TreeParser("./assets/datas/trees/qendra5_drunjet.json");
 new TreeParser("./assets/datas/trees/qendra6_drunjet.json");
 new TreeParser("./assets/datas/trees/qendra7_drunjet.json");
 new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json");
+*/
 
 
 /*L.marker([42.667542, 21.166191],{ icon:  faTree}).addTo(map)
@@ -164,11 +189,6 @@ new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json");
 */
 //polygoni
 /*
-dardania = [[42.646496, 21.155415],[42.647274, 21.156808],[42.647491, 21.157477],[42.655514, 21.159591],[42.655702, 21.158578], [42.655704, 21.158024], [42.653091, 21.148391], [42.652853, 21.148482], [42.652577, 21.147757], [42.652215, 21.147459], [42.651886, 21.147427], [42.651689, 21.147556], [42.651579, 21.147395], [42.649494, 21.151600], [42.648318, 21.153617], [42.647647, 21.154464], [42.647079, 21.154990]];
-
-ulpiana = [[42.647465, 21.157504], [42.647181, 21.159500], [42.647148, 21.160618], [42.647320, 21.161556], [42.647480, 21.162052],[42.647858, 21.162765],[42.648727, 21.163649],[42.650233, 21.164821], [42.654022, 21.167615], [42.654216, 21.167527], [42.654544, 21.166813], [42.655544, 21.159613]];
-
-breguIDiellit = [[42.647799, 21.162972], [42.654045, 21.167717], [42.654727, 21.168370], [42.655305, 21.170034], [42.655503, 21.170448], [42.656142, 21.171409], [42.655823, 21.173269], [42.655881, 21.175207], [42.655826, 21.176858], [42.655412, 21.178184], [42.652379, 21.175520], [42.650687, 21.174465], [42.648804, 21.172424], [42.646718, 21.170884], [42.646031, 21.169812], [42.645509, 21.169431]];
 */
 
     
@@ -371,14 +391,6 @@ markers3.on("clusterclick", function(a) {
 
 
 markers4 = L.markerClusterGroup();
-
-dardania_polygon = L.polygon(dardania, {color: 'green'}).addTo(map);
-
-
-ulpiana_polygon = L.polygon(ulpiana, {color: 'green'}).addTo(map);
-
-
-breguIDiellit_polygon = L.polygon(breguIDiellit, {color: 'green'}).addTo(map);
 
 
 markers = L.markerClusterGroup();

@@ -13,7 +13,7 @@ class TreeParser {
 									+ "<dt>Tipi i drurit</dt>"
 									+ "<dd>" + a["Lloji"] + "</dd>"
 									+ "<dt>Lartësia</dt>"
-									+ "<dd>" + a["Lartësi"] + "</dd>"
+									+ "<dd>" + a["Lartesi"] + "</dd>"
 									+ "<dt>Gjendja</dt>"
 									+ "<dd>" + a["Gjendja"] + "</dd>"
 									+ "<dt>Koordinatat</dt>"
@@ -23,18 +23,18 @@ class TreeParser {
 				if(a["Lloji"] == "Gjethërënës") {
 					if(a["Lartësi"] == "I lartë (> 3m)")
 						marker.data.icon = gjetherenesLarteIcon;
-					else if(a["Lartësi"] == "I mesëm (1 - 3m)")
+					else if(a["Lartesi"] == "I mesëm (1 - 3m)")
 						marker.data.icon = gjetherenesMesemIcon;
-					else if(a["Lartësi"] == "I ulët (< 1m)")
+					else if(a["Lartesi"] == "I ulët (< 1m)")
 						marker.data.icon = gjetherenesUletIcon;
 					else
 						marker.data.icon = gjetherenesMesemIcon;
 				} else if(a["Lloji"] == "Gjethëmbajtës") {
-					if(a["Lartësi"] == "I lartë (> 3m)")
+					if(a["Lartesi"] == "I lartë (> 3m)")
 						marker.data.icon = gjethembajtesLarteIcon;
-					else if(a["Lartësi"] == "I mesëm (1 - 3m)")
+					else if(a["Lartesi"] == "I mesëm (1 - 3m)")
 						marker.data.icon = gjethembajtesMesemIcon;
-					else if(a["Lartësi"] == "I ulët (< 1m)")
+					else if(a["Lartesi"] == "I ulët (< 1m)")
 						marker.data.icon = gjethembajtesUletIcon;
 					else
 						marker.data.icon = gjethembajtesMesemIcon;

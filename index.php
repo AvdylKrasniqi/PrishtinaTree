@@ -124,9 +124,9 @@ require("header.php");
 					<hr/>
 				</div>
 				<div class="col-6">
-					<button class="button rounded-circle border-0 pt-2" style="background-color: #e24d21; height: 30px; width: 30px;">&nbsp;</button>Ulëse: <span class=" pt-2">508</span><br/>
-					<button class="button rounded-circle border-0 pt-2" style="background-color: #4090a8; height: 30px; width: 30px;">&nbsp;</button>Ndriçim: <span class=" pt-2">25</span><br/>
-					<button class="button rounded-circle border-0 pt-2" style="background-color: #624785; height: 30px; width: 30px;">&nbsp;</button>Mbeturina: <span class=" pt-2">200</span><br/>
+					<button class="button rounded-circle border-0 pt-3" style="background-color: #e24d21; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ulëse: <span>508</span></label><br/>
+					<button class="button rounded-circle border-0 pt-3" style="background-color: #4090a8; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ndriçim: <span>508</span></label><br/>
+					<button class="button rounded-circle border-0 pt-3" style="background-color: #624785; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Mbeturina: <span>508</span></label><br/>
 				</div>
 				<div class="col-6 text-right">
 					<p>gjendja e mirë: <span><b>200</b></span></p>

@@ -16,7 +16,7 @@ echo '<head>
 	<script src="./assets/bootstrap/bootstrap-4.4.1.min.js"></script>
 	
 	<script type="text/javascript" src="./js/treeparser.js"></script>
-
+    <script type="text/javascript" src="./js/polygonparser.js"></script>
   <script src="./assets/prunecluster/dist/PruneCluster.js"></script>
 
   <link href="./assets/prunecluster/dist/LeafletStyleSheet.css" rel="stylesheet">
@@ -37,8 +37,6 @@ echo '<head>
 	<link href="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/css/bootstrap4-toggle.min.css" rel="stylesheet">
 	<script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/js/bootstrap4-toggle.min.js"></script>
 	
-	<script type="text/javascript" src="./assets/datas/trees/pejtoni.min.js"></script>
-	<script type="text/javascript" src="./assets/datas/trees/kampusi.min.js"></script>
 
 
 
