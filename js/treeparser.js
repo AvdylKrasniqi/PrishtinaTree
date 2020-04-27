@@ -1,14 +1,17 @@
 class TreeParser {
 	jsonUrl;
+	layer = [];
 	constructor(jsonUrl){
 		this.jsonUrl = jsonUrl;
 		this.render();
 	}
 	render() {
+		var _this = this;
 	   $.getJSON(this.jsonUrl, function(jd) {
 	   		
 	   		for (var i = 0; i < jd.length; ++i) {
 		   		var a = jd[i];
+		   		var myIcon;
 				var description = "<dl>"
 									+ "<dt>Tipi i drurit</dt>"
 									+ "<dd>" + a["Lloji"] + "</dd>"
@@ -17,36 +20,39 @@ class TreeParser {
 									+ "<dt>Gjendja</dt>"
 									+ "<dd>" + a["Gjendja"] + "</dd>"
 									+ "<dt>Koordinatat</dt>"
-									+ "<dd>" + a["KordinataY"] + " " + a["KordinataX"] + "</dd>"
+									+ "<dd>" + a["KordinataY"] + ", " + a["KordinataX"] + "</dd>"
 								+ "</dl>";
-				var marker = new PruneCluster.Marker(a["KordinataY"], a["KordinataX"], {popup: description});
+				// var marker = new PruneCluster.Marker(a["KordinataY"], a["KordinataX"], {popup: description});
 				if(a["Lloji"] == "Gjethërënës") {
-					if(a["Lartësi"] == "I lartë (> 3m)")
-						marker.data.icon = gjetherenesLarteIcon;
+					if(a["Lartesi"] == "I lartë (> 3m)")
+						myIcon = gjetherenesLarteIcon;
 					else if(a["Lartesi"] == "I mesëm (1 - 3m)")
-						marker.data.icon = gjetherenesMesemIcon;
+						myIcon = gjetherenesMesemIcon;
 					else if(a["Lartesi"] == "I ulët (< 1m)")
-						marker.data.icon = gjetherenesUletIcon;
+						myIcon = gjetherenesUletIcon;
 					else
-						marker.data.icon = gjetherenesMesemIcon;
+						myIcon = gjetherenesMesemIcon;
 				} else if(a["Lloji"] == "Gjethëmbajtës") {
 					if(a["Lartesi"] == "I lartë (> 3m)")
-						marker.data.icon = gjethembajtesLarteIcon;
+						myIcon = gjethembajtesLarteIcon;
 					else if(a["Lartesi"] == "I mesëm (1 - 3m)")
-						marker.data.icon = gjethembajtesMesemIcon;
+						myIcon = gjethembajtesMesemIcon;
 					else if(a["Lartesi"] == "I ulët (< 1m)")
-						marker.data.icon = gjethembajtesUletIcon;
+						myIcon = gjethembajtesUletIcon;
 					else
-						marker.data.icon = gjethembajtesMesemIcon;
+						myIcon = gjethembajtesMesemIcon;
 				}
 				else
-					marker.data.icon = gjetherenesMesemIcon;
-			    publicMarkers.push(marker);
-    			leafletView5.RegisterMarker(marker);
+					myIcon = gjetherenesMesemIcon;
+				var marker = L.circle([a["KordinataY"], a["KordinataX"]], myIcon).bindPopup(description).addTo(map);
+				//_this.layer.push(L.circle([a["KordinataY"], a["KordinataX"]], myIcon).bindPopup(description));
+			    //publicMarkers.push(marker);
+    			// leafletView5.RegisterMarker(marker);
 			}
 			setTimeout(function(){
-			}, 0);
-			map.addLayer(leafletView5);
+			}, 5000);
+	   		//console.log(this.layer);
+			map.addLayer(this.layer);
 	   });
 
 

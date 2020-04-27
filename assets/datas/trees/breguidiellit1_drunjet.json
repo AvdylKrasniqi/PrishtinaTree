@@ -2,7 +2,7 @@
   {
     "id": 1,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16943,
     "KordinataY": 42.64551,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16945,
     "KordinataY": 42.64543,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1694,
     "KordinataY": 42.64544,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16935,
     "KordinataY": 42.64545,
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16937,
     "KordinataY": 42.64559,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16942,
     "KordinataY": 42.64561,
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16951,
     "KordinataY": 42.64559,
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16886,
     "KordinataY": 42.64572,
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16893,
     "KordinataY": 42.64574,
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16895,
     "KordinataY": 42.64577,
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.169,
     "KordinataY": 42.64586,
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16895,
     "KordinataY": 42.64588,
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16909,
     "KordinataY": 42.64594,
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16912,
     "KordinataY": 42.64598,
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16866,
     "KordinataY": 42.64577,
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16854,
     "KordinataY": 42.6458,
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16846,
     "KordinataY": 42.64584,
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16859,
     "KordinataY": 42.64596,
@@ -164,7 +164,7 @@
   {
     "id": 19,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16866,
     "KordinataY": 42.64596,
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16866,
     "KordinataY": 42.646,
@@ -182,7 +182,7 @@
   {
     "id": 21,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1686,
     "KordinataY": 42.646,
@@ -191,7 +191,7 @@
   {
     "id": 22,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1687,
     "KordinataY": 42.64608,
@@ -200,7 +200,7 @@
   {
     "id": 23,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16856,
     "KordinataY": 42.64614,
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16842,
     "KordinataY": 42.646,
@@ -218,7 +218,7 @@
   {
     "id": 25,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16836,
     "KordinataY": 42.64599,
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16832,
     "KordinataY": 42.64592,
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16837,
     "KordinataY": 42.64591,
@@ -245,7 +245,7 @@
   {
     "id": 28,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16818,
     "KordinataY": 42.64595,
@@ -254,7 +254,7 @@
   {
     "id": 29,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16811,
     "KordinataY": 42.646,
@@ -263,7 +263,7 @@
   {
     "id": 30,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16824,
     "KordinataY": 42.64607,
@@ -272,7 +272,7 @@
   {
     "id": 31,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16819,
     "KordinataY": 42.6461,
@@ -281,7 +281,7 @@
   {
     "id": 32,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16821,
     "KordinataY": 42.64614,
@@ -290,7 +290,7 @@
   {
     "id": 33,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16828,
     "KordinataY": 42.64616,
@@ -299,7 +299,7 @@
   {
     "id": 34,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16834,
     "KordinataY": 42.64623,
@@ -308,7 +308,7 @@
   {
     "id": 35,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16829,
     "KordinataY": 42.64626,
@@ -317,7 +317,7 @@
   {
     "id": 36,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16784,
     "KordinataY": 42.64606,
@@ -326,7 +326,7 @@
   {
     "id": 37,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16778,
     "KordinataY": 42.64607,
@@ -335,7 +335,7 @@
   {
     "id": 38,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16773,
     "KordinataY": 42.64609,
@@ -344,7 +344,7 @@
   {
     "id": 39,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16768,
     "KordinataY": 42.64611,
@@ -353,7 +353,7 @@
   {
     "id": 40,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16763,
     "KordinataY": 42.64613,
@@ -362,7 +362,7 @@
   {
     "id": 41,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16757,
     "KordinataY": 42.64615,
@@ -371,7 +371,7 @@
   {
     "id": 42,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16783,
     "KordinataY": 42.64615,
@@ -380,7 +380,7 @@
   {
     "id": 43,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16745,
     "KordinataY": 42.64621,
@@ -389,7 +389,7 @@
   {
     "id": 44,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16739,
     "KordinataY": 42.64622,
@@ -398,7 +398,7 @@
   {
     "id": 45,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16734,
     "KordinataY": 42.64624,
@@ -407,7 +407,7 @@
   {
     "id": 46,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16728,
     "KordinataY": 42.64626,
@@ -416,7 +416,7 @@
   {
     "id": 47,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16723,
     "KordinataY": 42.64628,
@@ -425,7 +425,7 @@
   {
     "id": 48,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16717,
     "KordinataY": 42.6463,
@@ -434,7 +434,7 @@
   {
     "id": 49,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16712,
     "KordinataY": 42.64632,
@@ -443,7 +443,7 @@
   {
     "id": 50,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16706,
     "KordinataY": 42.64634,
@@ -452,7 +452,7 @@
   {
     "id": 51,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16701,
     "KordinataY": 42.64636,
@@ -461,7 +461,7 @@
   {
     "id": 52,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1674,
     "KordinataY": 42.64633,
@@ -470,7 +470,7 @@
   {
     "id": 53,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16734,
     "KordinataY": 42.64635,
@@ -479,7 +479,7 @@
   {
     "id": 54,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16726,
     "KordinataY": 42.64638,
@@ -488,7 +488,7 @@
   {
     "id": 55,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16715,
     "KordinataY": 42.64643,
@@ -497,7 +497,7 @@
   {
     "id": 56,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16678,
     "KordinataY": 42.64645,
@@ -506,7 +506,7 @@
   {
     "id": 57,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16672,
     "KordinataY": 42.64647,
@@ -515,7 +515,7 @@
   {
     "id": 58,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16667,
     "KordinataY": 42.64649,
@@ -524,7 +524,7 @@
   {
     "id": 59,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16661,
     "KordinataY": 42.64651,
@@ -533,7 +533,7 @@
   {
     "id": 60,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16656,
     "KordinataY": 42.64653,
@@ -542,7 +542,7 @@
   {
     "id": 61,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16651,
     "KordinataY": 42.64655,
@@ -551,7 +551,7 @@
   {
     "id": 62,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16646,
     "KordinataY": 42.64657,
@@ -560,7 +560,7 @@
   {
     "id": 63,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16641,
     "KordinataY": 42.64659,
@@ -569,7 +569,7 @@
   {
     "id": 64,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16635,
     "KordinataY": 42.64661,
@@ -578,7 +578,7 @@
   {
     "id": 65,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16629,
     "KordinataY": 42.64664,
@@ -587,7 +587,7 @@
   {
     "id": 66,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16624,
     "KordinataY": 42.64665,
@@ -596,7 +596,7 @@
   {
     "id": 67,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16619,
     "KordinataY": 42.64667,
@@ -605,7 +605,7 @@
   {
     "id": 68,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16613,
     "KordinataY": 42.64669,
@@ -614,7 +614,7 @@
   {
     "id": 69,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16607,
     "KordinataY": 42.64671,
@@ -623,7 +623,7 @@
   {
     "id": 70,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16602,
     "KordinataY": 42.64673,
@@ -632,7 +632,7 @@
   {
     "id": 71,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16597,
     "KordinataY": 42.64675,
@@ -641,7 +641,7 @@
   {
     "id": 72,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16591,
     "KordinataY": 42.64677,
@@ -650,7 +650,7 @@
   {
     "id": 73,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16586,
     "KordinataY": 42.64679,
@@ -659,7 +659,7 @@
   {
     "id": 74,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16581,
     "KordinataY": 42.64681,
@@ -668,7 +668,7 @@
   {
     "id": 75,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16575,
     "KordinataY": 42.64683,
@@ -677,7 +677,7 @@
   {
     "id": 76,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1657,
     "KordinataY": 42.64685,
@@ -686,7 +686,7 @@
   {
     "id": 77,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16564,
     "KordinataY": 42.64687,
@@ -695,7 +695,7 @@
   {
     "id": 78,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16559,
     "KordinataY": 42.64689,
@@ -704,7 +704,7 @@
   {
     "id": 79,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16546,
     "KordinataY": 42.64697,
@@ -713,7 +713,7 @@
   {
     "id": 80,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16541,
     "KordinataY": 42.64697,
@@ -722,7 +722,7 @@
   {
     "id": 81,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16536,
     "KordinataY": 42.64697,
@@ -731,7 +731,7 @@
   {
     "id": 82,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16531,
     "KordinataY": 42.647,
@@ -740,7 +740,7 @@
   {
     "id": 83,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16525,
     "KordinataY": 42.64702,
@@ -749,7 +749,7 @@
   {
     "id": 84,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16519,
     "KordinataY": 42.64704,
@@ -758,7 +758,7 @@
   {
     "id": 85,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16514,
     "KordinataY": 42.64706,
@@ -767,7 +767,7 @@
   {
     "id": 86,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16508,
     "KordinataY": 42.64709,
@@ -776,7 +776,7 @@
   {
     "id": 87,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16502,
     "KordinataY": 42.64711,
@@ -785,7 +785,7 @@
   {
     "id": 88,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16497,
     "KordinataY": 42.64713,
@@ -794,7 +794,7 @@
   {
     "id": 89,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16493,
     "KordinataY": 42.64715,
@@ -803,7 +803,7 @@
   {
     "id": 90,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16481,
     "KordinataY": 42.64719,
@@ -812,7 +812,7 @@
   {
     "id": 91,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16476,
     "KordinataY": 42.64722,
@@ -821,7 +821,7 @@
   {
     "id": 92,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16471,
     "KordinataY": 42.64724,
@@ -830,7 +830,7 @@
   {
     "id": 93,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16465,
     "KordinataY": 42.64728,
@@ -839,7 +839,7 @@
   {
     "id": 94,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16461,
     "KordinataY": 42.6473,
@@ -848,7 +848,7 @@
   {
     "id": 95,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16456,
     "KordinataY": 42.64731,
@@ -857,7 +857,7 @@
   {
     "id": 96,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1645,
     "KordinataY": 42.64733,
@@ -866,7 +866,7 @@
   {
     "id": 97,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16444,
     "KordinataY": 42.64735,
@@ -875,7 +875,7 @@
   {
     "id": 98,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16439,
     "KordinataY": 42.64737,
@@ -884,7 +884,7 @@
   {
     "id": 99,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16434,
     "KordinataY": 42.64738,
@@ -893,7 +893,7 @@
   {
     "id": 100,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16429,
     "KordinataY": 42.6474,
@@ -902,7 +902,7 @@
   {
     "id": 101,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16424,
     "KordinataY": 42.64742,
@@ -911,7 +911,7 @@
   {
     "id": 102,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16418,
     "KordinataY": 42.64743,
@@ -920,7 +920,7 @@
   {
     "id": 103,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16413,
     "KordinataY": 42.64745,
@@ -929,7 +929,7 @@
   {
     "id": 104,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16408,
     "KordinataY": 42.64746,
@@ -938,7 +938,7 @@
   {
     "id": 105,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16403,
     "KordinataY": 42.64748,
@@ -947,7 +947,7 @@
   {
     "id": 106,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16398,
     "KordinataY": 42.6475,
@@ -956,7 +956,7 @@
   {
     "id": 107,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16393,
     "KordinataY": 42.64751,
@@ -965,7 +965,7 @@
   {
     "id": 108,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16388,
     "KordinataY": 42.64753,
@@ -974,7 +974,7 @@
   {
     "id": 109,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16383,
     "KordinataY": 42.64754,
@@ -983,7 +983,7 @@
   {
     "id": 110,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16379,
     "KordinataY": 42.64756,
@@ -992,7 +992,7 @@
   {
     "id": 111,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16374,
     "KordinataY": 42.64758,
@@ -1001,7 +1001,7 @@
   {
     "id": 112,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16369,
     "KordinataY": 42.64759,
@@ -1010,7 +1010,7 @@
   {
     "id": 113,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16365,
     "KordinataY": 42.64761,
@@ -1019,7 +1019,7 @@
   {
     "id": 114,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1636,
     "KordinataY": 42.64762,
@@ -1028,7 +1028,7 @@
   {
     "id": 115,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16355,
     "KordinataY": 42.64764,
@@ -1037,7 +1037,7 @@
   {
     "id": 116,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1635,
     "KordinataY": 42.64767,
@@ -1046,7 +1046,7 @@
   {
     "id": 117,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16344,
     "KordinataY": 42.64769,
@@ -1055,7 +1055,7 @@
   {
     "id": 118,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1634,
     "KordinataY": 42.64771,
@@ -1064,7 +1064,7 @@
   {
     "id": 119,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16334,
     "KordinataY": 42.64772,
@@ -1073,7 +1073,7 @@
   {
     "id": 120,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16329,
     "KordinataY": 42.64775,
@@ -1082,7 +1082,7 @@
   {
     "id": 121,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16325,
     "KordinataY": 42.64776,
@@ -1091,7 +1091,7 @@
   {
     "id": 122,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16326,
     "KordinataY": 42.64778,
@@ -1100,7 +1100,7 @@
   {
     "id": 123,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16327,
     "KordinataY": 42.6478,
@@ -1109,7 +1109,7 @@
   {
     "id": 124,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16329,
     "KordinataY": 42.64782,
@@ -1118,7 +1118,7 @@
   {
     "id": 125,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16279,
     "KordinataY": 42.64785,
@@ -1127,7 +1127,7 @@
   {
     "id": 126,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16293,
     "KordinataY": 42.64783,
@@ -1136,7 +1136,7 @@
   {
     "id": 127,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16279,
     "KordinataY": 42.64782,
@@ -1145,7 +1145,7 @@
   {
     "id": 128,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16275,
     "KordinataY": 42.64785,
@@ -1154,7 +1154,7 @@
   {
     "id": 128,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16279,
     "KordinataY": 42.64788,
@@ -1163,7 +1163,7 @@
   {
     "id": 129,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16284,
     "KordinataY": 42.64785,
@@ -1172,7 +1172,7 @@
   {
     "id": 130,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16281,
     "KordinataY": 42.64795,
@@ -1181,7 +1181,7 @@
   {
     "id": 131,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16283,
     "KordinataY": 42.64794,
@@ -1190,7 +1190,7 @@
   {
     "id": 132,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16284,
     "KordinataY": 42.64794,
@@ -1199,7 +1199,7 @@
   {
     "id": 133,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16285,
     "KordinataY": 42.64794,
@@ -1208,7 +1208,7 @@
   {
     "id": 134,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16317,
     "KordinataY": 42.64792,
@@ -1217,7 +1217,7 @@
   {
     "id": 135,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16321,
     "KordinataY": 42.64803,
@@ -1226,7 +1226,7 @@
   {
     "id": 136,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16327,
     "KordinataY": 42.64811,
@@ -1235,7 +1235,7 @@
   {
     "id": 137,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1633,
     "KordinataY": 42.64814,
@@ -1244,7 +1244,7 @@
   {
     "id": 137,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16334,
     "KordinataY": 42.64817,
@@ -1253,7 +1253,7 @@
   {
     "id": 138,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16338,
     "KordinataY": 42.64819,
@@ -1262,7 +1262,7 @@
   {
     "id": 139,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16341,
     "KordinataY": 42.64821,
@@ -1271,7 +1271,7 @@
   {
     "id": 140,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1635,
     "KordinataY": 42.6483,
@@ -1280,7 +1280,7 @@
   {
     "id": 141,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16353,
     "KordinataY": 42.64833,
@@ -1289,7 +1289,7 @@
   {
     "id": 142,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16358,
     "KordinataY": 42.64838,
@@ -1298,7 +1298,7 @@
   {
     "id": 143,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1636,
     "KordinataY": 42.64843,
@@ -1307,7 +1307,7 @@
   {
     "id": 144,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16365,
     "KordinataY": 42.64849,
@@ -1316,7 +1316,7 @@
   {
     "id": 145,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16367,
     "KordinataY": 42.64852,
@@ -1325,7 +1325,7 @@
   {
     "id": 146,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16366,
     "KordinataY": 42.64854,
@@ -1334,7 +1334,7 @@
   {
     "id": 147,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16372,
     "KordinataY": 42.64857,
@@ -1343,7 +1343,7 @@
   {
     "id": 148,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16376,
     "KordinataY": 42.64862,
@@ -1352,7 +1352,7 @@
   {
     "id": 149,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16392,
     "KordinataY": 42.64881,
@@ -1361,7 +1361,7 @@
   {
     "id": 150,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16397,
     "KordinataY": 42.64888,
@@ -1370,7 +1370,7 @@
   {
     "id": 151,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16402,
     "KordinataY": 42.64892,
@@ -1379,7 +1379,7 @@
   {
     "id": 152,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16407,
     "KordinataY": 42.64898,
@@ -1388,7 +1388,7 @@
   {
     "id": 153,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1641,
     "KordinataY": 42.64903,
@@ -1397,7 +1397,7 @@
   {
     "id": 154,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16415,
     "KordinataY": 42.64908,
@@ -1406,7 +1406,7 @@
   {
     "id": 155,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16417,
     "KordinataY": 42.64912,
@@ -1415,7 +1415,7 @@
   {
     "id": 156,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16422,
     "KordinataY": 42.64918,
@@ -1424,7 +1424,7 @@
   {
     "id": 157,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16427,
     "KordinataY": 42.64925,
@@ -1433,7 +1433,7 @@
   {
     "id": 158,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16431,
     "KordinataY": 42.6493,
@@ -1442,7 +1442,7 @@
   {
     "id": 159,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16442,
     "KordinataY": 42.64941,
@@ -1451,7 +1451,7 @@
   {
     "id": 160,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16447,
     "KordinataY": 42.64946,
@@ -1460,7 +1460,7 @@
   {
     "id": 161,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1645,
     "KordinataY": 42.64951,
@@ -1469,7 +1469,7 @@
   {
     "id": 162,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16454,
     "KordinataY": 42.64957,
@@ -1478,7 +1478,7 @@
   {
     "id": 163,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16457,
     "KordinataY": 42.64961,
@@ -1487,7 +1487,7 @@
   {
     "id": 164,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1646,
     "KordinataY": 42.64965,
@@ -1496,7 +1496,7 @@
   {
     "id": 165,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16463,
     "KordinataY": 42.6497,
@@ -1505,7 +1505,7 @@
   {
     "id": 166,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16466,
     "KordinataY": 42.64975,
@@ -1514,7 +1514,7 @@
   {
     "id": 167,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16469,
     "KordinataY": 42.6498,
@@ -1523,7 +1523,7 @@
   {
     "id": 168,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16473,
     "KordinataY": 42.64985,
@@ -1532,7 +1532,7 @@
   {
     "id": 169,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16475,
     "KordinataY": 42.64988,
@@ -1541,7 +1541,7 @@
   {
     "id": 170,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16478,
     "KordinataY": 42.64992,
@@ -1550,7 +1550,7 @@
   {
     "id": 171,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16316,
     "KordinataY": 42.64819,
@@ -1559,7 +1559,7 @@
   {
     "id": 172,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1632,
     "KordinataY": 42.64822,
@@ -1568,7 +1568,7 @@
   {
     "id": 173,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16324,
     "KordinataY": 42.64826,
@@ -1577,7 +1577,7 @@
   {
     "id": 174,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16327,
     "KordinataY": 42.64829,
@@ -1586,7 +1586,7 @@
   {
     "id": 175,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16334,
     "KordinataY": 42.64837,
@@ -1595,7 +1595,7 @@
   {
     "id": 176,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16337,
     "KordinataY": 42.64841,
@@ -1604,7 +1604,7 @@
   {
     "id": 177,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16339,
     "KordinataY": 42.64843,
@@ -1613,7 +1613,7 @@
   {
     "id": 178,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16353,
     "KordinataY": 42.64859,
@@ -1622,7 +1622,7 @@
   {
     "id": 179,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16358,
     "KordinataY": 42.64865,
@@ -1631,7 +1631,7 @@
   {
     "id": 180,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16364,
     "KordinataY": 42.64871,
@@ -1640,7 +1640,7 @@
   {
     "id": 181,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16372,
     "KordinataY": 42.64879,
@@ -1649,7 +1649,7 @@
   {
     "id": 182,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16393,
     "KordinataY": 42.64903,
@@ -1658,7 +1658,7 @@
   {
     "id": 183,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16397,
     "KordinataY": 42.64908,
@@ -1667,7 +1667,7 @@
   {
     "id": 184,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16401,
     "KordinataY": 42.64914,
@@ -1676,7 +1676,7 @@
   {
     "id": 185,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16405,
     "KordinataY": 42.64919,
@@ -1685,7 +1685,7 @@
   {
     "id": 186,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16412,
     "KordinataY": 42.64928,
@@ -1694,7 +1694,7 @@
   {
     "id": 187,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16416,
     "KordinataY": 42.64933,
@@ -1703,7 +1703,7 @@
   {
     "id": 188,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16414,
     "KordinataY": 42.64932,
@@ -1712,7 +1712,7 @@
   {
     "id": 189,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16419,
     "KordinataY": 42.64937,
@@ -1721,7 +1721,7 @@
   {
     "id": 190,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16422,
     "KordinataY": 42.6494,
@@ -1730,7 +1730,7 @@
   {
     "id": 191,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16424,
     "KordinataY": 42.64946,
@@ -1739,7 +1739,7 @@
   {
     "id": 192,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16428,
     "KordinataY": 42.64947,
@@ -1748,7 +1748,7 @@
   {
     "id": 193,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16425,
     "KordinataY": 42.64949,
@@ -1757,7 +1757,7 @@
   {
     "id": 194,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16427,
     "KordinataY": 42.64951,
@@ -1766,7 +1766,7 @@
   {
     "id": 195,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16431,
     "KordinataY": 42.64952,
@@ -1775,7 +1775,7 @@
   {
     "id": 196,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16428,
     "KordinataY": 42.64954,
@@ -1784,7 +1784,7 @@
   {
     "id": 197,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16432,
     "KordinataY": 42.64954,
@@ -1793,7 +1793,7 @@
   {
     "id": 198,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16431,
     "KordinataY": 42.64958,
@@ -1802,7 +1802,7 @@
   {
     "id": 199,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16433,
     "KordinataY": 42.64961,
@@ -1811,7 +1811,7 @@
   {
     "id": 200,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16435,
     "KordinataY": 42.64963,
@@ -1820,7 +1820,7 @@
   {
     "id": 201,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16437,
     "KordinataY": 42.64966,
@@ -1829,7 +1829,7 @@
   {
     "id": 202,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16442,
     "KordinataY": 42.64972,
@@ -1838,7 +1838,7 @@
   {
     "id": 203,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16444,
     "KordinataY": 42.64975,
@@ -1847,7 +1847,7 @@
   {
     "id": 204,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16447,
     "KordinataY": 42.64979,
@@ -1856,7 +1856,7 @@
   {
     "id": 205,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16448,
     "KordinataY": 42.64981,
@@ -1865,7 +1865,7 @@
   {
     "id": 206,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16451,
     "KordinataY": 42.64984,
@@ -1874,7 +1874,7 @@
   {
     "id": 207,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16454,
     "KordinataY": 42.64988,
@@ -1883,7 +1883,7 @@
   {
     "id": 208,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I ulët (< 1m)",
+    "Lartesi": "I ulët (< 1m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16458,
     "KordinataY": 42.64994,
@@ -1892,7 +1892,7 @@
   {
     "id": 209,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16505,
     "KordinataY": 42.65013,
@@ -1901,7 +1901,7 @@
   {
     "id": 210,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16509,
     "KordinataY": 42.65011,
@@ -1910,7 +1910,7 @@
   {
     "id": 211,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16512,
     "KordinataY": 42.65008,
@@ -1919,7 +1919,7 @@
   {
     "id": 212,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16515,
     "KordinataY": 42.65006,
@@ -1928,7 +1928,7 @@
   {
     "id": 213,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16518,
     "KordinataY": 42.65003,
@@ -1937,7 +1937,7 @@
   {
     "id": 214,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1652,
     "KordinataY": 42.65002,
@@ -1946,7 +1946,7 @@
   {
     "id": 215,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16523,
     "KordinataY": 42.64999,
@@ -1955,7 +1955,7 @@
   {
     "id": 216,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1653,
     "KordinataY": 42.64994,
@@ -1964,7 +1964,7 @@
   {
     "id": 217,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16534,
     "KordinataY": 42.64992,
@@ -1973,7 +1973,7 @@
   {
     "id": 218,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16536,
     "KordinataY": 42.64989,
@@ -1982,7 +1982,7 @@
   {
     "id": 219,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16539,
     "KordinataY": 42.64988,
@@ -1991,7 +1991,7 @@
   {
     "id": 220,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16542,
     "KordinataY": 42.64986,
@@ -2000,7 +2000,7 @@
   {
     "id": 221,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16546,
     "KordinataY": 42.64983,
@@ -2009,7 +2009,7 @@
   {
     "id": 222,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1655,
     "KordinataY": 42.64981,
@@ -2018,7 +2018,7 @@
   {
     "id": 223,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16558,
     "KordinataY": 42.64976,
@@ -2027,7 +2027,7 @@
   {
     "id": 224,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16562,
     "KordinataY": 42.64974,
@@ -2036,7 +2036,7 @@
   {
     "id": 225,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16565,
     "KordinataY": 42.64972,
@@ -2045,7 +2045,7 @@
   {
     "id": 226,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16568,
     "KordinataY": 42.6497,
@@ -2054,7 +2054,7 @@
   {
     "id": 227,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16571,
     "KordinataY": 42.64968,
@@ -2063,7 +2063,7 @@
   {
     "id": 228,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16573,
     "KordinataY": 42.64967,
@@ -2072,7 +2072,7 @@
   {
     "id": 229,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16576,
     "KordinataY": 42.64965,
@@ -2081,7 +2081,7 @@
   {
     "id": 230,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16579,
     "KordinataY": 42.64963,
@@ -2090,7 +2090,7 @@
   {
     "id": 231,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1658,
     "KordinataY": 42.64963,
@@ -2099,7 +2099,7 @@
   {
     "id": 232,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16587,
     "KordinataY": 42.64959,
@@ -2108,7 +2108,7 @@
   {
     "id": 233,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16589,
     "KordinataY": 42.64958,
@@ -2117,7 +2117,7 @@
   {
     "id": 234,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16592,
     "KordinataY": 42.64957,
@@ -2126,7 +2126,7 @@
   {
     "id": 235,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16594,
     "KordinataY": 42.64956,
@@ -2135,7 +2135,7 @@
   {
     "id": 236,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16597,
     "KordinataY": 42.64954,
@@ -2144,7 +2144,7 @@
   {
     "id": 237,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16601,
     "KordinataY": 42.64953,
@@ -2153,7 +2153,7 @@
   {
     "id": 238,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16604,
     "KordinataY": 42.64951,
@@ -2162,7 +2162,7 @@
   {
     "id": 239,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16607,
     "KordinataY": 42.6495,
@@ -2171,7 +2171,7 @@
   {
     "id": 240,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1661,
     "KordinataY": 42.64948,
@@ -2180,7 +2180,7 @@
   {
     "id": 241,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16619,
     "KordinataY": 42.64945,
@@ -2189,7 +2189,7 @@
   {
     "id": 242,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16623,
     "KordinataY": 42.64943,
@@ -2198,7 +2198,7 @@
   {
     "id": 243,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16626,
     "KordinataY": 42.64942,
@@ -2207,7 +2207,7 @@
   {
     "id": 244,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16629,
     "KordinataY": 42.6494,
@@ -2216,7 +2216,7 @@
   {
     "id": 245,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16632,
     "KordinataY": 42.64939,
@@ -2225,7 +2225,7 @@
   {
     "id": 246,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16636,
     "KordinataY": 42.64937,
@@ -2234,7 +2234,7 @@
   {
     "id": 247,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16639,
     "KordinataY": 42.64936,
@@ -2243,7 +2243,7 @@
   {
     "id": 248,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16642,
     "KordinataY": 42.64935,
@@ -2252,7 +2252,7 @@
   {
     "id": 249,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16672,
     "KordinataY": 42.64923,
@@ -2261,7 +2261,7 @@
   {
     "id": 250,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16675,
     "KordinataY": 42.64921,
@@ -2270,7 +2270,7 @@
   {
     "id": 251,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16678,
     "KordinataY": 42.6492,
@@ -2279,7 +2279,7 @@
   {
     "id": 252,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16682,
     "KordinataY": 42.64918,
@@ -2288,7 +2288,7 @@
   {
     "id": 253,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16684,
     "KordinataY": 42.64917,
@@ -2297,7 +2297,7 @@
   {
     "id": 254,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16687,
     "KordinataY": 42.64916,
@@ -2306,7 +2306,7 @@
   {
     "id": 255,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.1669,
     "KordinataY": 42.64915,
@@ -2315,7 +2315,7 @@
   {
     "id": 256,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16693,
     "KordinataY": 42.64914,
@@ -2324,7 +2324,7 @@
   {
     "id": 257,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16697,
     "KordinataY": 42.64913,
@@ -2333,7 +2333,7 @@
   {
     "id": 258,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16701,
     "KordinataY": 42.64911,
@@ -2342,7 +2342,7 @@
   {
     "id": 259,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16705,
     "KordinataY": 42.64909,
@@ -2351,7 +2351,7 @@
   {
     "id": 260,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16716,
     "KordinataY": 42.64905,
@@ -2360,7 +2360,7 @@
   {
     "id": 261,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1672,
     "KordinataY": 42.64903,
@@ -2369,7 +2369,7 @@
   {
     "id": 262,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16723,
     "KordinataY": 42.64902,
@@ -2378,7 +2378,7 @@
   {
     "id": 263,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16726,
     "KordinataY": 42.64901,
@@ -2387,7 +2387,7 @@
   {
     "id": 264,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1673,
     "KordinataY": 42.649,
@@ -2396,7 +2396,7 @@
   {
     "id": 265,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16732,
     "KordinataY": 42.64898,
@@ -2405,7 +2405,7 @@
   {
     "id": 266,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16735,
     "KordinataY": 42.64897,
@@ -2414,7 +2414,7 @@
   {
     "id": 267,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16739,
     "KordinataY": 42.64896,
@@ -2423,7 +2423,7 @@
   {
     "id": 268,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16743,
     "KordinataY": 42.64894,
@@ -2432,7 +2432,7 @@
   {
     "id": 269,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16751,
     "KordinataY": 42.64891,
@@ -2441,7 +2441,7 @@
   {
     "id": 270,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16753,
     "KordinataY": 42.6489,
@@ -2450,7 +2450,7 @@
   {
     "id": 271,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16755,
     "KordinataY": 42.64889,
@@ -2459,7 +2459,7 @@
   {
     "id": 272,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16757,
     "KordinataY": 42.64888,
@@ -2468,7 +2468,7 @@
   {
     "id": 273,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16765,
     "KordinataY": 42.64885,
@@ -2477,7 +2477,7 @@
   {
     "id": 274,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16767,
     "KordinataY": 42.64884,
@@ -2486,7 +2486,7 @@
   {
     "id": 275,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16769,
     "KordinataY": 42.64884,
@@ -2495,7 +2495,7 @@
   {
     "id": 276,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16771,
     "KordinataY": 42.64882,
@@ -2504,7 +2504,7 @@
   {
     "id": 277,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16776,
     "KordinataY": 42.6488,
@@ -2513,7 +2513,7 @@
   {
     "id": 278,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16778,
     "KordinataY": 42.6488,
@@ -2522,7 +2522,7 @@
   {
     "id": 279,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16781,
     "KordinataY": 42.64879,
@@ -2531,7 +2531,7 @@
   {
     "id": 280,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16789,
     "KordinataY": 42.64875,
@@ -2540,7 +2540,7 @@
   {
     "id": 281,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16792,
     "KordinataY": 42.64874,
@@ -2549,7 +2549,7 @@
   {
     "id": 282,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16799,
     "KordinataY": 42.64871,
@@ -2558,7 +2558,7 @@
   {
     "id": 283,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16803,
     "KordinataY": 42.6487,
@@ -2567,7 +2567,7 @@
   {
     "id": 284,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16807,
     "KordinataY": 42.64869,
@@ -2576,7 +2576,7 @@
   {
     "id": 285,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16811,
     "KordinataY": 42.64867,
@@ -2585,7 +2585,7 @@
   {
     "id": 286,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16814,
     "KordinataY": 42.64866,
@@ -2594,7 +2594,7 @@
   {
     "id": 287,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16817,
     "KordinataY": 42.64865,
@@ -2603,7 +2603,7 @@
   {
     "id": 288,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1682,
     "KordinataY": 42.64864,
@@ -2612,7 +2612,7 @@
   {
     "id": 289,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16823,
     "KordinataY": 42.64863,
@@ -2621,7 +2621,7 @@
   {
     "id": 290,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16826,
     "KordinataY": 42.64862,
@@ -2630,7 +2630,7 @@
   {
     "id": 291,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16829,
     "KordinataY": 42.64861,
@@ -2639,7 +2639,7 @@
   {
     "id": 292,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16834,
     "KordinataY": 42.64858,
@@ -2648,7 +2648,7 @@
   {
     "id": 293,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16839,
     "KordinataY": 42.64856,
@@ -2657,7 +2657,7 @@
   {
     "id": 294,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16844,
     "KordinataY": 42.64854,
@@ -2666,7 +2666,7 @@
   {
     "id": 295,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16849,
     "KordinataY": 42.64853,
@@ -2675,7 +2675,7 @@
   {
     "id": 296,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16853,
     "KordinataY": 42.64852,
@@ -2684,7 +2684,7 @@
   {
     "id": 297,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16856,
     "KordinataY": 42.64851,
@@ -2693,7 +2693,7 @@
   {
     "id": 298,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.1686,
     "KordinataY": 42.6485,
@@ -2702,7 +2702,7 @@
   {
     "id": 299,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16864,
     "KordinataY": 42.64848,
@@ -2711,7 +2711,7 @@
   {
     "id": 300,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16867,
     "KordinataY": 42.64848,
@@ -2720,7 +2720,7 @@
   {
     "id": 301,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16869,
     "KordinataY": 42.64847,
@@ -2729,7 +2729,7 @@
   {
     "id": 302,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16875,
     "KordinataY": 42.64845,
@@ -2738,7 +2738,7 @@
   {
     "id": 303,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16879,
     "KordinataY": 42.64844,
@@ -2747,7 +2747,7 @@
   {
     "id": 304,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16883,
     "KordinataY": 42.64843,
@@ -2756,7 +2756,7 @@
   {
     "id": 305,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16888,
     "KordinataY": 42.64842,
@@ -2765,7 +2765,7 @@
   {
     "id": 306,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16892,
     "KordinataY": 42.64842,
@@ -2774,7 +2774,7 @@
   {
     "id": 307,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16896,
     "KordinataY": 42.64841,
@@ -2783,7 +2783,7 @@
   {
     "id": 308,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.169,
     "KordinataY": 42.6484,
@@ -2792,7 +2792,7 @@
   {
     "id": 309,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1691,
     "KordinataY": 42.64839,
@@ -2801,7 +2801,7 @@
   {
     "id": 310,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16914,
     "KordinataY": 42.64838,
@@ -2810,7 +2810,7 @@
   {
     "id": 311,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16918,
     "KordinataY": 42.64838,
@@ -2819,7 +2819,7 @@
   {
     "id": 312,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16921,
     "KordinataY": 42.64838,
@@ -2828,7 +2828,7 @@
   {
     "id": 313,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16926,
     "KordinataY": 42.64837,
@@ -2837,7 +2837,7 @@
   {
     "id": 314,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1693,
     "KordinataY": 42.64836,
@@ -2846,7 +2846,7 @@
   {
     "id": 315,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16935,
     "KordinataY": 42.64836,
@@ -2855,7 +2855,7 @@
   {
     "id": 316,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16939,
     "KordinataY": 42.64836,
@@ -2864,7 +2864,7 @@
   {
     "id": 317,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16946,
     "KordinataY": 42.64835,
@@ -2873,7 +2873,7 @@
   {
     "id": 318,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1695,
     "KordinataY": 42.64835,
@@ -2882,7 +2882,7 @@
   {
     "id": 319,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16954,
     "KordinataY": 42.64835,
@@ -2891,7 +2891,7 @@
   {
     "id": 320,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16957,
     "KordinataY": 42.64835,
@@ -2900,7 +2900,7 @@
   {
     "id": 321,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16961,
     "KordinataY": 42.64834,
@@ -2909,7 +2909,7 @@
   {
     "id": 322,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16965,
     "KordinataY": 42.64834,
@@ -2918,7 +2918,7 @@
   {
     "id": 323,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16969,
     "KordinataY": 42.64834,
@@ -2927,7 +2927,7 @@
   {
     "id": 324,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16972,
     "KordinataY": 42.64834,
@@ -2936,7 +2936,7 @@
   {
     "id": 325,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16976,
     "KordinataY": 42.64834,
@@ -2945,7 +2945,7 @@
   {
     "id": 326,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16995,
     "KordinataY": 42.64834,
@@ -2954,7 +2954,7 @@
   {
     "id": 327,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16999,
     "KordinataY": 42.64834,
@@ -2963,7 +2963,7 @@
   {
     "id": 328,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17002,
     "KordinataY": 42.64834,
@@ -2972,7 +2972,7 @@
   {
     "id": 329,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17006,
     "KordinataY": 42.64835,
@@ -2981,7 +2981,7 @@
   {
     "id": 330,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1701,
     "KordinataY": 42.64835,
@@ -2990,7 +2990,7 @@
   {
     "id": 331,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17013,
     "KordinataY": 42.64835,
@@ -2999,7 +2999,7 @@
   {
     "id": 332,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17016,
     "KordinataY": 42.64835,
@@ -3008,7 +3008,7 @@
   {
     "id": 333,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17022,
     "KordinataY": 42.64836,
@@ -3017,7 +3017,7 @@
   {
     "id": 334,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17026,
     "KordinataY": 42.64836,
@@ -3026,7 +3026,7 @@
   {
     "id": 335,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1703,
     "KordinataY": 42.64836,
@@ -3035,7 +3035,7 @@
   {
     "id": 336,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17035,
     "KordinataY": 42.64837,
@@ -3044,7 +3044,7 @@
   {
     "id": 337,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17039,
     "KordinataY": 42.64837,
@@ -3053,7 +3053,7 @@
   {
     "id": 338,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17042,
     "KordinataY": 42.64838,
@@ -3062,7 +3062,7 @@
   {
     "id": 339,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17046,
     "KordinataY": 42.64838,
@@ -3071,7 +3071,7 @@
   {
     "id": 340,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17055,
     "KordinataY": 42.64838,
@@ -3080,7 +3080,7 @@
   {
     "id": 341,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17058,
     "KordinataY": 42.64839,
@@ -3089,7 +3089,7 @@
   {
     "id": 342,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17061,
     "KordinataY": 42.64839,
@@ -3098,7 +3098,7 @@
   {
     "id": 343,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17064,
     "KordinataY": 42.64839,
@@ -3107,7 +3107,7 @@
   {
     "id": 344,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17067,
     "KordinataY": 42.6484,
@@ -3116,7 +3116,7 @@
   {
     "id": 345,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17071,
     "KordinataY": 42.6484,
@@ -3125,7 +3125,7 @@
   {
     "id": 346,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17074,
     "KordinataY": 42.6484,
@@ -3134,7 +3134,7 @@
   {
     "id": 347,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17077,
     "KordinataY": 42.64841,
@@ -3143,7 +3143,7 @@
   {
     "id": 348,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17081,
     "KordinataY": 42.64841,
@@ -3152,7 +3152,7 @@
   {
     "id": 349,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17088,
     "KordinataY": 42.64842,
@@ -3161,7 +3161,7 @@
   {
     "id": 350,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17092,
     "KordinataY": 42.64842,
@@ -3170,7 +3170,7 @@
   {
     "id": 351,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17095,
     "KordinataY": 42.64843,
@@ -3179,7 +3179,7 @@
   {
     "id": 352,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17098,
     "KordinataY": 42.64844,
@@ -3188,7 +3188,7 @@
   {
     "id": 353,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17101,
     "KordinataY": 42.64844,
@@ -3197,7 +3197,7 @@
   {
     "id": 354,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17104,
     "KordinataY": 42.64845,
@@ -3206,7 +3206,7 @@
   {
     "id": 356,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17107,
     "KordinataY": 42.64846,
@@ -3215,7 +3215,7 @@
   {
     "id": 357,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1711,
     "KordinataY": 42.64846,
@@ -3224,7 +3224,7 @@
   {
     "id": 358,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17114,
     "KordinataY": 42.64846,
@@ -3233,7 +3233,7 @@
   {
     "id": 359,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17127,
     "KordinataY": 42.6485,
@@ -3242,7 +3242,7 @@
   {
     "id": 360,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17131,
     "KordinataY": 42.6485,
@@ -3251,7 +3251,7 @@
   {
     "id": 361,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17135,
     "KordinataY": 42.64851,
@@ -3260,7 +3260,7 @@
   {
     "id": 362,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17138,
     "KordinataY": 42.64852,
@@ -3269,7 +3269,7 @@
   {
     "id": 363,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17142,
     "KordinataY": 42.64853,
@@ -3278,7 +3278,7 @@
   {
     "id": 364,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17145,
     "KordinataY": 42.64854,
@@ -3287,7 +3287,7 @@
   {
     "id": 365,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17152,
     "KordinataY": 42.64856,
@@ -3296,7 +3296,7 @@
   {
     "id": 366,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17156,
     "KordinataY": 42.64857,
@@ -3305,7 +3305,7 @@
   {
     "id": 367,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17159,
     "KordinataY": 42.64859,
@@ -3314,7 +3314,7 @@
   {
     "id": 368,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17162,
     "KordinataY": 42.6486,
@@ -3323,7 +3323,7 @@
   {
     "id": 369,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17165,
     "KordinataY": 42.64862,
@@ -3332,7 +3332,7 @@
   {
     "id": 370,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17168,
     "KordinataY": 42.64863,
@@ -3341,7 +3341,7 @@
   {
     "id": 371,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17171,
     "KordinataY": 42.64865,
@@ -3350,7 +3350,7 @@
   {
     "id": 372,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17174,
     "KordinataY": 42.64866,
@@ -3359,7 +3359,7 @@
   {
     "id": 373,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17181,
     "KordinataY": 42.6487,
@@ -3368,7 +3368,7 @@
   {
     "id": 374,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17184,
     "KordinataY": 42.64872,
@@ -3377,7 +3377,7 @@
   {
     "id": 375,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17187,
     "KordinataY": 42.64873,
@@ -3386,7 +3386,7 @@
   {
     "id": 376,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17189,
     "KordinataY": 42.64875,
@@ -3395,7 +3395,7 @@
   {
     "id": 377,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17192,
     "KordinataY": 42.64876,
@@ -3404,7 +3404,7 @@
   {
     "id": 378,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17194,
     "KordinataY": 42.64877,
@@ -3413,7 +3413,7 @@
   {
     "id": 379,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17197,
     "KordinataY": 42.64879,
@@ -3422,7 +3422,7 @@
   {
     "id": 380,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.172,
     "KordinataY": 42.64881,
@@ -3431,7 +3431,7 @@
   {
     "id": 381,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17206,
     "KordinataY": 42.64885,
@@ -3440,7 +3440,7 @@
   {
     "id": 382,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1721,
     "KordinataY": 42.64887,
@@ -3449,7 +3449,7 @@
   {
     "id": 383,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17212,
     "KordinataY": 42.64888,
@@ -3458,7 +3458,7 @@
   {
     "id": 384,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.17216,
     "KordinataY": 42.6489,
@@ -3467,7 +3467,7 @@
   {
     "id": 385,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1684,
     "KordinataY": 42.64846,
@@ -3476,7 +3476,7 @@
   {
     "id": 386,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16846,
     "KordinataY": 42.64845,
@@ -3485,7 +3485,7 @@
   {
     "id": 387,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16852,
     "KordinataY": 42.64843,
@@ -3494,7 +3494,7 @@
   {
     "id": 388,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16858,
     "KordinataY": 42.64841,
@@ -3503,7 +3503,7 @@
   {
     "id": 389,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16863,
     "KordinataY": 42.64839,
@@ -3512,7 +3512,7 @@
   {
     "id": 390,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16869,
     "KordinataY": 42.64838,
@@ -3521,7 +3521,7 @@
   {
     "id": 391,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16875,
     "KordinataY": 42.64836,
@@ -3530,7 +3530,7 @@
   {
     "id": 392,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16882,
     "KordinataY": 42.64835,
@@ -3539,7 +3539,7 @@
   {
     "id": 393,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16888,
     "KordinataY": 42.64833,
@@ -3548,7 +3548,7 @@
   {
     "id": 394,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16893,
     "KordinataY": 42.64833,
@@ -3557,7 +3557,7 @@
   {
     "id": 395,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16899,
     "KordinataY": 42.64832,
@@ -3566,7 +3566,7 @@
   {
     "id": 396,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16904,
     "KordinataY": 42.64831,
@@ -3575,7 +3575,7 @@
   {
     "id": 397,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16909,
     "KordinataY": 42.6483,
@@ -3584,7 +3584,7 @@
   {
     "id": 398,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16914,
     "KordinataY": 42.6483,
@@ -3593,7 +3593,7 @@
   {
     "id": 399,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16918,
     "KordinataY": 42.64829,
@@ -3602,7 +3602,7 @@
   {
     "id": 400,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16923,
     "KordinataY": 42.64829,
@@ -3611,7 +3611,7 @@
   {
     "id": 401,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16964,
     "KordinataY": 42.64826,
@@ -3620,7 +3620,7 @@
   {
     "id": 402,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16967,
     "KordinataY": 42.64826,
@@ -3629,7 +3629,7 @@
   {
     "id": 403,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16971,
     "KordinataY": 42.64826,
@@ -3638,7 +3638,7 @@
   {
     "id": 404,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16975,
     "KordinataY": 42.64826,
@@ -3647,7 +3647,7 @@
   {
     "id": 405,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16979,
     "KordinataY": 42.64826,
@@ -3656,7 +3656,7 @@
   {
     "id": 406,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16758,
     "KordinataY": 42.64878,
@@ -3665,7 +3665,7 @@
   {
     "id": 407,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16765,
     "KordinataY": 42.64875,
@@ -3674,7 +3674,7 @@
   {
     "id": 408,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16771,
     "KordinataY": 42.64873,
@@ -3683,7 +3683,7 @@
   {
     "id": 409,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16776,
     "KordinataY": 42.64871,
@@ -3692,7 +3692,7 @@
   {
     "id": 410,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16781,
     "KordinataY": 42.64869,
@@ -3701,7 +3701,7 @@
   {
     "id": 411,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16786,
     "KordinataY": 42.64867,
@@ -3710,7 +3710,7 @@
   {
     "id": 412,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16791,
     "KordinataY": 42.64865,
@@ -3719,7 +3719,7 @@
   {
     "id": 413,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16797,
     "KordinataY": 42.64862,
@@ -3728,7 +3728,7 @@
   {
     "id": 414,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16802,
     "KordinataY": 42.64861,
@@ -3737,7 +3737,7 @@
   {
     "id": 415,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16807,
     "KordinataY": 42.64858,
@@ -3746,7 +3746,7 @@
   {
     "id": 416,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16815,
     "KordinataY": 42.64855,
@@ -3755,7 +3755,7 @@
   {
     "id": 417,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16707,
     "KordinataY": 42.64656,
@@ -3764,7 +3764,7 @@
   {
     "id": 418,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16714,
     "KordinataY": 42.64666,
@@ -3773,7 +3773,7 @@
   {
     "id": 419,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16721,
     "KordinataY": 42.64675,
@@ -3782,7 +3782,7 @@
   {
     "id": 420,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16729,
     "KordinataY": 42.64685,
@@ -3791,7 +3791,7 @@
   {
     "id": 421,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16756,
     "KordinataY": 42.64686,
@@ -3800,7 +3800,7 @@
   {
     "id": 422,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16758,
     "KordinataY": 42.6469,
@@ -3809,7 +3809,7 @@
   {
     "id": 423,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16762,
     "KordinataY": 42.64691,
@@ -3818,7 +3818,7 @@
   {
     "id": 424,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1676,
     "KordinataY": 42.64693,
@@ -3827,7 +3827,7 @@
   {
     "id": 425,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16694,
     "KordinataY": 42.6466,
@@ -3836,7 +3836,7 @@
   {
     "id": 426,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16697,
     "KordinataY": 42.64664,
@@ -3845,7 +3845,7 @@
   {
     "id": 427,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16689,
     "KordinataY": 42.64662,
@@ -3854,7 +3854,7 @@
   {
     "id": 428,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16684,
     "KordinataY": 42.64664,
@@ -3863,7 +3863,7 @@
   {
     "id": 429,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16679,
     "KordinataY": 42.64666,
@@ -3872,7 +3872,7 @@
   {
     "id": 430,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16673,
     "KordinataY": 42.64668,
@@ -3881,7 +3881,7 @@
   {
     "id": 431,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16668,
     "KordinataY": 42.6467,
@@ -3890,7 +3890,7 @@
   {
     "id": 432,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16663,
     "KordinataY": 42.64672,
@@ -3899,7 +3899,7 @@
   {
     "id": 433,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16658,
     "KordinataY": 42.64674,
@@ -3908,7 +3908,7 @@
   {
     "id": 434,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16653,
     "KordinataY": 42.64676,
@@ -3917,7 +3917,7 @@
   {
     "id": 435,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16648,
     "KordinataY": 42.64678,
@@ -3926,7 +3926,7 @@
   {
     "id": 436,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16642,
     "KordinataY": 42.6468,
@@ -3935,7 +3935,7 @@
   {
     "id": 437,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16636,
     "KordinataY": 42.64683,
@@ -3944,7 +3944,7 @@
   {
     "id": 438,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1663,
     "KordinataY": 42.64685,
@@ -3953,7 +3953,7 @@
   {
     "id": 439,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16623,
     "KordinataY": 42.64688,
@@ -3962,7 +3962,7 @@
   {
     "id": 440,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16617,
     "KordinataY": 42.6469,
@@ -3971,7 +3971,7 @@
   {
     "id": 441,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16611,
     "KordinataY": 42.64692,
@@ -3980,7 +3980,7 @@
   {
     "id": 442,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16605,
     "KordinataY": 42.64695,
@@ -3989,7 +3989,7 @@
   {
     "id": 443,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16599,
     "KordinataY": 42.64697,
@@ -3998,7 +3998,7 @@
   {
     "id": 444,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16594,
     "KordinataY": 42.64699,
@@ -4007,7 +4007,7 @@
   {
     "id": 445,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16597,
     "KordinataY": 42.64698,
@@ -4016,7 +4016,7 @@
   {
     "id": 446,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16592,
     "KordinataY": 42.647,
@@ -4025,7 +4025,7 @@
   {
     "id": 447,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16588,
     "KordinataY": 42.64702,
@@ -4034,7 +4034,7 @@
   {
     "id": 448,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16583,
     "KordinataY": 42.64703,
@@ -4043,7 +4043,7 @@
   {
     "id": 449,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16579,
     "KordinataY": 42.64706,
@@ -4052,7 +4052,7 @@
   {
     "id": 450,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16573,
     "KordinataY": 42.64708,
@@ -4061,7 +4061,7 @@
   {
     "id": 501,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16687,
     "KordinataY": 42.64654,
@@ -4070,7 +4070,7 @@
   {
     "id": 502,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16682,
     "KordinataY": 42.64656,
@@ -4079,7 +4079,7 @@
   {
     "id": 503,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16677,
     "KordinataY": 42.64658,
@@ -4088,7 +4088,7 @@
   {
     "id": 504,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16672,
     "KordinataY": 42.6466,
@@ -4097,7 +4097,7 @@
   {
     "id": 505,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16667,
     "KordinataY": 42.64662,
@@ -4106,7 +4106,7 @@
   {
     "id": 506,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16659,
     "KordinataY": 42.64665,
@@ -4115,7 +4115,7 @@
   {
     "id": 507,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16654,
     "KordinataY": 42.64667,
@@ -4124,7 +4124,7 @@
   {
     "id": 508,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16649,
     "KordinataY": 42.64669,
@@ -4133,7 +4133,7 @@
   {
     "id": 509,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16643,
     "KordinataY": 42.64672,
@@ -4142,7 +4142,7 @@
   {
     "id": 510,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16638,
     "KordinataY": 42.64674,
@@ -4151,7 +4151,7 @@
   {
     "id": 511,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16633,
     "KordinataY": 42.64676,
@@ -4160,7 +4160,7 @@
   {
     "id": 512,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16629,
     "KordinataY": 42.64678,
@@ -4169,7 +4169,7 @@
   {
     "id": 513,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16623,
     "KordinataY": 42.6468,
@@ -4178,7 +4178,7 @@
   {
     "id": 514,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16619,
     "KordinataY": 42.64681,
@@ -4187,7 +4187,7 @@
   {
     "id": 515,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16615,
     "KordinataY": 42.64683,
@@ -4196,7 +4196,7 @@
   {
     "id": 517,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16606,
     "KordinataY": 42.64687,
@@ -4205,7 +4205,7 @@
   {
     "id": 518,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16598,
     "KordinataY": 42.6469,
@@ -4214,7 +4214,7 @@
   {
     "id": 519,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16593,
     "KordinataY": 42.64692,
@@ -4223,7 +4223,7 @@
   {
     "id": 520,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16588,
     "KordinataY": 42.64694,
@@ -4232,7 +4232,7 @@
   {
     "id": 521,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16582,
     "KordinataY": 42.64696,
@@ -4241,7 +4241,7 @@
   {
     "id": 522,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16576,
     "KordinataY": 42.64699,
@@ -4250,7 +4250,7 @@
   {
     "id": 523,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16559,
     "KordinataY": 42.64696,
@@ -4259,7 +4259,7 @@
   {
     "id": 524,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16562,
     "KordinataY": 42.64699,
@@ -4268,7 +4268,7 @@
   {
     "id": 525,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16549,
     "KordinataY": 42.64701,
@@ -4277,7 +4277,7 @@
   {
     "id": 526,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16552,
     "KordinataY": 42.64704,
@@ -4286,7 +4286,7 @@
   {
     "id": 527,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16551,
     "KordinataY": 42.64709,
@@ -4295,7 +4295,7 @@
   {
     "id": 528,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16549,
     "KordinataY": 42.6471,
@@ -4304,7 +4304,7 @@
   {
     "id": 529,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16547,
     "KordinataY": 42.64711,
@@ -4313,7 +4313,7 @@
   {
     "id": 530,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16544,
     "KordinataY": 42.64712,
@@ -4322,7 +4322,7 @@
   {
     "id": 531,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16541,
     "KordinataY": 42.64714,
@@ -4331,7 +4331,7 @@
   {
     "id": 532,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16533,
     "KordinataY": 42.64717,
@@ -4340,7 +4340,7 @@
   {
     "id": 533,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16528,
     "KordinataY": 42.64719,
@@ -4349,7 +4349,7 @@
   {
     "id": 534,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16519,
     "KordinataY": 42.64723,
@@ -4358,7 +4358,7 @@
   {
     "id": 535,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16515,
     "KordinataY": 42.64725,
@@ -4367,7 +4367,7 @@
   {
     "id": 536,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1651,
     "KordinataY": 42.64726,
@@ -4376,7 +4376,7 @@
   {
     "id": 537,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16504,
     "KordinataY": 42.64729,
@@ -4385,7 +4385,7 @@
   {
     "id": 538,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.165,
     "KordinataY": 42.64731,
@@ -4394,7 +4394,7 @@
   {
     "id": 539,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16496,
     "KordinataY": 42.64732,
@@ -4403,7 +4403,7 @@
   {
     "id": 540,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16489,
     "KordinataY": 42.64735,
@@ -4412,7 +4412,7 @@
   {
     "id": 541,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16484,
     "KordinataY": 42.64737,
@@ -4421,7 +4421,7 @@
   {
     "id": 542,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16479,
     "KordinataY": 42.64739,
@@ -4430,7 +4430,7 @@
   {
     "id": 543,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16473,
     "KordinataY": 42.64741,
@@ -4439,7 +4439,7 @@
   {
     "id": 544,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16467,
     "KordinataY": 42.64744,
@@ -4448,7 +4448,7 @@
   {
     "id": 545,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1646,
     "KordinataY": 42.64747,
@@ -4457,7 +4457,7 @@
   {
     "id": 546,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16455,
     "KordinataY": 42.64748,
@@ -4466,7 +4466,7 @@
   {
     "id": 547,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1645,
     "KordinataY": 42.64751,
@@ -4475,7 +4475,7 @@
   {
     "id": 548,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16444,
     "KordinataY": 42.64753,
@@ -4484,7 +4484,7 @@
   {
     "id": 549,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16438,
     "KordinataY": 42.64755,
@@ -4493,7 +4493,7 @@
   {
     "id": 550,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16434,
     "KordinataY": 42.64757,
@@ -4502,7 +4502,7 @@
   {
     "id": 551,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16429,
     "KordinataY": 42.64759,
@@ -4511,7 +4511,7 @@
   {
     "id": 552,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16424,
     "KordinataY": 42.64761,
@@ -4520,7 +4520,7 @@
   {
     "id": 553,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16419,
     "KordinataY": 42.64763,
@@ -4529,7 +4529,7 @@
   {
     "id": 554,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16413,
     "KordinataY": 42.64766,
@@ -4538,7 +4538,7 @@
   {
     "id": 555,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16409,
     "KordinataY": 42.64767,
@@ -4547,7 +4547,7 @@
   {
     "id": 556,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16404,
     "KordinataY": 42.64769,
@@ -4556,7 +4556,7 @@
   {
     "id": 557,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16398,
     "KordinataY": 42.64772,
@@ -4565,7 +4565,7 @@
   {
     "id": 558,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16391,
     "KordinataY": 42.64774,
@@ -4574,7 +4574,7 @@
   {
     "id": 559,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16378,
     "KordinataY": 42.64791,
@@ -4583,7 +4583,7 @@
   {
     "id": 560,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16378,
     "KordinataY": 42.64796,
@@ -4592,7 +4592,7 @@
   {
     "id": 561,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16382,
     "KordinataY": 42.64803,
@@ -4601,7 +4601,7 @@
   {
     "id": 562,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16385,
     "KordinataY": 42.64806,
@@ -4610,7 +4610,7 @@
   {
     "id": 563,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16387,
     "KordinataY": 42.64809,
@@ -4619,7 +4619,7 @@
   {
     "id": 564,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16389,
     "KordinataY": 42.64812,
@@ -4628,7 +4628,7 @@
   {
     "id": 565,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16391,
     "KordinataY": 42.64814,
@@ -4637,7 +4637,7 @@
   {
     "id": 567,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16393,
     "KordinataY": 42.64817,
@@ -4646,7 +4646,7 @@
   {
     "id": 566,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16399,
     "KordinataY": 42.64824,
@@ -4655,7 +4655,7 @@
   {
     "id": 568,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16402,
     "KordinataY": 42.64829,
@@ -4664,7 +4664,7 @@
   {
     "id": 569,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16407,
     "KordinataY": 42.64835,
@@ -4673,7 +4673,7 @@
   {
     "id": 570,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16411,
     "KordinataY": 42.6484,
@@ -4682,7 +4682,7 @@
   {
     "id": 571,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16415,
     "KordinataY": 42.64846,
@@ -4691,7 +4691,7 @@
   {
     "id": 572,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1642,
     "KordinataY": 42.64852,
@@ -4700,7 +4700,7 @@
   {
     "id": 573,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16423,
     "KordinataY": 42.64856,
@@ -4709,7 +4709,7 @@
   {
     "id": 574,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16425,
     "KordinataY": 42.64859,
@@ -4718,7 +4718,7 @@
   {
     "id": 575,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16428,
     "KordinataY": 42.64863,
@@ -4727,7 +4727,7 @@
   {
     "id": 576,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16474,
     "KordinataY": 42.64854,
@@ -4736,7 +4736,7 @@
   {
     "id": 577,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16525,
     "KordinataY": 42.64833,
@@ -4745,7 +4745,7 @@
   {
     "id": 578,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16545,
     "KordinataY": 42.64829,
@@ -4754,7 +4754,7 @@
   {
     "id": 579,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16615,
     "KordinataY": 42.64797,
@@ -4763,7 +4763,7 @@
   {
     "id": 580,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16607,
     "KordinataY": 42.64792,
@@ -4772,7 +4772,7 @@
   {
     "id": 581,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16595,
     "KordinataY": 42.64793,
@@ -4781,7 +4781,7 @@
   {
     "id": 582,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16598,
     "KordinataY": 42.64792,
@@ -4790,7 +4790,7 @@
   {
     "id": 583,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16601,
     "KordinataY": 42.6479,
@@ -4799,7 +4799,7 @@
   {
     "id": 584,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16605,
     "KordinataY": 42.64788,
@@ -4808,7 +4808,7 @@
   {
     "id": 585,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16622,
     "KordinataY": 42.64783,
@@ -4817,7 +4817,7 @@
   {
     "id": 586,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16635,
     "KordinataY": 42.6478,
@@ -4826,7 +4826,7 @@
   {
     "id": 587,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16756,
     "KordinataY": 42.64874,
@@ -4835,7 +4835,7 @@
   {
     "id": 588,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16763,
     "KordinataY": 42.64871,
@@ -4844,7 +4844,7 @@
   {
     "id": 589,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16771,
     "KordinataY": 42.64869,
@@ -4853,7 +4853,7 @@
   {
     "id": 590,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16777,
     "KordinataY": 42.64866,
@@ -4862,7 +4862,7 @@
   {
     "id": 591,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16784,
     "KordinataY": 42.64864,
@@ -4871,7 +4871,7 @@
   {
     "id": 592,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16791,
     "KordinataY": 42.64861,
@@ -4880,7 +4880,7 @@
   {
     "id": 593,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16797,
     "KordinataY": 42.64859,
@@ -4889,7 +4889,7 @@
   {
     "id": 594,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16804,
     "KordinataY": 42.64856,
@@ -4898,7 +4898,7 @@
   {
     "id": 595,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16811,
     "KordinataY": 42.64853,
@@ -4907,7 +4907,7 @@
   {
     "id": 596,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16817,
     "KordinataY": 42.6485,
@@ -4916,7 +4916,7 @@
   {
     "id": 597,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16815,
     "KordinataY": 42.64844,
@@ -4925,7 +4925,7 @@
   {
     "id": 598,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16812,
     "KordinataY": 42.64839,
@@ -4934,7 +4934,7 @@
   {
     "id": 599,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1681,
     "KordinataY": 42.64835,
@@ -4943,7 +4943,7 @@
   {
     "id": 600,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16807,
     "KordinataY": 42.6483,
@@ -4952,7 +4952,7 @@
   {
     "id": 601,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16806,
     "KordinataY": 42.64826,
@@ -4961,7 +4961,7 @@
   {
     "id": 602,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16803,
     "KordinataY": 42.64822,
@@ -4970,7 +4970,7 @@
   {
     "id": 603,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16801,
     "KordinataY": 42.64818,
@@ -4979,7 +4979,7 @@
   {
     "id": 604,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16798,
     "KordinataY": 42.64815,
@@ -4988,7 +4988,7 @@
   {
     "id": 605,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16796,
     "KordinataY": 42.64812,
@@ -4997,7 +4997,7 @@
   {
     "id": 606,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16793,
     "KordinataY": 42.64809,
@@ -5006,7 +5006,7 @@
   {
     "id": 607,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16785,
     "KordinataY": 42.64812,
@@ -5015,7 +5015,7 @@
   {
     "id": 608,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16786,
     "KordinataY": 42.64816,
@@ -5024,7 +5024,7 @@
   {
     "id": 609,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16787,
     "KordinataY": 42.64819,
@@ -5033,7 +5033,7 @@
   {
     "id": 610,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16735,
     "KordinataY": 42.64843,
@@ -5042,7 +5042,7 @@
   {
     "id": 611,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1674,
     "KordinataY": 42.64841,
@@ -5051,7 +5051,7 @@
   {
     "id": 612,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16746,
     "KordinataY": 42.64839,
@@ -5060,7 +5060,7 @@
   {
     "id": 613,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16751,
     "KordinataY": 42.64837,
@@ -5069,7 +5069,7 @@
   {
     "id": 614,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16757,
     "KordinataY": 42.64834,
@@ -5078,7 +5078,7 @@
   {
     "id": 615,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16764,
     "KordinataY": 42.64831,
@@ -5087,7 +5087,7 @@
   {
     "id": 616,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1677,
     "KordinataY": 42.64829,
@@ -5096,7 +5096,7 @@
   {
     "id": 617,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16775,
     "KordinataY": 42.64826,
@@ -5105,7 +5105,7 @@
   {
     "id": 618,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1678,
     "KordinataY": 42.64825,
@@ -5114,7 +5114,7 @@
   {
     "id": 619,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16787,
     "KordinataY": 42.64822,
@@ -5123,7 +5123,7 @@
   {
     "id": 620,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1676,
     "KordinataY": 42.64838,
@@ -5132,7 +5132,7 @@
   {
     "id": 621,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16767,
     "KordinataY": 42.64836,
@@ -5141,7 +5141,7 @@
   {
     "id": 622,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16771,
     "KordinataY": 42.64835,
@@ -5150,7 +5150,7 @@
   {
     "id": 623,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16778,
     "KordinataY": 42.64833,
@@ -5159,7 +5159,7 @@
   {
     "id": 624,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16781,
     "KordinataY": 42.64834,
@@ -5168,7 +5168,7 @@
   {
     "id": 625,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16784,
     "KordinataY": 42.64834,
@@ -5177,7 +5177,7 @@
   {
     "id": 626,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16785,
     "KordinataY": 42.64827,
@@ -5186,7 +5186,7 @@
   {
     "id": 627,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16789,
     "KordinataY": 42.64832,
@@ -5195,7 +5195,7 @@
   {
     "id": 628,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1675,
     "KordinataY": 42.64857,
@@ -5204,7 +5204,7 @@
   {
     "id": 629,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16755,
     "KordinataY": 42.64855,
@@ -5213,7 +5213,7 @@
   {
     "id": 630,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1676,
     "KordinataY": 42.64852,
@@ -5222,7 +5222,7 @@
   {
     "id": 631,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16765,
     "KordinataY": 42.6485,
@@ -5231,7 +5231,7 @@
   {
     "id": 632,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16771,
     "KordinataY": 42.64848,
@@ -5240,7 +5240,7 @@
   {
     "id": 633,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16776,
     "KordinataY": 42.64846,
@@ -5249,7 +5249,7 @@
   {
     "id": 634,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16782,
     "KordinataY": 42.64844,
@@ -5258,7 +5258,7 @@
   {
     "id": 635,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16788,
     "KordinataY": 42.64842,
@@ -5267,7 +5267,7 @@
   {
     "id": 636,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16793,
     "KordinataY": 42.64839,
@@ -5276,7 +5276,7 @@
   {
     "id": 637,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16799,
     "KordinataY": 42.64838,
@@ -5285,7 +5285,7 @@
   {
     "id": 638,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16753,
     "KordinataY": 42.64871,
@@ -5294,7 +5294,7 @@
   {
     "id": 639,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16754,
     "KordinataY": 42.64867,
@@ -5303,7 +5303,7 @@
   {
     "id": 640,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16751,
     "KordinataY": 42.64867,
@@ -5312,7 +5312,7 @@
   {
     "id": 641,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16751,
     "KordinataY": 42.64864,
@@ -5321,7 +5321,7 @@
   {
     "id": 642,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16744,
     "KordinataY": 42.64859,
@@ -5330,7 +5330,7 @@
   {
     "id": 643,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16745,
     "KordinataY": 42.64856,
@@ -5339,7 +5339,7 @@
   {
     "id": 644,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16743,
     "KordinataY": 42.64853,
@@ -5348,7 +5348,7 @@
   {
     "id": 645,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16738,
     "KordinataY": 42.64849,
@@ -5357,7 +5357,7 @@
   {
     "id": 646,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16732,
     "KordinataY": 42.64842,
@@ -5366,7 +5366,7 @@
   {
     "id": 647,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16729,
     "KordinataY": 42.64838,
@@ -5375,7 +5375,7 @@
   {
     "id": 648,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16749,
     "KordinataY": 42.64875,
@@ -5384,7 +5384,7 @@
   {
     "id": 649,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16745,
     "KordinataY": 42.6487,
@@ -5393,7 +5393,7 @@
   {
     "id": 650,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16741,
     "KordinataY": 42.64864,
@@ -5402,7 +5402,7 @@
   {
     "id": 651,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16736,
     "KordinataY": 42.64859,
@@ -5411,7 +5411,7 @@
   {
     "id": 652,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16733,
     "KordinataY": 42.64853,
@@ -5420,7 +5420,7 @@
   {
     "id": 653,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16729,
     "KordinataY": 42.64849,
@@ -5429,7 +5429,7 @@
   {
     "id": 654,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16726,
     "KordinataY": 42.64843,
@@ -5438,7 +5438,7 @@
   {
     "id": 655,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16725,
     "KordinataY": 42.64831,
@@ -5447,7 +5447,7 @@
   {
     "id": 656,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16722,
     "KordinataY": 42.64828,
@@ -5456,7 +5456,7 @@
   {
     "id": 657,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16705,
     "KordinataY": 42.6483,
@@ -5465,7 +5465,7 @@
   {
     "id": 658,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16712,
     "KordinataY": 42.64827,
@@ -5474,7 +5474,7 @@
   {
     "id": 660,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16727,
     "KordinataY": 42.64822,
@@ -5483,7 +5483,7 @@
   {
     "id": 661,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16733,
     "KordinataY": 42.6482,
@@ -5492,7 +5492,7 @@
   {
     "id": 662,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16738,
     "KordinataY": 42.64818,
@@ -5501,7 +5501,7 @@
   {
     "id": 663,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16744,
     "KordinataY": 42.64815,
@@ -5510,7 +5510,7 @@
   {
     "id": 664,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1675,
     "KordinataY": 42.64813,
@@ -5519,7 +5519,7 @@
   {
     "id": 665,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16756,
     "KordinataY": 42.6481,
@@ -5528,7 +5528,7 @@
   {
     "id": 666,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16761,
     "KordinataY": 42.64808,
@@ -5537,7 +5537,7 @@
   {
     "id": 667,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16767,
     "KordinataY": 42.64807,
@@ -5546,7 +5546,7 @@
   {
     "id": 668,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16773,
     "KordinataY": 42.64804,
@@ -5555,7 +5555,7 @@
   {
     "id": 668,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16778,
     "KordinataY": 42.64802,
@@ -5564,7 +5564,7 @@
   {
     "id": 659,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16722,
     "KordinataY": 42.64824,
@@ -5573,7 +5573,7 @@
   {
     "id": 669,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16718,
     "KordinataY": 42.6482,
@@ -5582,7 +5582,7 @@
   {
     "id": 670,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16715,
     "KordinataY": 42.64817,
@@ -5591,7 +5591,7 @@
   {
     "id": 671,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16708,
     "KordinataY": 42.64808,
@@ -5600,7 +5600,7 @@
   {
     "id": 672,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16705,
     "KordinataY": 42.64803,
@@ -5609,7 +5609,7 @@
   {
     "id": 673,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16702,
     "KordinataY": 42.648,
@@ -5618,7 +5618,7 @@
   {
     "id": 674,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16699,
     "KordinataY": 42.64796,
@@ -5627,7 +5627,7 @@
   {
     "id": 675,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16692,
     "KordinataY": 42.64798,
@@ -5636,7 +5636,7 @@
   {
     "id": 676,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16696,
     "KordinataY": 42.64793,
@@ -5645,7 +5645,7 @@
   {
     "id": 677,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16694,
     "KordinataY": 42.64789,
@@ -5654,7 +5654,7 @@
   {
     "id": 678,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16692,
     "KordinataY": 42.64786,
@@ -5663,7 +5663,7 @@
   {
     "id": 679,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1669,
     "KordinataY": 42.64783,
@@ -5672,7 +5672,7 @@
   {
     "id": 680,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16683,
     "KordinataY": 42.64775,
@@ -5681,7 +5681,7 @@
   {
     "id": 681,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16681,
     "KordinataY": 42.64772,
@@ -5690,7 +5690,7 @@
   {
     "id": 682,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16686,
     "KordinataY": 42.64767,
@@ -5699,7 +5699,7 @@
   {
     "id": 683,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.16695,
     "KordinataY": 42.64775,
@@ -5708,7 +5708,7 @@
   {
     "id": 684,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16686,
     "KordinataY": 42.6477,
@@ -5717,7 +5717,7 @@
   {
     "id": 685,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1669,
     "KordinataY": 42.64769,
@@ -5726,7 +5726,7 @@
   {
     "id": 686,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16695,
     "KordinataY": 42.64767,
@@ -5735,7 +5735,7 @@
   {
     "id": 687,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16698,
     "KordinataY": 42.64765,
@@ -5744,7 +5744,7 @@
   {
     "id": 688,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16703,
     "KordinataY": 42.64764,
@@ -5753,7 +5753,7 @@
   {
     "id": 689,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16707,
     "KordinataY": 42.64762,
@@ -5762,7 +5762,7 @@
   {
     "id": 690,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16711,
     "KordinataY": 42.6476,
@@ -5771,7 +5771,7 @@
   {
     "id": 691,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16715,
     "KordinataY": 42.64758,
@@ -5780,7 +5780,7 @@
   {
     "id": 692,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1672,
     "KordinataY": 42.64757,
@@ -5789,7 +5789,7 @@
   {
     "id": 693,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16725,
     "KordinataY": 42.64755,
@@ -5798,7 +5798,7 @@
   {
     "id": 694,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16729,
     "KordinataY": 42.64753,
@@ -5807,7 +5807,7 @@
   {
     "id": 695,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16734,
     "KordinataY": 42.64752,
@@ -5816,7 +5816,7 @@
   {
     "id": 696,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16739,
     "KordinataY": 42.6475,
@@ -5825,7 +5825,7 @@
   {
     "id": 697,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16744,
     "KordinataY": 42.64748,
@@ -5834,7 +5834,7 @@
   {
     "id": 698,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16747,
     "KordinataY": 42.64747,
@@ -5843,7 +5843,7 @@
   {
     "id": 699,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16701,
     "KordinataY": 42.64769,
@@ -5852,7 +5852,7 @@
   {
     "id": 700,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16705,
     "KordinataY": 42.64768,
@@ -5861,7 +5861,7 @@
   {
     "id": 701,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16709,
     "KordinataY": 42.64766,
@@ -5870,7 +5870,7 @@
   {
     "id": 702,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16714,
     "KordinataY": 42.64764,
@@ -5879,7 +5879,7 @@
   {
     "id": 703,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16718,
     "KordinataY": 42.64763,
@@ -5888,7 +5888,7 @@
   {
     "id": 704,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16722,
     "KordinataY": 42.64761,
@@ -5897,7 +5897,7 @@
   {
     "id": 705,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16727,
     "KordinataY": 42.64759,
@@ -5906,7 +5906,7 @@
   {
     "id": 706,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16731,
     "KordinataY": 42.64757,
@@ -5915,7 +5915,7 @@
   {
     "id": 707,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16736,
     "KordinataY": 42.64755,
@@ -5924,7 +5924,7 @@
   {
     "id": 708,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16741,
     "KordinataY": 42.64753,
@@ -5933,7 +5933,7 @@
   {
     "id": 709,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16714,
     "KordinataY": 42.64809,
@@ -5942,7 +5942,7 @@
   {
     "id": 710,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16718,
     "KordinataY": 42.64807,
@@ -5951,7 +5951,7 @@
   {
     "id": 711,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16723,
     "KordinataY": 42.64805,
@@ -5960,7 +5960,7 @@
   {
     "id": 712,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16727,
     "KordinataY": 42.64804,
@@ -5969,7 +5969,7 @@
   {
     "id": 713,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16732,
     "KordinataY": 42.64802,
@@ -5978,7 +5978,7 @@
   {
     "id": 714,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16737,
     "KordinataY": 42.648,
@@ -5987,7 +5987,7 @@
   {
     "id": 715,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16742,
     "KordinataY": 42.64798,
@@ -5996,7 +5996,7 @@
   {
     "id": 716,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16748,
     "KordinataY": 42.64796,
@@ -6005,7 +6005,7 @@
   {
     "id": 717,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16753,
     "KordinataY": 42.64794,
@@ -6014,7 +6014,7 @@
   {
     "id": 718,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16759,
     "KordinataY": 42.64791,
@@ -6023,7 +6023,7 @@
   {
     "id": 719,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16764,
     "KordinataY": 42.64789,
@@ -6032,7 +6032,7 @@
   {
     "id": 720,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16769,
     "KordinataY": 42.64786,
@@ -6041,7 +6041,7 @@
   {
     "id": 721,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16776,
     "KordinataY": 42.64784,
@@ -6050,7 +6050,7 @@
   {
     "id": 722,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1677,
     "KordinataY": 42.64793,
@@ -6059,7 +6059,7 @@
   {
     "id": 723,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16774,
     "KordinataY": 42.64789,
@@ -6068,7 +6068,7 @@
   {
     "id": 724,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16779,
     "KordinataY": 42.64797,
@@ -6077,7 +6077,7 @@
   {
     "id": 725,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16783,
     "KordinataY": 42.64792,
@@ -6086,7 +6086,7 @@
   {
     "id": 726,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16785,
     "KordinataY": 42.64789,
@@ -6095,7 +6095,7 @@
   {
     "id": 727,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16784,
     "KordinataY": 42.64785,
@@ -6104,7 +6104,7 @@
   {
     "id": 728,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16711,
     "KordinataY": 42.64804,
@@ -6113,7 +6113,7 @@
   {
     "id": 729,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16721,
     "KordinataY": 42.64801,
@@ -6122,7 +6122,7 @@
   {
     "id": 730,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1673,
     "KordinataY": 42.64798,
@@ -6131,7 +6131,7 @@
   {
     "id": 731,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1674,
     "KordinataY": 42.64794,
@@ -6140,7 +6140,7 @@
   {
     "id": 732,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1675,
     "KordinataY": 42.6479,
@@ -6149,7 +6149,7 @@
   {
     "id": 733,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16763,
     "KordinataY": 42.64784,
@@ -6158,7 +6158,7 @@
   {
     "id": 734,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16764,
     "KordinataY": 42.64782,
@@ -6167,7 +6167,7 @@
   {
     "id": 735,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16768,
     "KordinataY": 42.64783,
@@ -6176,7 +6176,7 @@
   {
     "id": 736,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16772,
     "KordinataY": 42.64782,
@@ -6185,7 +6185,7 @@
   {
     "id": 737,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16775,
     "KordinataY": 42.64781,
@@ -6194,7 +6194,7 @@
   {
     "id": 738,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16776,
     "KordinataY": 42.64775,
@@ -6203,7 +6203,7 @@
   {
     "id": 739,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "Jo e mirë",
     "KordinataX": 21.1677,
     "KordinataY": 42.64776,
@@ -6212,7 +6212,7 @@
   {
     "id": 740,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16773,
     "KordinataY": 42.6477,
@@ -6221,7 +6221,7 @@
   {
     "id": 741,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1677,
     "KordinataY": 42.64766,
@@ -6230,7 +6230,7 @@
   {
     "id": 742,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16766,
     "KordinataY": 42.64762,
@@ -6239,7 +6239,7 @@
   {
     "id": 743,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16762,
     "KordinataY": 42.64757,
@@ -6248,7 +6248,7 @@
   {
     "id": 744,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16759,
     "KordinataY": 42.64752,
@@ -6257,7 +6257,7 @@
   {
     "id": 745,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16756,
     "KordinataY": 42.64748,
@@ -6266,7 +6266,7 @@
   {
     "id": 746,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16752,
     "KordinataY": 42.64744,
@@ -6275,7 +6275,7 @@
   {
     "id": 747,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16767,
     "KordinataY": 42.64772,
@@ -6284,7 +6284,7 @@
   {
     "id": 748,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16764,
     "KordinataY": 42.64768,
@@ -6293,7 +6293,7 @@
   {
     "id": 749,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1676,
     "KordinataY": 42.64763,
@@ -6302,7 +6302,7 @@
   {
     "id": 750,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16761,
     "KordinataY": 42.6476,
@@ -6311,7 +6311,7 @@
   {
     "id": 751,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16756,
     "KordinataY": 42.64758,
@@ -6320,7 +6320,7 @@
   {
     "id": 752,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16753,
     "KordinataY": 42.64754,
@@ -6329,7 +6329,7 @@
   {
     "id": 753,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1675,
     "KordinataY": 42.6475,
@@ -6338,7 +6338,7 @@
   {
     "id": 754,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16767,
     "KordinataY": 42.64742,
@@ -6347,7 +6347,7 @@
   {
     "id": 755,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16768,
     "KordinataY": 42.64743,
@@ -6356,7 +6356,7 @@
   {
     "id": 756,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1677,
     "KordinataY": 42.64744,
@@ -6365,7 +6365,7 @@
   {
     "id": 757,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16771,
     "KordinataY": 42.64746,
@@ -6374,7 +6374,7 @@
   {
     "id": 758,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16772,
     "KordinataY": 42.64747,
@@ -6383,7 +6383,7 @@
   {
     "id": 759,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16774,
     "KordinataY": 42.64749,
@@ -6392,7 +6392,7 @@
   {
     "id": 760,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16775,
     "KordinataY": 42.6475,
@@ -6401,7 +6401,7 @@
   {
     "id": 761,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16776,
     "KordinataY": 42.64752,
@@ -6410,7 +6410,7 @@
   {
     "id": 762,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16777,
     "KordinataY": 42.64754,
@@ -6419,7 +6419,7 @@
   {
     "id": 763,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16778,
     "KordinataY": 42.64756,
@@ -6428,7 +6428,7 @@
   {
     "id": 764,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16835,
     "KordinataY": 42.64828,
@@ -6437,7 +6437,7 @@
   {
     "id": 765,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16841,
     "KordinataY": 42.64827,
@@ -6446,7 +6446,7 @@
   {
     "id": 767,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16847,
     "KordinataY": 42.64823,
@@ -6455,7 +6455,7 @@
   {
     "id": 768,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16815,
     "KordinataY": 42.64813,
@@ -6464,7 +6464,7 @@
   {
     "id": 769,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16824,
     "KordinataY": 42.64811,
@@ -6473,7 +6473,7 @@
   {
     "id": 770,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16817,
     "KordinataY": 42.64807,
@@ -6482,7 +6482,7 @@
   {
     "id": 771,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16812,
     "KordinataY": 42.64805,
@@ -6491,7 +6491,7 @@
   {
     "id": 772,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16798,
     "KordinataY": 42.64804,
@@ -6500,7 +6500,7 @@
   {
     "id": 773,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16792,
     "KordinataY": 42.648,
@@ -6509,7 +6509,7 @@
   {
     "id": 774,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16803,
     "KordinataY": 42.64794,
@@ -6518,7 +6518,7 @@
   {
     "id": 775,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16799,
     "KordinataY": 42.64787,
@@ -6527,7 +6527,7 @@
   {
     "id": 776,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16806,
     "KordinataY": 42.64787,
@@ -6536,7 +6536,7 @@
   {
     "id": 777,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16812,
     "KordinataY": 42.64787,
@@ -6545,7 +6545,7 @@
   {
     "id": 778,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16823,
     "KordinataY": 42.64784,
@@ -6554,7 +6554,7 @@
   {
     "id": 779,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16824,
     "KordinataY": 42.64787,
@@ -6563,7 +6563,7 @@
   {
     "id": 780,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16828,
     "KordinataY": 42.6479,
@@ -6572,7 +6572,7 @@
   {
     "id": 781,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16836,
     "KordinataY": 42.648,
@@ -6581,7 +6581,7 @@
   {
     "id": 782,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16572,
     "KordinataY": 42.64714,
@@ -6590,7 +6590,7 @@
   {
     "id": 783,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16574,
     "KordinataY": 42.64713,
@@ -6599,7 +6599,7 @@
   {
     "id": 784,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16577,
     "KordinataY": 42.64712,
@@ -6608,7 +6608,7 @@
   {
     "id": 785,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1658,
     "KordinataY": 42.6471,
@@ -6617,7 +6617,7 @@
   {
     "id": 786,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16583,
     "KordinataY": 42.64709,
@@ -6626,7 +6626,7 @@
   {
     "id": 787,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16586,
     "KordinataY": 42.64708,
@@ -6635,7 +6635,7 @@
   {
     "id": 788,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16588,
     "KordinataY": 42.64707,
@@ -6644,7 +6644,7 @@
   {
     "id": 789,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1659,
     "KordinataY": 42.64706,
@@ -6653,7 +6653,7 @@
   {
     "id": 790,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16561,
     "KordinataY": 42.64716,
@@ -6662,7 +6662,7 @@
   {
     "id": 791,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16558,
     "KordinataY": 42.64715,
@@ -6671,7 +6671,7 @@
   {
     "id": 792,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16555,
     "KordinataY": 42.64716,
@@ -6680,7 +6680,7 @@
   {
     "id": 793,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16563,
     "KordinataY": 42.64718,
@@ -6689,7 +6689,7 @@
   {
     "id": 794,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1656,
     "KordinataY": 42.64719,
@@ -6698,7 +6698,7 @@
   {
     "id": 795,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16557,
     "KordinataY": 42.6472,
@@ -6707,7 +6707,7 @@
   {
     "id": 796,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16555,
     "KordinataY": 42.64721,
@@ -6716,7 +6716,7 @@
   {
     "id": 797,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16553,
     "KordinataY": 42.64722,
@@ -6725,7 +6725,7 @@
   {
     "id": 798,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16551,
     "KordinataY": 42.64723,
@@ -6734,7 +6734,7 @@
   {
     "id": 799,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16548,
     "KordinataY": 42.64723,
@@ -6743,7 +6743,7 @@
   {
     "id": 800,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16546,
     "KordinataY": 42.64724,
@@ -6752,7 +6752,7 @@
   {
     "id": 801,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16544,
     "KordinataY": 42.64725,
@@ -6761,7 +6761,7 @@
   {
     "id": 802,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16542,
     "KordinataY": 42.64726,
@@ -6770,7 +6770,7 @@
   {
     "id": 803,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16541,
     "KordinataY": 42.64726,
@@ -6779,7 +6779,7 @@
   {
     "id": 804,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16592,
     "KordinataY": 42.64707,
@@ -6788,7 +6788,7 @@
   {
     "id": 809,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16593,
     "KordinataY": 42.64708,
@@ -6797,7 +6797,7 @@
   {
     "id": 806,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16594,
     "KordinataY": 42.64709,
@@ -6806,7 +6806,7 @@
   {
     "id": 807,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16595,
     "KordinataY": 42.6471,
@@ -6815,7 +6815,7 @@
   {
     "id": 808,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16595,
     "KordinataY": 42.64711,
@@ -6824,7 +6824,7 @@
   {
     "id": 810,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16596,
     "KordinataY": 42.64712,
@@ -6833,7 +6833,7 @@
   {
     "id": 811,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16596,
     "KordinataY": 42.64713,
@@ -6842,7 +6842,7 @@
   {
     "id": 812,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16597,
     "KordinataY": 42.64714,
@@ -6851,7 +6851,7 @@
   {
     "id": 813,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16598,
     "KordinataY": 42.64714,
@@ -6860,7 +6860,7 @@
   {
     "id": 814,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16598,
     "KordinataY": 42.64715,
@@ -6869,7 +6869,7 @@
   {
     "id": 815,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16599,
     "KordinataY": 42.64716,
@@ -6878,7 +6878,7 @@
   {
     "id": 816,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16599,
     "KordinataY": 42.64717,
@@ -6887,7 +6887,7 @@
   {
     "id": 817,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.166,
     "KordinataY": 42.64718,
@@ -6896,7 +6896,7 @@
   {
     "id": 818,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16601,
     "KordinataY": 42.6472,
@@ -6905,7 +6905,7 @@
   {
     "id": 819,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16603,
     "KordinataY": 42.64722,
@@ -6914,7 +6914,7 @@
   {
     "id": 820,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16604,
     "KordinataY": 42.64723,
@@ -6923,7 +6923,7 @@
   {
     "id": 821,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16605,
     "KordinataY": 42.64725,
@@ -6932,7 +6932,7 @@
   {
     "id": 822,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16606,
     "KordinataY": 42.64726,
@@ -6941,7 +6941,7 @@
   {
     "id": 823,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16607,
     "KordinataY": 42.64728,
@@ -6950,7 +6950,7 @@
   {
     "id": 824,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16608,
     "KordinataY": 42.6473,
@@ -6959,7 +6959,7 @@
   {
     "id": 825,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1661,
     "KordinataY": 42.64732,
@@ -6968,7 +6968,7 @@
   {
     "id": 826,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16611,
     "KordinataY": 42.64733,
@@ -6977,7 +6977,7 @@
   {
     "id": 828,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16612,
     "KordinataY": 42.64735,
@@ -6986,7 +6986,7 @@
   {
     "id": 829,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16535,
     "KordinataY": 42.64729,
@@ -6995,7 +6995,7 @@
   {
     "id": 830,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16533,
     "KordinataY": 42.6473,
@@ -7004,7 +7004,7 @@
   {
     "id": 831,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16531,
     "KordinataY": 42.64731,
@@ -7013,7 +7013,7 @@
   {
     "id": 832,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16529,
     "KordinataY": 42.64731,
@@ -7022,7 +7022,7 @@
   {
     "id": 833,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16528,
     "KordinataY": 42.64732,
@@ -7031,7 +7031,7 @@
   {
     "id": 834,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16526,
     "KordinataY": 42.64733,
@@ -7040,7 +7040,7 @@
   {
     "id": 835,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16524,
     "KordinataY": 42.64734,
@@ -7049,7 +7049,7 @@
   {
     "id": 836,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16522,
     "KordinataY": 42.64734,
@@ -7058,7 +7058,7 @@
   {
     "id": 837,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16509,
     "KordinataY": 42.64736,
@@ -7067,7 +7067,7 @@
   {
     "id": 878,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16511,
     "KordinataY": 42.64739,
@@ -7076,7 +7076,7 @@
   {
     "id": 879,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16512,
     "KordinataY": 42.64742,
@@ -7085,7 +7085,7 @@
   {
     "id": 880,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16496,
     "KordinataY": 42.64741,
@@ -7094,7 +7094,7 @@
   {
     "id": 881,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16492,
     "KordinataY": 42.64742,
@@ -7103,7 +7103,7 @@
   {
     "id": 882,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16489,
     "KordinataY": 42.64744,
@@ -7112,7 +7112,7 @@
   {
     "id": 883,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16489,
     "KordinataY": 42.64746,
@@ -7121,7 +7121,7 @@
   {
     "id": 884,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1649,
     "KordinataY": 42.64749,
@@ -7130,7 +7130,7 @@
   {
     "id": 885,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16491,
     "KordinataY": 42.64752,
@@ -7139,7 +7139,7 @@
   {
     "id": 886,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16483,
     "KordinataY": 42.64755,
@@ -7148,7 +7148,7 @@
   {
     "id": 887,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16467,
     "KordinataY": 42.64754,
@@ -7157,7 +7157,7 @@
   {
     "id": 888,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16472,
     "KordinataY": 42.64761,
@@ -7166,7 +7166,7 @@
   {
     "id": 889,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16478,
     "KordinataY": 42.64768,
@@ -7175,7 +7175,7 @@
   {
     "id": 890,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16476,
     "KordinataY": 42.64766,
@@ -7184,7 +7184,7 @@
   {
     "id": 891,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16483,
     "KordinataY": 42.64766,
@@ -7193,7 +7193,7 @@
   {
     "id": 892,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16481,
     "KordinataY": 42.64764,
@@ -7202,7 +7202,7 @@
   {
     "id": 893,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16452,
     "KordinataY": 42.64758,
@@ -7211,7 +7211,7 @@
   {
     "id": 894,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16457,
     "KordinataY": 42.64757,
@@ -7220,7 +7220,7 @@
   {
     "id": 895,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16462,
     "KordinataY": 42.64762,
@@ -7229,7 +7229,7 @@
   {
     "id": 896,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16464,
     "KordinataY": 42.64763,
@@ -7238,7 +7238,7 @@
   {
     "id": 897,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16465,
     "KordinataY": 42.64765,
@@ -7247,7 +7247,7 @@
   {
     "id": 898,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16466,
     "KordinataY": 42.64767,
@@ -7256,7 +7256,7 @@
   {
     "id": 899,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16468,
     "KordinataY": 42.64769,
@@ -7265,7 +7265,7 @@
   {
     "id": 900,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16469,
     "KordinataY": 42.64771,
@@ -7274,7 +7274,7 @@
   {
     "id": 901,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16463,
     "KordinataY": 42.64774,
@@ -7283,7 +7283,7 @@
   {
     "id": 902,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16461,
     "KordinataY": 42.64771,
@@ -7292,7 +7292,7 @@
   {
     "id": 903,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1646,
     "KordinataY": 42.64769,
@@ -7301,7 +7301,7 @@
   {
     "id": 904,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16458,
     "KordinataY": 42.64767,
@@ -7310,7 +7310,7 @@
   {
     "id": 905,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16456,
     "KordinataY": 42.64765,
@@ -7319,7 +7319,7 @@
   {
     "id": 906,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16456,
     "KordinataY": 42.64777,
@@ -7328,7 +7328,7 @@
   {
     "id": 907,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16454,
     "KordinataY": 42.64774,
@@ -7337,7 +7337,7 @@
   {
     "id": 908,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16453,
     "KordinataY": 42.64772,
@@ -7346,7 +7346,7 @@
   {
     "id": 909,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16451,
     "KordinataY": 42.6477,
@@ -7355,7 +7355,7 @@
   {
     "id": 910,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16449,
     "KordinataY": 42.64768,
@@ -7364,7 +7364,7 @@
   {
     "id": 911,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16445,
     "KordinataY": 42.64768,
@@ -7373,7 +7373,7 @@
   {
     "id": 912,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I mesëm (1 - 3m)",
+    "Lartesi": "I mesëm (1 - 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16435,
     "KordinataY": 42.64768,
@@ -7382,7 +7382,7 @@
   {
     "id": 913,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16421,
     "KordinataY": 42.64774,
@@ -7391,7 +7391,7 @@
   {
     "id": 914,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16415,
     "KordinataY": 42.64776,
@@ -7400,7 +7400,7 @@
   {
     "id": 916,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1641,
     "KordinataY": 42.64825,
@@ -7409,7 +7409,7 @@
   {
     "id": 917,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16412,
     "KordinataY": 42.64828,
@@ -7418,7 +7418,7 @@
   {
     "id": 918,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16414,
     "KordinataY": 42.6483,
@@ -7427,7 +7427,7 @@
   {
     "id": 919,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16416,
     "KordinataY": 42.64833,
@@ -7436,7 +7436,7 @@
   {
     "id": 920,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16418,
     "KordinataY": 42.64836,
@@ -7445,7 +7445,7 @@
   {
     "id": 921,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1642,
     "KordinataY": 42.64839,
@@ -7454,7 +7454,7 @@
   {
     "id": 922,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16422,
     "KordinataY": 42.64842,
@@ -7463,7 +7463,7 @@
   {
     "id": 923,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16424,
     "KordinataY": 42.64844,
@@ -7472,7 +7472,7 @@
   {
     "id": 924,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16426,
     "KordinataY": 42.64847,
@@ -7481,7 +7481,7 @@
   {
     "id": 925,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16427,
     "KordinataY": 42.64849,
@@ -7490,7 +7490,7 @@
   {
     "id": 926,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1643,
     "KordinataY": 42.64852,
@@ -7499,7 +7499,7 @@
   {
     "id": 915,
     "Lloji": "Gjethëmbajtës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16407,
     "KordinataY": 42.64822,
@@ -7508,7 +7508,7 @@
   {
     "id": 927,
     "Lloji": "",
-    "Lartësi": "",
+    "Lartesi": "",
     "Gjendja": "",
     "KordinataX": 21.16433,
     "KordinataY": 42.64855,
@@ -7517,7 +7517,7 @@
   {
     "id": 928,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16437,
     "KordinataY": 42.64856,
@@ -7526,7 +7526,7 @@
   {
     "id": 929,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16442,
     "KordinataY": 42.64857,
@@ -7535,7 +7535,7 @@
   {
     "id": 930,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16447,
     "KordinataY": 42.64857,
@@ -7544,7 +7544,7 @@
   {
     "id": 931,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.1645,
     "KordinataY": 42.64856,
@@ -7553,7 +7553,7 @@
   {
     "id": 932,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16453,
     "KordinataY": 42.64855,
@@ -7562,7 +7562,7 @@
   {
     "id": 933,
     "Lloji": "Gjethërënës",
-    "Lartësi": "I lartë (> 3m)",
+    "Lartesi": "I lartë (> 3m)",
     "Gjendja": "E mirë",
     "KordinataX": 21.16472,
     "KordinataY": 42.64845,

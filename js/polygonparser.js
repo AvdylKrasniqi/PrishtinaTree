@@ -3,7 +3,6 @@ class PolygonParser {
     jsonUrl;
     color;
     polygonName;
-    layer;
     polygoncoords = [];
     constructor(jsonUrl, polygonName){
         this.polygonName = polygonName;
@@ -16,8 +15,12 @@ class PolygonParser {
     get color(){
         return this.color;
     }
-    setXpolygoncoords(polygoncoords){
+
+    set polygoncoords(polygoncoords){
         this.polygoncoords = polygoncoords;
+    }
+    area() {
+
     }
     hide() {
         map.removeLayer(this.layer);
