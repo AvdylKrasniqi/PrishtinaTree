@@ -3,21 +3,32 @@ class TreeParser {
 	layer;
 	constructor(jsonUrl){
 		this.jsonUrl = jsonUrl;
-		this.layer;
+		this.layerGjetherenes = [];
+		this.layerGjethembajtes = [];
+		/*
+		0 = larte
+		1 = mesem
+		2 = ulet
+		*/
 		this.render();
 	}
 
-	get layer(){
-		return this.layer;
-	}
-	set layer(layer){
-		this.layer = layer;
-	}
 
 	render() {
 		var _this = this;
 
-		var markers = [];
+		var markers = [
+			[
+				[],
+				[],
+				[]
+			],
+			[
+				[],
+				[],
+				[]
+			]
+		];
 
 	   $.getJSON(this.jsonUrl, function(jd) {
 	   		for (var i = 0; i < jd.length; ++i) {
@@ -35,34 +46,60 @@ class TreeParser {
 								+ "</dl>";
 				// var marker = new PruneCluster.Marker(a["KordinataY"], a["KordinataX"], {popup: description});
 				if(a["Lloji"] === "Gjethërënës") {
-					if(a["Lartesi"] === "I lartë (> 3m)")
+					if(a["Lartesi"] === "I lartë (> 3m)"){
 						myIcon = gjetherenesLarteIcon;
-					else if(a["Lartesi"] === "I mesëm (1 - 3m)")
+						markers[0][0].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						// markers.push(L.circl)
+					}
+					else if(a["Lartesi"] === "I mesëm (1 - 3m)"){
 						myIcon = gjetherenesMesemIcon;
-					else if(a["Lartesi"] === "I ulët (< 1m)")
+						markers[0][1].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						// markers.push(L.circl)
+					}
+					else if(a["Lartesi"] === "I ulët (< 1m)"){
 						myIcon = gjetherenesUletIcon;
-					else
+						markers[0][2].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						// markers.push(L.circl)
+					}
+					else{
 						myIcon = gjetherenesMesemIcon;
-				} else if(a["Lloji"] === "Gjethëmbajtës") {
-					if(a["Lartesi"] === "I lartë (> 3m)")
-						myIcon = gjethembajtesLarteIcon;
-					else if(a["Lartesi"] === "I mesëm (1 - 3m)")
-						myIcon = gjethembajtesMesemIcon;
-					else if(a["Lartesi"] === "I ulët (< 1m)")
-						myIcon = gjethembajtesUletIcon;
-					else
-						myIcon = gjethembajtesMesemIcon;
+						markers[0][1].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						// markers.push(L.circl)
+					}
 				}
+				// else if(a["Lloji"] === "Gjethëmbajtës")
 				else
-					myIcon = gjetherenesMesemIcon;
-				markers.push(L.circle([a["KordinataY"], a["KordinataX"]], myIcon).bindPopup(description));
+				{
+					if(a["Lartesi"] === "I lartë (> 3m)"){
+						myIcon = gjethembajtesLarteIcon;
+						markers[1][0].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+					}
+					else if(a["Lartesi"] === "I mesëm (1 - 3m)"){
+						myIcon = gjethembajtesMesemIcon;
+						markers[1][1].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+					}
+					else if(a["Lartesi"] === "I ulët (< 1m)"){
+						myIcon = gjethembajtesUletIcon;
+						markers[1][2].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+					}
+					else{
+						myIcon = gjethembajtesMesemIcon;
+						markers[1][2].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+					}
+				}
 			}
 
 			setTimeout(function(){
 			}, 0);
 			//console.log(this.layer);
-			_this.layer =  L.layerGroup(markers);
-			map.addLayer(_this.layer);
+			// _this.layer =  L.layerGroup(markers);
+			map.addLayer(_this.layerGjetherenes[0] = L.layerGroup(markers[0][0]));
+			map.addLayer(_this.layerGjetherenes[1] = L.layerGroup(markers[0][1]));
+			map.addLayer(_this.layerGjetherenes[2] = L.layerGroup(markers[0][2]));
+			map.addLayer(_this.layerGjethembajtes[0] = L.layerGroup(markers[1][0]));
+			map.addLayer(_this.layerGjethembajtes[1] = L.layerGroup(markers[1][1]));
+			map.addLayer(_this.layerGjethembajtes[2] = L.layerGroup(markers[1][2]));
+			// map.addLayer(_this.layer);
 	   });
 
 	}
