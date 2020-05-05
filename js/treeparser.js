@@ -1,36 +1,46 @@
 class TreeParser {
 	jsonUrl;
 	layer;
+	layerGjetherenes = [];
+	layerGjethembajtes = [];
+	/*
+	0 = larte
+	1 = mesem
+	2 = ulet
+	*/
+	totalNumberOfTrees;
 	constructor(jsonUrl){
 		this.jsonUrl = jsonUrl;
-		this.layerGjetherenes = [];
-		this.layerGjethembajtes = [];
-		/*
-		0 = larte
-		1 = mesem
-		2 = ulet
-		*/
 		this.render();
 	}
+	get totalNumberOfTrees(){
+		return this.totalNumberOfTrees;
+	}
+	show(){
+		map.addLayer(this.layerGjetherenes[0]);
+		map.addLayer(this.layerGjetherenes[1]);
+		map.addLayer(this.layerGjetherenes[2]);
+		map.addLayer(this.layerGjethembajtes[0]);
+		map.addLayer(this.layerGjethembajtes[1]);
+		map.addLayer(this.layerGjethembajtes[2]);
+	}
 
+	hide(){
+		map.removeLayer(this.layerGjetherenes[0]);
+		map.removeLayer(this.layerGjetherenes[1]);
+		map.removeLayer(this.layerGjetherenes[2]);
+		map.removeLayer(this.layerGjethembajtes[0]);
+		map.removeLayer(this.layerGjethembajtes[1]);
+		map.removeLayer(this.layerGjethembajtes[2]);
+	}
 
 	render() {
 		var _this = this;
 
-		var markers = [
-			[
-				[],
-				[],
-				[]
-			],
-			[
-				[],
-				[],
-				[]
-			]
-		];
+		var markers = [[[],[],[]],[[],[],[]]];
 
 	   $.getJSON(this.jsonUrl, function(jd) {
+	   		_this.totalNumberOfTrees = jd.length;
 	   		for (var i = 0; i < jd.length; ++i) {
 		   		var a = jd[i];
 		   		var myIcon;
@@ -93,12 +103,12 @@ class TreeParser {
 			}, 0);
 			//console.log(this.layer);
 			// _this.layer =  L.layerGroup(markers);
-			map.addLayer(_this.layerGjetherenes[0] = L.layerGroup(markers[0][0]));
-			map.addLayer(_this.layerGjetherenes[1] = L.layerGroup(markers[0][1]));
-			map.addLayer(_this.layerGjetherenes[2] = L.layerGroup(markers[0][2]));
-			map.addLayer(_this.layerGjethembajtes[0] = L.layerGroup(markers[1][0]));
-			map.addLayer(_this.layerGjethembajtes[1] = L.layerGroup(markers[1][1]));
-			map.addLayer(_this.layerGjethembajtes[2] = L.layerGroup(markers[1][2]));
+			_this.layerGjetherenes[0] = L.layerGroup(markers[0][0]);
+			_this.layerGjetherenes[1] = L.layerGroup(markers[0][1]);
+			_this.layerGjetherenes[2] = L.layerGroup(markers[0][2]);
+			_this.layerGjethembajtes[0] = L.layerGroup(markers[1][0]);
+			_this.layerGjethembajtes[1] = L.layerGroup(markers[1][1]);
+			_this.layerGjethembajtes[2] = L.layerGroup(markers[1][2]);
 			// map.addLayer(_this.layer);
 	   });
 

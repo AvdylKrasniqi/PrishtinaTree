@@ -1,14 +1,18 @@
-var x = 2;
+
 class PolygonParser {
     color;
     polygonName;
-
     jsonUrl;
     polygoncoords = [];
     turfpolygon;
-    constructor(jsonUrl, polygonName){
+    pemet = [];
+    constructor(jsonUrl, polygonName, pemet){
+
         this.polygonName = polygonName;
         this.jsonUrl = jsonUrl;
+        for(let i = 0; i < pemet.length; i++){
+            this.krijoPemet(pemet[i]);
+        }
         this.render();
     }
     set color(color){
@@ -34,15 +38,20 @@ class PolygonParser {
         map.addLayer(this.layer);
     }
 
+    krijoPemet(jsonUrl) {
+        this.pemet.push(new TreeParser(jsonUrl));
+    }
+
+    get pemet() {
+        return this.pemet;
+    }
+
     render() {
         var _this = this;
         $.getJSON(_this.jsonUrl, function(data) {
-            x = data[0];
-            // console.log(data[0]);
-            // console.log(data[0][_this.polygonName]);
-
+            console.log(_this.polygonName);
             _this.polygoncoords =  data[0][_this.polygonName];
-            _this.turfpolygon = turf.polygon([_this.polygoncoords]);
+            _this.turfpolygon = turf.polygon([data[0][_this.polygonName]]);
             _this.layer = L.polygon(_this.polygoncoords, {color: "green"}).bindTooltip(_this.polygonName,
                 {permanent: false, direction:"center"}
             ).openTooltip().addTo(map);
