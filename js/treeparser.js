@@ -1,14 +1,25 @@
 class TreeParser {
 	jsonUrl;
-	layer = [];
+	layer;
 	constructor(jsonUrl){
 		this.jsonUrl = jsonUrl;
+		this.layer;
 		this.render();
 	}
+
+	get layer(){
+		return this.layer;
+	}
+	set layer(layer){
+		this.layer = layer;
+	}
+
 	render() {
 		var _this = this;
+
+		var markers = [];
+
 	   $.getJSON(this.jsonUrl, function(jd) {
-	   		
 	   		for (var i = 0; i < jd.length; ++i) {
 		   		var a = jd[i];
 		   		var myIcon;
@@ -23,38 +34,36 @@ class TreeParser {
 									+ "<dd>" + a["KordinataY"] + ", " + a["KordinataX"] + "</dd>"
 								+ "</dl>";
 				// var marker = new PruneCluster.Marker(a["KordinataY"], a["KordinataX"], {popup: description});
-				if(a["Lloji"] == "Gjethërënës") {
-					if(a["Lartesi"] == "I lartë (> 3m)")
+				if(a["Lloji"] === "Gjethërënës") {
+					if(a["Lartesi"] === "I lartë (> 3m)")
 						myIcon = gjetherenesLarteIcon;
-					else if(a["Lartesi"] == "I mesëm (1 - 3m)")
+					else if(a["Lartesi"] === "I mesëm (1 - 3m)")
 						myIcon = gjetherenesMesemIcon;
-					else if(a["Lartesi"] == "I ulët (< 1m)")
+					else if(a["Lartesi"] === "I ulët (< 1m)")
 						myIcon = gjetherenesUletIcon;
 					else
 						myIcon = gjetherenesMesemIcon;
-				} else if(a["Lloji"] == "Gjethëmbajtës") {
-					if(a["Lartesi"] == "I lartë (> 3m)")
+				} else if(a["Lloji"] === "Gjethëmbajtës") {
+					if(a["Lartesi"] === "I lartë (> 3m)")
 						myIcon = gjethembajtesLarteIcon;
-					else if(a["Lartesi"] == "I mesëm (1 - 3m)")
+					else if(a["Lartesi"] === "I mesëm (1 - 3m)")
 						myIcon = gjethembajtesMesemIcon;
-					else if(a["Lartesi"] == "I ulët (< 1m)")
+					else if(a["Lartesi"] === "I ulët (< 1m)")
 						myIcon = gjethembajtesUletIcon;
 					else
 						myIcon = gjethembajtesMesemIcon;
 				}
 				else
 					myIcon = gjetherenesMesemIcon;
-				var marker = L.circle([a["KordinataY"], a["KordinataX"]], myIcon).bindPopup(description).addTo(map);
-				//_this.layer.push(L.circle([a["KordinataY"], a["KordinataX"]], myIcon).bindPopup(description));
-			    //publicMarkers.push(marker);
-    			// leafletView5.RegisterMarker(marker);
+				markers.push(L.circle([a["KordinataY"], a["KordinataX"]], myIcon).bindPopup(description));
 			}
-			setTimeout(function(){
-			}, 5000);
-	   		//console.log(this.layer);
-			map.addLayer(this.layer);
-	   });
 
+			setTimeout(function(){
+			}, 0);
+			//console.log(this.layer);
+			_this.layer =  L.layerGroup(markers);
+			map.addLayer(_this.layer);
+	   });
 
 	}
 }

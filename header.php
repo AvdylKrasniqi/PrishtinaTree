@@ -14,13 +14,12 @@ echo '<head>
 	
 	<link href="./assets/bootstrap/bootstrap-4.4.1.min.css" rel="stylesheet">
 	<script src="./assets/bootstrap/bootstrap-4.4.1.min.js"></script>
-	
 	<script type="text/javascript" src="./js/treeparser.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/@turf/turf@5.1.6/turf.min.js"></script>
-	' 
+    <script type="text/javascript" src="./js/polygonparser.js"></script>
+	'
   /*
    *
-    <script type="text/javascript" src="./js/polygonparser.js"></script>
     <script src="./assets/prunecluster/dist/PruneCluster.js"></script>
 
   <link href="./assets/prunecluster/dist/LeafletStyleSheet.css" rel="stylesheet">
@@ -49,7 +48,7 @@ echo '<head>
     <img src="./assets/images/header/header_left.png"  height="90" class="d-inline-block align-top" alt="">
   </a>
   <div>
-  	<span style="font-size: 30px;">PRISHITNA</span>
+  	<span style="font-size: 30px;">PRISHTINA</span>
   	<span style="font-size: 20px;"> Tree and Public Space Map</span><br/>
   	<span>by <a class="text-dark" href="http://www.architectureforhumans.com/">Architecture for Humans</a></span>
   </div>
@@ -58,9 +57,9 @@ echo '<head>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav ml-auto">
-      <a class="nav-item nav-link active" href="index.php">[ Ballina ] <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="kontribo.php">[ Shto të dhëna ]</a>
-      <a class="nav-item nav-link" href="kontributoret.php">[ Kontributorët ]</a>
+      <a class="nav-item nav-link active mx-3" href="index.php">Ballina<br/><span class="text-muted">Home</span><span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link mx-3" href="kontribo.php">Si funksionon?<br/><span class="text-muted">How it works</span></a>
+      <a class="nav-item nav-link mx-3" href="kontributoret.php">Rreth prishtinatrees.org<br/><span class="text-muted">About prishtinatrees.org</span></a>
     </div>
   </div>
 </nav>';

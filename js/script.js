@@ -8,7 +8,7 @@ var gjethembajtesMesemIcon
 var gjethembajtesUletIcon
 var publicMarkers = [];
 var x;
-
+var TreeParsers = [];
 
 
 $("document").ready(function() {
@@ -77,21 +77,21 @@ $("document").ready(function() {
 		}
 		prevZoom = currZoom;
 	});
-	new TreeParser("./assets/datas/trees/aktash1_drunjet.json");
-	new TreeParser("./assets/datas/trees/aktash2_drunjet.json");
-	new TreeParser("./assets/datas/trees/breguidiellit1_drunjet.json");
-	new TreeParser("./assets/datas/trees/kampusi1_drunjet.json");
-	new TreeParser("./assets/datas/trees/kampusi2_drunjet.json");
-	new TreeParser("./assets/datas/trees/kampusi3_drunjet.json");
-	new TreeParser("./assets/datas/trees/mahallamuhaxhereve1_drunjet.json");
-	new TreeParser("./assets/datas/trees/pejton1_drunjet.json");
-	new TreeParser("./assets/datas/trees/pejton2_drunjet.json");
-	new TreeParser("./assets/datas/trees/qendra1_drunjet.json");
-	new TreeParser("./assets/datas/trees/qendra2_drunjet.json");
-	new TreeParser("./assets/datas/trees/qendra3_drunjet.json");
-	new TreeParser("./assets/datas/trees/qendra4_drunjet.json");
-	new TreeParser("./assets/datas/trees/qendra5_drunjet.json");
-	new TreeParser("./assets/datas/trees/qendra6_drunjet.json");
-	new TreeParser("./assets/datas/trees/qendra7_drunjet.json");
-	new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json");
+	TreeParsers.push(new TreeParser("./assets/datas/trees/aktash1_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/aktash2_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/breguidiellit1_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/kampusi1_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/kampusi2_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/kampusi3_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/mahallamuhaxhereve1_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/pejton1_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/pejton2_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/qendra1_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/qendra2_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/qendra3_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/qendra4_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/qendra5_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/qendra6_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/qendra7_drunjet.json"));
+	TreeParsers.push(new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json"));
 });
