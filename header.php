@@ -45,7 +45,7 @@ echo '<head>
 	<!-- Image and text -->
 <nav class="navbar navbar-expand-lg bg-light navbar-light">
   <a class="navbar-brand p-3" href="#">
-    <img src="./assets/images/header/header_left.png"  height="90" class="d-inline-block align-top" alt="">
+    <img src="./assets/images/header/logo.svg"  height="90" class="d-inline-block align-top" alt="">
   </a>
   <div>
   	<span style="font-size: 30px;">PRISHTINA</span>
@@ -60,6 +60,7 @@ echo '<head>
       <a class="nav-item nav-link active mx-3" href="index.php">Ballina<br/><span class="text-muted">Home</span><span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link mx-3" href="kontribo.php">Si funksionon?<br/><span class="text-muted">How it works</span></a>
       <a class="nav-item nav-link mx-3" href="kontributoret.php">Rreth prishtinatrees.org<br/><span class="text-muted">About prishtinatrees.org</span></a>
+      <img src="./assets/images/header/header_right.png"  height="60" alt="">
     </div>
   </div>
 </nav>';

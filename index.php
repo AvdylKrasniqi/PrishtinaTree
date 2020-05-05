@@ -41,7 +41,7 @@ require("header.php");
 							<img src="./assets/images/gjethembajtes.png" style="height: 50px;" />
 						</div>
 						<div class="col-10">
-							<h5>Gjethrënës</h5>
+							<h5>Gjetherënës</h5>
 							<p>Gjithsej: <span id="totalDrunjeGjethrenes" class="font-weight-bold">508</span></p>
 						</div>
 
@@ -59,7 +59,7 @@ require("header.php");
 							<img src="./assets/images/gjetherenes.png" style="height: 50px;" />
 						</div>
 						<div class="col-10">
-							<h5>Gjethmbajtës</h5>
+							<h5>Gjethembajtës</h5>
 							<p>Gjithsej: <span id="totalDrunjeGjethmbajtes" class="font-weight-bold">508</span></p>
 						</div>
 						<div class="col-12">
