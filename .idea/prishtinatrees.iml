@@ -4,7 +4,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="pouchdb" level="application" />
-    <orderEntry type="library" name="leaflet.tilelayer.pouchdbcached" level="application" />
   </component>
 </module>
