@@ -89,6 +89,7 @@ class PolygonParser {
             else  color = "darkgreen";
             _this.layer.setStyle({"fillColor": color});
             console.log(nrPemve);
+            _this.layer.on('click', onPolyClick);
         }, 3000);
     }
     infoParser(){

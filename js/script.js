@@ -9,7 +9,7 @@ var gjethembajtesUletIcon
 var x;
 var TreeParsers = [];
 var PolygonParsers = [];
-
+var onPolyClick;
 
 $("document").ready(function() {
 
@@ -53,8 +53,9 @@ $("document").ready(function() {
 
 
 
-	var onPolyClick = function(event){
+	onPolyClick = function(event){
 		map.fitBounds(event.target.getBounds())
+		map.flyTo(event.target.getBounds().getCenter(), 17);
 		//new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json");
 	};
 
@@ -109,7 +110,6 @@ $("document").ready(function() {
 			]
 		)
 	);
-
 	// PolygonParsers.push(
 	// 	new PolygonParser(
 	// 		"./assets/datas/kufijte.json",
