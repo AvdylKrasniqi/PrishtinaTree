@@ -6,6 +6,7 @@ class PolygonParser {
     polygoncoords = [];
     turfpolygon;
     pemet = [];
+    isShowed = false;
     constructor(jsonUrl, polygonName, pemet){
 
         this.polygonName = polygonName;
@@ -33,10 +34,16 @@ class PolygonParser {
         return turf.area(this.turfpolygon);
     }
     hide() {
-        map.removeLayer(this.layer);
+        if(this.isShowed){
+            map.removeLayer(this.layer);
+            this.isShowed = false;
+        }
     }
     show() {
-        map.addLayer(this.layer);
+        if(!this.isShowed){
+            map.addLayer(this.layer);
+            this.isShowed = true;
+        }
     }
 
     krijoPemet(jsonUrl) {
@@ -52,7 +59,16 @@ class PolygonParser {
     get pemet() {
         return this.pemet;
     }
-
+    showPemet(){
+        for(let i =  0; i < this.pemet.length; i++){
+            this.pemet[i].show();
+        }
+    }
+    hidePemet(){
+        for(let i =  0; i < this.pemet.length; i++){
+            this.pemet[i].hide();
+        }
+    }
     render() {
         var _this = this;
         $.getJSON(_this.jsonUrl, function(data) {

@@ -109,6 +109,8 @@ class TreeParser {
 			_this.layerGjethembajtes[0] = L.layerGroup(markers[1][0]);
 			_this.layerGjethembajtes[1] = L.layerGroup(markers[1][1]);
 			_this.layerGjethembajtes[2] = L.layerGroup(markers[1][2]);
+
+			// _this.show();
 			// map.addLayer(_this.layer);
 	   });
 

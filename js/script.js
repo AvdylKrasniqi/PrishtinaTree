@@ -67,7 +67,29 @@ $("document").ready(function() {
 	map.on('zoomend',function(e){
 		//debugger;
 		var currZoom = map.getZoom();
+		if(currZoom >= 17){
+		    for(let i = 0; i < PolygonParsers.length; i++){
+		        PolygonParsers[i].hide();
+		        try {
+		            PolygonParsers[i].showPemet();
+                } catch(e){
+		            console.log(e);
+                }
+            }
+        }
+		else {
+		    for(let i = 0; i < PolygonParsers.length; i++){
+		        PolygonParsers[i].show();
+		        try {
+		            PolygonParsers[i].hidePemet();
+                } catch(e){
+		            console.log(e);
+                }
+            }
+        }
+
 		var diff = prevZoom - currZoom;
+
 		if(diff > 0){
 			console.log('zoomed out');
 		} else if(diff < 0) {
@@ -88,15 +110,15 @@ $("document").ready(function() {
 		)
 	);
 
-	PolygonParsers.push(
-		new PolygonParser(
-			"./assets/datas/kufijte.json",
-			"dardania",
-			[
-				""
-			]
-		)
-	);
+	// PolygonParsers.push(
+	// 	new PolygonParser(
+	// 		"./assets/datas/kufijte.json",
+	// 		"dardania",
+	// 		[
+	// 			""
+	// 		]
+	// 	)
+	// );
 
 	PolygonParsers.push(
 		new PolygonParser(
