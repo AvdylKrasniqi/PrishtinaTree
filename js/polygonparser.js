@@ -76,7 +76,7 @@ class PolygonParser {
             _this.polygoncoords =  data[0][_this.polygonName];
             _this.turfpolygon = turf.polygon([data[0][_this.polygonName]]);
             _this.layer = L.polygon(_this.polygoncoords, {color: "white", fillColor: "green", fillOpacity: 0.8, opacity: 0.8}).bindTooltip(_this.polygonName,
-                {permanent: false, direction:"center"}
+                {permanent: true, direction:"center"}
             ).openTooltip().addTo(map);
         });
         setTimeout(function(){
@@ -88,7 +88,6 @@ class PolygonParser {
             else if(nrPemve < 2500) color = "#177917";
             else  color = "darkgreen";
             _this.layer.setStyle({"fillColor": color});
-            console.log(nrPemve);
             _this.layer.on('click', onPolyClick);
         }, 3000);
     }

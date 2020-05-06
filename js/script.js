@@ -63,7 +63,6 @@ $("document").ready(function() {
 
 	L.control.scale().addTo(map);
 
-
 	var prevZoom = map.getZoom();
 	map.on('zoomend',function(e){
 		//debugger;
@@ -110,15 +109,13 @@ $("document").ready(function() {
 			]
 		)
 	);
-	// PolygonParsers.push(
-	// 	new PolygonParser(
-	// 		"./assets/datas/kufijte.json",
-	// 		"dardania",
-	// 		[
-	// 			""
-	// 		]
-	// 	)
-	// );
+	PolygonParsers.push(
+		new PolygonParser(
+			"./assets/datas/kufijte.json",
+			"dardania",
+			[]
+		)
+	);
 
 	PolygonParsers.push(
 		new PolygonParser(
