@@ -76,7 +76,7 @@ class PolygonParser {
             _this.polygoncoords =  data[0][_this.polygonName];
             _this.turfpolygon = turf.polygon([data[0][_this.polygonName]]);
             _this.layer = L.polygon(_this.polygoncoords, {color: "white", fillColor: "green", fillOpacity: 0.8, opacity: 0.8}).bindTooltip(_this.polygonName,
-                {permanent: true, direction:"center"}
+                {permanent: true, direction:"center",className: 'toolTipClass'}
             ).openTooltip().addTo(map);
         });
         setTimeout(function(){

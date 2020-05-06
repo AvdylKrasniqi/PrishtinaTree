@@ -50,9 +50,6 @@ $("document").ready(function() {
 		map.panInsideBounds(bounds, { animate: false });
 	});
 
-
-
-
 	onPolyClick = function(event){
 		map.fitBounds(event.target.getBounds())
 		map.flyTo(event.target.getBounds().getCenter(), 17);
@@ -158,7 +155,7 @@ $("document").ready(function() {
 	PolygonParsers.push(
 		new PolygonParser(
 			"./assets/datas/kufijte.json",
-			"breguidiellit",
+			"bregu i diellit",
 			[
 				"./assets/datas/trees/breguidiellit1_drunjet.json"
 			]
@@ -181,7 +178,7 @@ $("document").ready(function() {
 	PolygonParsers.push(
 		new PolygonParser(
 			"./assets/datas/kufijte.json",
-			"mahallaemuhaxhereve",
+			"mahalla e muhaxhereve",
 			[
 				"./assets/datas/trees/mahallamuhaxhereve1_drunjet.json"
 			]

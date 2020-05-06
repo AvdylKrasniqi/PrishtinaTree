@@ -1,0 +1,7 @@
+.toolTipClass {
+    background: transparent;
+    color: white;
+    border: 0;
+    box-shadow: none;
+    text-transform: uppercase;
+}
