@@ -18,6 +18,7 @@ echo '<head>
 	<script type="text/javascript" src="./js/treeparser.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/@turf/turf@5.1.6/turf.min.js"></script>
     <script type="text/javascript" src="./js/polygonparser.js"></script>
+    <link  href="./assets/images/icons/style.css" rel="stylesheet" >
 	'
   /*
    *
@@ -42,7 +43,7 @@ echo '<head>
   <link rel="stylesheet" href="https://cdn.maptiler.com/mapbox-gl-js/v1.5.1/mapbox-gl.css" />
 
 </head>
-<body style="overflow-y: hidden;">
+<body>
 	<!-- Image and text -->
 <nav class="navbar navbar-expand-lg bg-light navbar-light">
   <a class="navbar-brand p-3" href="#">
@@ -60,7 +61,7 @@ echo '<head>
     <div class="navbar-nav ml-auto">
       <a class="nav-item nav-link active mx-3" href="index.php">Ballina<br/><span class="text-muted">Home</span><span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link mx-3" href="kontribo.php">Si funksionon?<br/><span class="text-muted">How it works</span></a>
-      <a class="nav-item nav-link mx-3" href="kontributoret.php">Rreth prishtinatrees.org<br/><span class="text-muted">About prishtinatrees.org</span></a>
+      <a class="nav-item nav-link mx-3" href="about.php">Rreth prishtinatrees.org<br/><span class="text-muted">About prishtinatrees.org</span></a>
       <img src="./assets/images/header/header_right.png"  height="60" alt="">
     </div>
   </div>

@@ -57,7 +57,7 @@
     <div class="navbar-nav">
       <a class="nav-item nav-link active text-white" href="index.php">[ Ballina ] <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link text-white" href="kontribo.php">[ Shto të dhëna ]</a>
-      <a class="nav-item nav-link text-white" href="kontributoret.php">[ Kontributorët ]</a>
+      <a class="nav-item nav-link text-white" href="about.php">[ Kontributorët ]</a>
     </div>
   </div>
 </nav>

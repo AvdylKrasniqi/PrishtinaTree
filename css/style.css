@@ -4,4 +4,8 @@
     border: 0;
     box-shadow: none;
     text-transform: uppercase;
+    font-weight: bold;
+}
+.text-en {
+ color: #09b4a9;
 }

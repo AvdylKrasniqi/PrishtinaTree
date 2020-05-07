@@ -102,5 +102,9 @@ require("header.php");
 	</div>
 </body>
 <script src="./js/script.js"></script>
-
+    <script>
+        $(document).ready(function(){
+            $("body").css("overflow-y", "hidden");
+        })
+    </script>
 </html>
