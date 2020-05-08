@@ -10,6 +10,7 @@ var PolygonParsers = [];
 var onPolyClick;
 var currentLocation;
 var updateDesc;
+var toggleDesc = false;
 $("document").ready(function() {
 
 	$("#mapid").css("height", "calc(100vh - " + $("nav").outerHeight() + "px)")
@@ -18,6 +19,8 @@ $("document").ready(function() {
 
 	updateDesc = function () {
 		if (map.getZoom() < 17) {
+			if(toggleDesc)
+				return;
 			//prishtina
 			$("#emriLagjes").text("Prishtina");
 			$("#totalDrunje").text(function(){
@@ -128,13 +131,17 @@ $("document").ready(function() {
 				return sum;
 			});
 
+			toggleDesc = !toggleDesc;
 
 		} else {
+			if(!toggleDesc)
+				return;
 			for (let polygon of PolygonParsers) {
 				if (polygon.hasPoint(map.getCenter().lat, map.getCenter().lng)) {
 					polygon.updateDesc();
 				}
 			}
+			toggleDesc = !toggleDesc;
 		}
 	}
 

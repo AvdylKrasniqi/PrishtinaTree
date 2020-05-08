@@ -105,18 +105,32 @@ class PolygonParser {
         }, 1000);
     }
     updateDesc(){
-        $("#emriLagjes").text(this.polygonName);
-        $("#totalDrunje").text(this.numriPemve());
 
-        $("#totalDrunjeGjethrenes").text(this.pemet[0].numberOfTrees("gjetherenes",""));
-        $("#gjrLarte").text(this.pemet[0].numberOfTrees("gjetherenes","larte"));
-        $("#gjrMesem").text(this.pemet[0].numberOfTrees("gjetherenes","mesem"));
-        $("#gjrUlet").text(this.pemet[0].numberOfTrees("gjetherenes","ulet"));
-
-        $("#totalDrunjeGjethmbajtes").text(this.pemet[0].numberOfTrees("gjetherenes",""));
-        $("#gjmLarte").text(this.pemet[0].numberOfTrees("gjetherenes","larte"));
-        $("#gjmMesem").text(this.pemet[0].numberOfTrees("gjetherenes","mesem"));
-        $("#gjmUlet").text(this.pemet[0].numberOfTrees("gjetherenes","ulet"));
+        try {
+            $("#emriLagjes").text(this.polygonName);
+            $("#totalDrunje").text(this.numriPemve());
+        }
+        catch(e){
+        //
+        }
+        try {
+            $("#totalDrunjeGjethrenes").text(this.pemet[0].numberOfTrees("gjetherenes", ""));
+            $("#gjrLarte").text(this.pemet[0].numberOfTrees("gjetherenes", "larte"));
+            $("#gjrMesem").text(this.pemet[0].numberOfTrees("gjetherenes", "mesem"));
+            $("#gjrUlet").text(this.pemet[0].numberOfTrees("gjetherenes", "ulet"));
+        }
+        catch (e) {
+            //
+        }
+        try {
+            $("#totalDrunjeGjethmbajtes").text(this.pemet[0].numberOfTrees("gjetherenes", ""));
+            $("#gjmLarte").text(this.pemet[0].numberOfTrees("gjetherenes", "larte"));
+            $("#gjmMesem").text(this.pemet[0].numberOfTrees("gjetherenes", "mesem"));
+            $("#gjmUlet").text(this.pemet[0].numberOfTrees("gjetherenes", "ulet"));
+        }
+        catch (e) {
+            //
+        }
 
 
     }
