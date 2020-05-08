@@ -10,20 +10,32 @@ var x;
 var TreeParsers = [];
 var PolygonParsers = [];
 var onPolyClick;
-
+var currentLocation;
+var updateDesc;
 $("document").ready(function() {
 
-	$("#mapid").css("height",  "calc(100vh - " + $("nav").outerHeight() + "px)")
+	$("#mapid").css("height", "calc(100vh - " + $("nav").outerHeight() + "px)")
 
 	map = L.map('mapid', {minZoom: 13, maxZoom: 20}).setView([42.667542, 21.166191], 14);
 
+	updateDesc = function () {
+		if (map.getZoom() < 17) {
+			//prishtina
+		} else {
+			for (let polygon of PolygonParsers) {
+				if (polygon.hasPoint(map.getCenter().lat, map.getCenter().lng)) {
+					polygon.updateDesc();
+				}
+			}
+		}
+	}
 
-	gjetherenesLarteIcon = {color: '#4e753e', fillColor: '#4e753e', fillOpacity: 0.5, radius: 1.5 }
-	gjetherenesMesemIcon = {color: '#7e9c3b', fillColor: '#7e9c3b', fillOpacity: 0.4, radius: 1.5 }
-	gjetherenesUletIcon = {color: '#c0ae28', fillColor: '#c0ae28', fillOpacity: 0.3, radius: 1 }
-	gjethembajtesLarteIcon = {color: '#674835', fillColor: '#674835', fillOpacity: 0.5, radius: 2 }
-	gjethembajtesMesemIcon = {color: '#62653a', fillColor: '#62653a', fillOpacity: 0.4, radius: 1.5 }
-	gjethembajtesUletIcon = {color: '#714220', fillColor: '#714220', fillOpacity: 0.3, radius: 1 }
+	gjetherenesLarteIcon = {color: '#4e753e', fillColor: '#4e753e', fillOpacity: 0.5, radius: 1.5}
+	gjetherenesMesemIcon = {color: '#7e9c3b', fillColor: '#7e9c3b', fillOpacity: 0.4, radius: 1.5}
+	gjetherenesUletIcon = {color: '#c0ae28', fillColor: '#c0ae28', fillOpacity: 0.3, radius: 1}
+	gjethembajtesLarteIcon = {color: '#674835', fillColor: '#674835', fillOpacity: 0.5, radius: 2}
+	gjethembajtesMesemIcon = {color: '#62653a', fillColor: '#62653a', fillOpacity: 0.4, radius: 1.5}
+	gjethembajtesUletIcon = {color: '#714220', fillColor: '#714220', fillOpacity: 0.3, radius: 1}
 
 	//
 	// gjetherenesLarteIcon = L.divIcon({
@@ -37,20 +49,19 @@ $("document").ready(function() {
 		attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>',
 		accessToken: 'not-needed',
 		style: 'https://api.maptiler.com/maps/positron/style.json?key=SUSH2C7iOeiRtPMHq2pu'
-	  }).addTo(map);
-
+	}).addTo(map);
 
 
 	southWest = L.latLng(42.608370, 21.114769),
-	northEast = L.latLng(42.709740, 21.235619);
+		northEast = L.latLng(42.709740, 21.235619);
 	bounds = L.latLngBounds(southWest, northEast);
 
 	map.setMaxBounds(bounds);
-	map.on('drag', function() {
-		map.panInsideBounds(bounds, { animate: false });
+	map.on('drag', function () {
+		map.panInsideBounds(bounds, {animate: false});
 	});
 
-	onPolyClick = function(event){
+	onPolyClick = function (event) {
 		map.fitBounds(event.target.getBounds())
 		map.flyTo(event.target.getBounds().getCenter(), 17);
 		//new TreeParser("./assets/datas/trees/ulpiana1_drunjet.json");
@@ -61,41 +72,58 @@ $("document").ready(function() {
 	L.control.scale().addTo(map);
 
 	var prevZoom = map.getZoom();
-	map.on('zoomend',function(e){
+	map.on('zoomend', function (e) {
 		//debugger;
+
+	updateDesc();
 		var currZoom = map.getZoom();
-		if(currZoom >= 17){
-		    for(let i = 0; i < PolygonParsers.length; i++){
-		        PolygonParsers[i].hide();
-		        try {
-		            PolygonParsers[i].showPemet();
-                } catch(e){
-		            console.log(e);
-                }
-            }
-        }
-		else {
-		    for(let i = 0; i < PolygonParsers.length; i++){
-		        PolygonParsers[i].show();
-		        try {
-		            PolygonParsers[i].hidePemet();
-                } catch(e){
-		            console.log(e);
-                }
-            }
-        }
+		if (currZoom >= 17) {
+			for (let i = 0; i < PolygonParsers.length; i++) {
+				PolygonParsers[i].hide();
+				try {
+					PolygonParsers[i].showPemet();
+				} catch (e) {
+					console.log(e);
+				}
+			}
+		} else {
+			for (let i = 0; i < PolygonParsers.length; i++) {
+				PolygonParsers[i].show();
+				try {
+					PolygonParsers[i].hidePemet();
+				} catch (e) {
+					console.log(e);
+				}
+			}
+		}
 
 		var diff = prevZoom - currZoom;
 
-		if(diff > 0){
+		if (diff > 0) {
 			console.log('zoomed out');
-		} else if(diff < 0) {
+		} else if (diff < 0) {
 			console.log('zoomed in');
 		} else {
 			console.log('no change');
 		}
 		prevZoom = currZoom;
 	});
+
+	currentLocation = new L.marker([42.667542, 21.166191], {
+		draggable: true
+	}).addTo(map);
+
+	currentLocation.on("drag", function (e) {
+		let _temp = e.target;
+		let position = _temp.getLatLng();
+		console.log(position.lat, position.lng)
+	});
+
+
+	map.on('dragend', function (e) {
+		updateDesc();
+	});
+
 
 	PolygonParsers.push(
 		new PolygonParser(

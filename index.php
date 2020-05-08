@@ -46,9 +46,9 @@ require("header.php");
 						</div>
 
 						<div class="col-12">
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #4e753e; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Lartë: <span>508</span></label><br/>
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #7e9c3b; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Mesëm: <span>25</span></label><br/>
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #c0ae28; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ultë: <span>200</span></label><br/>
+							<button class="button rounded-circle border-0 pt-3" style="background-color: #4e753e; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjrLarte" class="pl-1" style="vertical-align: top;">Lartë: <span>508</span></label><br/>
+							<button class="button rounded-circle border-0 pt-3" style="background-color: #7e9c3b; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjrMesem" class="pl-1" style="vertical-align: top;">Mesëm: <span>25</span></label><br/>
+							<button class="button rounded-circle border-0 pt-3" style="background-color: #c0ae28; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjrUlet" class="pl-1" style="vertical-align: top;">Ultë: <span>200</span></label><br/>
 						</div>
 					</div>
 				</div>
@@ -63,9 +63,9 @@ require("header.php");
 							<p>Gjithsej: <span id="totalDrunjeGjethmbajtes" class="font-weight-bold">508</span></p>
 						</div>
 						<div class="col-12">
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #674835; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Lartë: <span>508</span></label><br/>
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #62653a; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Mesëm: <span>25</span></label><br/>
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #714220; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ultë: <span>200</span></label><br/>
+							<button class="button rounded-circle border-0 pt-3" style="background-color: #674835; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjmLarte" class="pl-1" style="vertical-align: top;">Lartë: <span>508</span></label><br/>
+							<button class="button rounded-circle border-0 pt-3" style="background-color: #62653a; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjmMesem" class="pl-1" style="vertical-align: top;">Mesëm: <span>25</span></label><br/>
+							<button class="button rounded-circle border-0 pt-3" style="background-color: #714220; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjmUlet" class="pl-1" style="vertical-align: top;">Ultë: <span>200</span></label><br/>
 						</div>
 					</div>
 				</div>

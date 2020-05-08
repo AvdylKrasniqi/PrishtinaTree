@@ -42,7 +42,7 @@ require("header.php");
         <p>Tringa Hasbahta</p>
         <i class="text-muted">Vullnetarë nga Fakulteti i Arkitekturës, UP dhe UBT / Volunteers form Faculty of Architecture, UP and UBT</i><br/><br/>
         <h5>Dizajni dhe Zhvillimi i Website /  <span class="text-en">Design and Development of Website:</span></h5>
-        <p>Avdyl Krasniqi (<a href="https://github.com/avdylkrasniqi">Github</a>)</p>
+        <p>Avdyl Krasniqi (<a href="https://github.com/avdylkrasniqi" target="_blank">Github</a>)</p>
         <i class="text-muted">Student në FIEK - Fakulteti i Inxhinierisë Elektrike dhe Kompjuterike, Departamenti i Inxhinierisë Kompjuterike / Students of FECE - Faculty
             of Electrical and Computer Engineering, Department of Computer Engineering</i><br/><br/>
         <h5>Mbështetur nga / <span class="text-en">Supported by:</span></h5>

@@ -16,6 +16,35 @@ class TreeParser {
 	get totalNumberOfTrees(){
 		return this.totalNumberOfTrees;
 	}
+	get layerGjethembajtes(){
+		return this.layerGjetherenes;
+	}
+	get layerGjetherenes(){
+		return this.layerGjetherenes;
+	}
+	numberOfTrees(type, size) {
+		if (type === "gjetherenes") {
+			if (size === "larte") {
+				return Object.keys(this.layerGjetherenes[0]._layers).length;
+			} else if (size === "mesem") {
+				return Object.keys(this.layerGjetherenes[1]._layers).length;
+			} else if (size === "ulet") {
+				return Object.keys(this.layerGjetherenes[2]._layers).length;
+			} else {
+				return Object.keys(this.layerGjetherenes[0]._layers).length + Object.keys(this.layerGjetherenes[1]._layers).length + Object.keys(this.layerGjetherenes[2]._layers).length;
+			}
+		} else if (type === "gjethembajtes") {
+			if (size === "larte") {
+				return Object.keys(this.layerGjethembajtes[0]._layers).length;
+			} else if (size === "mesem") {
+				return Object.keys(this.layerGjethembajtes[1]._layers).length;
+			} else if (size === "ulet") {
+				return Object.keys(this.layerGjethembajtes[2]._layers).length;
+			} else {
+				return Object.keys(this.layerGjethembajtes[0]._layers).length + Object.keys(this.layerGjethembajtes[1]._layers).length + Object.keys(this.layerGjethembajtes[2]._layers).length;
+			}
+		}
+	}
 	show(){
 		map.addLayer(this.layerGjetherenes[0]);
 		map.addLayer(this.layerGjetherenes[1]);
@@ -34,7 +63,7 @@ class TreeParser {
 		map.removeLayer(this.layerGjethembajtes[2]);
 	}
 
-	render() {
+	render(){
 		var _this = this;
 
 		var markers = [[[],[],[]],[[],[],[]]];
