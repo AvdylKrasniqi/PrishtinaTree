@@ -34,7 +34,7 @@ echo '<head>
 	<script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/js/bootstrap4-toggle.min.js"></script>
 
 
-*/ 
+*/
   . '
 
  <script src="https://cdn.maptiler.com/mapbox-gl-js/v1.5.1/mapbox-gl.js"></script>
@@ -60,9 +60,9 @@ echo '<head>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav ml-auto">
       <a class="nav-item nav-link active mx-3" href="index.php">Ballina<br/><span class="text-muted">Home</span><span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link mx-3" href="kontribo.php">Si funksionon?<br/><span class="text-muted">How it works</span></a>
+      <a class="nav-item nav-link mx-3" href="howitworks.php">Si funksionon?<br/><span class="text-muted">How it works</span></a>
       <a class="nav-item nav-link mx-3" href="about.php">Rreth prishtinatrees.org<br/><span class="text-muted">About prishtinatrees.org</span></a>
-      <img src="./assets/images/header/header_right.png"  height="60" alt="">
+      <img src="./assets/images/header/header_right.png"  height="60" width="60" alt="">
     </div>
   </div>
 </nav>';
