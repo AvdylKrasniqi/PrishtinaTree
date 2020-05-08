@@ -1,5 +1,3 @@
-var $_GET = {};
-$_GET['radius'] = 160;
 var gjetherenesLarteIcon
 var gjetherenesMesemIcon
 var gjetherenesUletIcon
@@ -21,6 +19,116 @@ $("document").ready(function() {
 	updateDesc = function () {
 		if (map.getZoom() < 17) {
 			//prishtina
+			$("#emriLagjes").text("Prishtina");
+			$("#totalDrunje").text(function(){
+				let sum = 0;
+				for (let polygon of PolygonParsers) {
+					sum += polygon.numriPemve();
+				}
+				return sum;
+			});
+
+			$("#totalDrunjeGjethrenes").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+						sum += polygon.pemet[0].numberOfTrees("gjetherenes","")
+					}
+					catch(e){
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#gjrLarte").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+						sum += polygon.pemet[0].numberOfTrees("gjetherenes","larte")
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#gjrMesem").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+						sum += polygon.pemet[0].numberOfTrees("gjetherenes","mesem")
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#gjrUlet").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+						sum += polygon.pemet[0].numberOfTrees("gjetherenes","ulet")
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+
+			$("#totalDrunjeGjethmbajtes").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+						sum += polygon.pemet[0].numberOfTrees("gjethembajtes", "")
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#gjmLarte").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.pemet[0].numberOfTrees("gjethembajtes","larte")
+
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#gjmMesem").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.pemet[0].numberOfTrees("gjethembajtes","mesem")
+
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#gjmUlet").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.pemet[0].numberOfTrees("gjethembajtes","ulet")
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+
+
 		} else {
 			for (let polygon of PolygonParsers) {
 				if (polygon.hasPoint(map.getCenter().lat, map.getCenter().lng)) {
@@ -83,7 +191,7 @@ $("document").ready(function() {
 				try {
 					PolygonParsers[i].showPemet();
 				} catch (e) {
-					console.log(e);
+					//console.log(e);
 				}
 			}
 		} else {
@@ -92,7 +200,7 @@ $("document").ready(function() {
 				try {
 					PolygonParsers[i].hidePemet();
 				} catch (e) {
-					console.log(e);
+					//console.log(e);
 				}
 			}
 		}
@@ -212,4 +320,8 @@ $("document").ready(function() {
 			]
 		)
 	);
+
+	setTimeout(function(){
+		updateDesc();
+	}, 5000);
 });
