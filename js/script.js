@@ -19,8 +19,6 @@ $("document").ready(function() {
 
 	updateDesc = function () {
 		if (map.getZoom() < 17) {
-			if(toggleDesc)
-				return;
 			//prishtina
 			$("#emriLagjes").text("Prishtina");
 			$("#totalDrunje").text(function(){
@@ -134,14 +132,11 @@ $("document").ready(function() {
 			toggleDesc = !toggleDesc;
 
 		} else {
-			if(!toggleDesc)
-				return;
 			for (let polygon of PolygonParsers) {
 				if (polygon.hasPoint(map.getCenter().lat, map.getCenter().lng)) {
 					polygon.updateDesc();
 				}
 			}
-			toggleDesc = !toggleDesc;
 		}
 	}
 
@@ -151,13 +146,6 @@ $("document").ready(function() {
 	gjethembajtesLarteIcon = {color: '#674835', fillColor: '#674835', fillOpacity: 0.5, radius: 2}
 	gjethembajtesMesemIcon = {color: '#62653a', fillColor: '#62653a', fillOpacity: 0.4, radius: 1.5}
 	gjethembajtesUletIcon = {color: '#714220', fillColor: '#714220', fillOpacity: 0.3, radius: 1}
-
-	//
-	// gjetherenesLarteIcon = L.divIcon({
-	// 	html: '<svg height="10" width="10"><circle cx="5" cy="5" r="4" stroke="#4e753e" stroke-width="1" fill="#4e753e99"/></svg>',
-	// 	iconSize: [10, 10],
-	// 	className: 'gjetherenesLarteIcon'
-	// });
 
 
 	var gl = L.mapboxGL({
@@ -188,11 +176,9 @@ $("document").ready(function() {
 
 	var prevZoom = map.getZoom();
 	map.on('zoomend', function (e) {
-		//debugger;
-
-	updateDesc();
 		var currZoom = map.getZoom();
 		if (currZoom >= 17) {
+
 			for (let i = 0; i < PolygonParsers.length; i++) {
 				PolygonParsers[i].hide();
 				try {
@@ -202,6 +188,10 @@ $("document").ready(function() {
 				}
 			}
 		} else {
+
+			if(toggleDesc)
+			 	return;
+			toggleDesc = true;
 			for (let i = 0; i < PolygonParsers.length; i++) {
 				PolygonParsers[i].show();
 				try {
@@ -222,6 +212,7 @@ $("document").ready(function() {
 			console.log('no change');
 		}
 		prevZoom = currZoom;
+		updateDesc();
 	});
 
 	currentLocation = new L.marker([42.667542, 21.166191], {
