@@ -17,11 +17,11 @@ require("header.php");
     <div class="row m-0 mt-5">
         <div class="col-6">
             <span class="icon-headerico" style="font-size: 70px;"></span>
-            <h4 class="my-3">Rreth prishtinatrees.org</h4>
+            <h4 class="my-3">Si funksionon PrishtinaTrees.org</h4>
         </div>
         <div class="col-6 text-en">
             <span class="icon-headerico" style="font-size: 70px;"></span>
-            <h4 class="my-3">About prishtinatrees.org</h4>
+            <h4 class="my-3">How PrishtinaTrees.org works</h4>
         </div>
         <div class="col-12"><hr/></div>
         <div class="col-6">
