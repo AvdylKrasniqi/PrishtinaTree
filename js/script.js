@@ -18,7 +18,11 @@ $("document").ready(function() {
 	map = L.map('mapid', {minZoom: 13, maxZoom: 20}).setView([42.667542, 21.166191], 14);
 
 	updateDesc = function () {
+		console.log(toggleDesc);
 		if (map.getZoom() < 17) {
+			if(toggleDesc)
+				return;
+			toggleDesc = true;
 			//prishtina
 			$("#emriLagjes").text("Prishtina");
 			$("#totalDrunje").text(function(){
@@ -129,9 +133,10 @@ $("document").ready(function() {
 				return sum;
 			});
 
-			toggleDesc = !toggleDesc;
 
-		} else {
+		}
+		else {
+			toggleDesc = false;
 			for (let polygon of PolygonParsers) {
 				if (polygon.hasPoint(map.getCenter().lat, map.getCenter().lng)) {
 					polygon.updateDesc();
@@ -188,10 +193,6 @@ $("document").ready(function() {
 				}
 			}
 		} else {
-
-			if(toggleDesc)
-			 	return;
-			toggleDesc = true;
 			for (let i = 0; i < PolygonParsers.length; i++) {
 				PolygonParsers[i].show();
 				try {
