@@ -10,9 +10,9 @@ require("header.php");
 		<div class="col p-0">
 			<div id="progress"><div id="progress-bar"></div></div>
 			<div id="mapid" class="w-100"></div>
-			<button onclick="$('#descDiv').toggle(function(){map.invalidateSize()});" id="descToggler" class="btn btn-sm btn-outline-dark btn-light" style="cursor: pointer; position: absolute; top:10px; right: 10px; z-index: 400">></i></button>
+			<button onclick="$('#descDiv').toggle(function(){map.invalidateSize()});" id="descToggler" class="btn btn-sm btn-outline-dark btn-light" style="cursor: pointer; position: absolute; top:10px; right: 10px; z-index: 400"><span class="icon-arrow-right"></span></button>
 		</div>
-		<div id="descDiv" class="col-4 p-5" style="height: 100vh; overflow-y: scroll;">
+		<div id="descDiv" class="col-4 p-5" style=" overflow-y: scroll;">
 
 			<div id="legjenda" class="row pt-3">
 				<div class="col-12">
@@ -22,7 +22,7 @@ require("header.php");
 					<hr/>
 				</div>
 				<div class="col-2">
-					<img class="ml-1 w-100" src="./assets/images/drunjte.png"/>
+                    <span class="icon-drunjte" style="font-size: 60px;"></span>
 				</div>
 				<div class="col-5">
 					<h5>DRUNJË</h5>
@@ -37,7 +37,7 @@ require("header.php");
 				<div class="col-6">
 					<div class="row">
 						<div class="col-2">
-							<img src="./assets/images/gjethembajtes.png" style="height: 50px;" />
+                            <span class="icon-gjethembajtes" style="font-size: 60px;"></span>
 						</div>
 						<div class="col-10">
 							<h5>Gjetherënës</h5>
@@ -55,7 +55,7 @@ require("header.php");
 				<div class="col-6">
 					<div class="row">
 						<div class="col-2">
-							<img src="./assets/images/gjetherenes.png" style="height: 50px;" />
+							<span class="icon-gjetherenes" style="font-size: 60px;"></span>
 						</div>
 						<div class="col-10">
 							<h5>Gjethembajtës</h5>
@@ -72,7 +72,7 @@ require("header.php");
 					<hr>
 				</div>
 				<div class="col-2">
-					<img class="ml-1 w-100" src="./assets/images/Mobiliari.png"/>
+					<span class="icon-Mobiliari" style="font-size: 60px;"></span>
 				</div>
 				<div class="col-5">
 					<h5 class="text-uppercase">Mobilari urban</h5>
@@ -93,9 +93,18 @@ require("header.php");
 					<p>gjendja e mirë: <b><span id="mobGjendjeEMire">Loading</span></b></p>
 					<p>gjendja jo e mirë: <b><span id="mobGjendjeJoEMire">Loading</span></b></p>
 				</div>
+                <div class="col-12"><hr/></div>
+                <div class="col-2"><span style="font-size: 70px;" class="icon-co2"></span></div>
+                <div class="col-6"><h5>Reduktimi i Dioksidit të Karbonit për çdo vit:</h5></div>
+                <div class="col-4"><span id="reduktimiCO2PerVit" style="font-size: 20px; font-weight: bold;"></span>ton</div>
+                <div class="col-12"><hr/></div>
+                <div class="col-8 DPKB"><h6>Drunjë për kokë banori në Prishtinë (të hartëzuara):</h6></div>
+                <div class="col-2 DPKB"><b id="drunjePerKokeBanori"></b>%</div>
+                <div class="col-8 NDNL"><h6>Përqindja e numrit të drunjëve të Prishtinës (të hartëzuara):</h6></div>
+                <div class="col-2 NDNL"><b id="perqindjaENumritTeDrunjeveTePrishtines"></b>%</div>
+                <div class="col-8 mt-2"><h6>30 drunjë për kokë banori - numri ideal. Përqindja e arritur në Prishtinë (të hartëzuara):</h6></div>
+                <div class="col-2 mt-2"><b id="30drunjePerKokeBanori"></b>%</div>
 			</div>
-
-			<div style="height: 200px;"></div>
 		</div>
 
 	</div>
@@ -104,6 +113,7 @@ require("header.php");
     <script>
         $(document).ready(function(){
             $("body").css("overflow-y", "hidden");
+            $("#descDiv").css("height", "calc(100vh - " + $("nav").height() + "px)");
         })
     </script>
 </html>

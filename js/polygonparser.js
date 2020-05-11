@@ -165,7 +165,8 @@ class PolygonParser {
         });
         setTimeout(function(){
             let color;
-            let dendesiaPemve = _this.numriPemve() / _this.area() * 10000;
+            console.log(_this.polygonName + " " + _this.numriPemve() + " " + _this.area());
+            let dendesiaPemve = (_this.numriPemve()*1000) / _this.area();
             if(dendesiaPemve < 3.08) color = "#FCFCFF";
             if(dendesiaPemve < 3.24) color = "#F2F8F6";
             else if(dendesiaPemve < 4.67) color = "#E7F4ED";
@@ -216,6 +217,9 @@ class PolygonParser {
 
             $("#mobGjendjeEMire").text(this.mobiliariGjendjeEMire());
             $("#mobGjendjeJoEMire").text(this.mobiliariGjendjeJoEMire());
+
+            $("#reduktimiCO2PerVit").text((this.numriPemve()/14.5).toFixed(3));
+            $("#perqindjaENumritTeDrunjeveTePrishtines").text((100*this.numriPemve()/totalNumriPemveNePr).toFixed(3));
         }
         catch (e) {
             console.log(e);

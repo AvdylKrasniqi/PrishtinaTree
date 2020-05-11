@@ -15,6 +15,8 @@ var currentLocation;
 var updateDesc;
 var toggleDesc = false;
 var hideTypeOfTrees, showTypeOfTrees, toggleTypeOfTrees, hideTypeOfMobiliari, showTypeOfMobiliari, toggleTypeOfMobiliari;
+var numriBanoreve = 208230;
+var totalNumriPemveNePr = 0;
 $("document").ready(function() {
 
 	$("#mapid").css("height", "calc(100vh - " + $("nav").outerHeight() + "px)")
@@ -26,6 +28,8 @@ $("document").ready(function() {
 			if(toggleDesc)
 				return;
 			toggleDesc = true;
+			$(".DPKB").show();
+			$(".NDNL").hide();
 			//prishtina
 			$("#emriLagjes").text("Prishtina");
 			$("#totalDrunje").text(function(){
@@ -33,6 +37,10 @@ $("document").ready(function() {
 				for (let polygon of PolygonParsers) {
 					sum += polygon.numriPemve();
 				}
+				totalNumriPemveNePr = sum;
+				$("#reduktimiCO2PerVit").text(sum*14.5);
+				$("#drunjePerKokeBanori").text((sum/numriBanoreve).toFixed(2));
+				$("#30drunjePerKokeBanori").text((100*sum/(30*numriBanoreve)).toFixed(2));
 				return sum;
 			});
 			$("#totalMobilari").text(function(){
@@ -209,10 +217,12 @@ $("document").ready(function() {
 				return sum;
 			});
 
-
 		}
 		else {
 			toggleDesc = false;
+
+			$(".DPKB").hide();
+			$(".NDNL").show();
 			for (let polygon of PolygonParsers) {
 				if (polygon.hasPoint(map.getCenter().lat, map.getCenter().lng)) {
 					polygon.updateDesc();
