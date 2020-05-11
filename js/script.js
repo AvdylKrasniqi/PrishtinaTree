@@ -4,6 +4,9 @@ var gjetherenesUletIcon
 var gjethembajtesLarteIcon
 var gjethembajtesMesemIcon
 var gjethembajtesUletIcon
+var uleseIcon
+var ndricimIcon
+var mbeturinaIcon
 var x;
 var TreeParsers = [];
 var PolygonParsers = [];
@@ -11,7 +14,7 @@ var onPolyClick;
 var currentLocation;
 var updateDesc;
 var toggleDesc = false;
-var hideTypeOfTrees, showTypeOfTrees, toggleTypeOfTrees;
+var hideTypeOfTrees, showTypeOfTrees, toggleTypeOfTrees, hideTypeOfMobiliari, showTypeOfMobiliari, toggleTypeOfMobiliari;
 $("document").ready(function() {
 
 	$("#mapid").css("height", "calc(100vh - " + $("nav").outerHeight() + "px)")
@@ -19,7 +22,6 @@ $("document").ready(function() {
 	map = L.map('mapid', {minZoom: 13, maxZoom: 20}).setView([42.667542, 21.166191], 14);
 
 	updateDesc = function () {
-		console.log(toggleDesc);
 		if (map.getZoom() < 17) {
 			if(toggleDesc)
 				return;
@@ -33,12 +35,24 @@ $("document").ready(function() {
 				}
 				return sum;
 			});
+			$("#totalMobilari").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.numriMobiliari();
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
 
 			$("#totalDrunjeGjethrenes").text(function(){
 				let sum = 0;
 				for(let polygon of PolygonParsers){
 					try {
-						sum += polygon.pemet[0].numberOfTrees("gjetherenes","")
+						sum += polygon.numriPemveByTypeSize("gjetherenes","")
 					}
 					catch(e){
 						//console.log(e);
@@ -50,7 +64,7 @@ $("document").ready(function() {
 				let sum = 0;
 				for(let polygon of PolygonParsers){
 					try {
-						sum += polygon.pemet[0].numberOfTrees("gjetherenes","larte")
+						sum += polygon.numriPemveByTypeSize("gjetherenes","larte")
 					}
 					catch (e) {
 						//console.log(e);
@@ -62,7 +76,7 @@ $("document").ready(function() {
 				let sum = 0;
 				for(let polygon of PolygonParsers){
 					try {
-						sum += polygon.pemet[0].numberOfTrees("gjetherenes","mesem")
+						sum += polygon.numriPemveByTypeSize("gjetherenes","mesem")
 					}
 					catch (e) {
 						//console.log(e);
@@ -74,7 +88,7 @@ $("document").ready(function() {
 				let sum = 0;
 				for(let polygon of PolygonParsers){
 					try {
-						sum += polygon.pemet[0].numberOfTrees("gjetherenes","ulet")
+						sum += polygon.numriPemveByTypeSize("gjetherenes","ulet")
 					}
 					catch (e) {
 						//console.log(e);
@@ -87,7 +101,7 @@ $("document").ready(function() {
 				let sum = 0;
 				for(let polygon of PolygonParsers){
 					try {
-						sum += polygon.pemet[0].numberOfTrees("gjethembajtes", "")
+						sum += polygon.numriPemveByTypeSize("gjethembajtes", "")
 					}
 					catch (e) {
 						//console.log(e);
@@ -99,7 +113,7 @@ $("document").ready(function() {
 				let sum = 0;
 				for(let polygon of PolygonParsers){
 					try {
-					sum += polygon.pemet[0].numberOfTrees("gjethembajtes","larte")
+					sum += polygon.numriPemveByTypeSize("gjethembajtes","larte")
 
 					}
 					catch (e) {
@@ -112,7 +126,7 @@ $("document").ready(function() {
 				let sum = 0;
 				for(let polygon of PolygonParsers){
 					try {
-					sum += polygon.pemet[0].numberOfTrees("gjethembajtes","mesem")
+					sum += polygon.numriPemveByTypeSize("gjethembajtes","mesem")
 
 					}
 					catch (e) {
@@ -125,7 +139,68 @@ $("document").ready(function() {
 				let sum = 0;
 				for(let polygon of PolygonParsers){
 					try {
-					sum += polygon.pemet[0].numberOfTrees("gjethembajtes","ulet")
+					sum += polygon.numriPemveByTypeSize("gjethembajtes","ulet")
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+
+			$("#nrUlese").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.numriMobiliariByType("ulese");
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#nrNdricim").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.numriMobiliariByType("ndricim");
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#nrMbeturina").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.numriMobiliariByType("mbeturina");
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#mobGjendjeEMire").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.mobiliariGjendjeEMire();
+					}
+					catch (e) {
+						//console.log(e);
+					}
+				}
+				return sum;
+			});
+			$("#mobGjendjeJoEMire").text(function(){
+				let sum = 0;
+				for(let polygon of PolygonParsers){
+					try {
+					sum += polygon.mobiliariGjendjeJoEMire();
 					}
 					catch (e) {
 						//console.log(e);
@@ -153,6 +228,9 @@ $("document").ready(function() {
 	gjethembajtesMesemIcon = {color: '#62653a', fillColor: '#62653a', fillOpacity: 0.4, radius: 1.5}
 	gjethembajtesUletIcon = {color: '#714220', fillColor: '#714220', fillOpacity: 0.3, radius: 1}
 
+	uleseIcon = {color: '#e24d21', fillColor: '#e24d21', fillOpacity: 0.5, radius: 1}
+	ndricimIcon = {color: '#4090a8', fillColor: '#4090a8', fillOpacity: 0.5, radius: 1}
+	mbeturinaIcon = {color: '#624785', fillColor: '#624785', fillOpacity: 0.5, radius: 1}
 
 	var gl = L.mapboxGL({
 		attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>',
@@ -189,6 +267,7 @@ $("document").ready(function() {
 				PolygonParsers[i].hide();
 				try {
 					PolygonParsers[i].showPemet();
+					PolygonParsers[i].showMobiliari();
 				} catch (e) {
 					//console.log(e);
 				}
@@ -198,6 +277,7 @@ $("document").ready(function() {
 				PolygonParsers[i].show();
 				try {
 					PolygonParsers[i].hidePemet();
+					PolygonParsers[i].hideMobiliari();
 				} catch (e) {
 					//console.log(e);
 				}
@@ -239,6 +319,9 @@ $("document").ready(function() {
 			"ulpiana",
 			[
 				"./assets/datas/trees/ulpiana1_drunjet.json"
+			],
+			[
+				"./assets/datas/mobiliari/ulpiana1_mobiliari.json"
 			]
 		)
 	);
@@ -246,6 +329,7 @@ $("document").ready(function() {
 		new PolygonParser(
 			"./assets/datas/kufijte.json",
 			"dardania",
+			[],
 			[]
 		)
 	);
@@ -257,6 +341,10 @@ $("document").ready(function() {
 			[
 				"./assets/datas/trees/aktash1_drunjet.json",
 				"./assets/datas/trees/aktash2_drunjet.json"
+			],
+			[
+				"./assets/datas/mobiliari/aktash1_mobiliari.json",
+				"./assets/datas/mobiliari/aktash2_mobiliari.json"
 			]
 		)
 	);
@@ -269,6 +357,10 @@ $("document").ready(function() {
 				"./assets/datas/trees/kampusi1_drunjet.json",
 				"./assets/datas/trees/kampusi2_drunjet.json",
 				"./assets/datas/trees/kampusi3_drunjet.json"
+			],
+			[
+				"./assets/datas/mobiliari/kampusi1_mobiliari.json",
+				"./assets/datas/mobiliari/kampusi2_mobiliari.json"
 			]
 		)
 	);
@@ -284,6 +376,15 @@ $("document").ready(function() {
 				"./assets/datas/trees/qendra5_drunjet.json",
 				"./assets/datas/trees/qendra6_drunjet.json",
 				"./assets/datas/trees/qendra7_drunjet.json"
+			],
+			[
+				"./assets/datas/mobiliari/qendra1_mobiliari.json",
+				"./assets/datas/mobiliari/qendra2_mobiliari.json",
+				"./assets/datas/mobiliari/qendra3_mobiliari.json",
+				"./assets/datas/mobiliari/qendra4_mobiliari.json",
+				"./assets/datas/mobiliari/qendra5_mobiliari.json",
+				"./assets/datas/mobiliari/qendra6_mobiliari.json",
+				"./assets/datas/mobiliari/qendra7_mobiliari.json"
 			]
 		)
 	);
@@ -294,6 +395,9 @@ $("document").ready(function() {
 			"bregu i diellit",
 			[
 				"./assets/datas/trees/breguidiellit1_drunjet.json"
+			],
+			[
+				"./assets/datas/mobiliari/breguidiellit1_mobiliari.json"
 			]
 		)
 	);
@@ -306,6 +410,10 @@ $("document").ready(function() {
 			[
 				"./assets/datas/trees/pejton1_drunjet.json",
 				"./assets/datas/trees/pejton2_drunjet.json"
+			],
+			[
+				"./assets/datas/mobiliari/pejton1_mobiliari.json",
+				"./assets/datas/mobiliari/pejton2_mobiliari.json"
 			]
 		)
 	);
@@ -317,6 +425,9 @@ $("document").ready(function() {
 			"mahalla e muhaxhereve",
 			[
 				"./assets/datas/trees/mahallamuhaxhereve1_drunjet.json"
+			],
+			[
+				"./assets/datas/mobiliari/mahallamuhaxhereve1_mobiliari.json"
 			]
 		)
 	);
@@ -342,6 +453,30 @@ $("document").ready(function() {
             showTypeOfTrees(type, height);
         }
     }
+
+    hideTypeOfMobiliari = function(type){
+	    for(let i = 0; i < PolygonParsers.length; i++){
+	        PolygonParsers[i].hideTypeOfMobiliari(type);
+        }
+    }
+    showTypeOfMobiliari  = function(type){
+	    for(let i = 0; i < PolygonParsers.length; i++){
+	        PolygonParsers[i].showTypeOfMobiliari(type);
+        }
+    }
+
+    toggleTypeOfMobiliari = function(btn, type){
+	    if($(btn).attr("data-display") === "true"){
+            $(btn).addClass('bg-light').attr("data-display", "false");
+            hideTypeOfMobiliari(type);
+        }
+	    else {
+            $(btn).removeClass('bg-light').attr("data-display", "true");
+            showTypeOfMobiliari(type);
+        }
+    }
+
+
 	setTimeout(function(){
 		updateDesc();
 	}, 5000);

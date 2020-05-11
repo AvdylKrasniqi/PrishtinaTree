@@ -6,13 +6,17 @@ class PolygonParser {
     polygoncoords = [];
     turfpolygon;
     pemet = [];
+    mobiliari = [];
     isShowed = false;
-    constructor(jsonUrl, polygonName, pemet){
+    constructor(jsonUrl, polygonName, pemet, mobiliari){
 
         this.polygonName = polygonName;
         this.jsonUrl = jsonUrl;
         for(let i = 0; i < pemet.length; i++){
             this.krijoPemet(pemet[i]);
+        }
+        for(let i = 0; i < mobiliari.length; i++){
+            this.krijoMobiliari(mobiliari[i]);
         }
         setTimeout(function(){}, 0);
         this.render();
@@ -46,6 +50,7 @@ class PolygonParser {
         }
     }
 
+    /*START OF PEMET*/
     krijoPemet(jsonUrl) {
         this.pemet.push(new TreeParser(jsonUrl));
     }
@@ -53,6 +58,14 @@ class PolygonParser {
         let sum = 0;
         for(let i = 0; i < this.pemet.length; i++){
             sum += this.pemet[i].totalNumberOfTrees;
+        }
+        return sum;
+    }
+
+    numriPemveByTypeSize(type, size){
+        let sum = 0;
+        for(let i = 0; i < this.pemet.length; i++){
+            sum += this.pemet[i].numberOfTrees(type, size);
         }
         return sum;
     }
@@ -79,6 +92,67 @@ class PolygonParser {
             this.pemet[i].showType(type, height);
         }
     }
+    /*END OF PEMET*/
+    /*START OF MOBILIARI*/
+    krijoMobiliari(jsonUrl) {
+        this.mobiliari.push(new MobiliariParser(jsonUrl));
+    }
+    numriMobiliari(){
+        let sum = 0;
+        for(let i = 0; i < this.mobiliari.length; i++){
+            sum += this.mobiliari[i].totalNumberOfMobiliari;
+        }
+        return sum;
+    }
+    get mobiliari() {
+        return this.mobiliari;
+    }
+    showMobiliari(){
+        for(let i =  0; i < this.mobiliari.length; i++){
+            this.mobiliari[i].show();
+        }
+    }
+    hideMobiliari(){
+        for(let i =  0; i < this.mobiliari.length; i++){
+            this.mobiliari[i].hide();
+        }
+    }
+    hideTypeOfMobiliari(type){
+        for(let i = 0; i < this.mobiliari.length; i++){
+            this.mobiliari[i].hideType(type);
+        }
+    }
+    showTypeOfMobiliari(type){
+        for(let i = 0; i < this.mobiliari.length; i++){
+            this.mobiliari[i].showType(type);
+        }
+    }
+
+    numriMobiliariByType(type){
+        let sum = 0;
+        for(let i = 0; i < this.mobiliari.length; i++){
+            sum += this.mobiliari[i].numberOfMobilari(type);
+        }
+        return sum;
+    }
+    mobiliariGjendjeEMire(){
+        let sum = 0;
+        for(let i = 0; i < this.mobiliari.length; i++){
+            sum += this.mobiliari[i].totalGjendjeEMire;
+        }
+        return sum;
+    }
+    mobiliariGjendjeJoEMire(){
+        let sum = 0;
+        for(let i = 0; i < this.mobiliari.length; i++){
+            sum += this.mobiliari[i].totalGjendjeJoEMire;
+        }
+        return sum;
+    }
+    /*END OF MOBILIARI*/
+
+
+
     render() {
         var _this = this;
         $.getJSON(_this.jsonUrl, function(data) {
@@ -91,8 +165,7 @@ class PolygonParser {
         });
         setTimeout(function(){
             let color;
-            let dendesiaPemve = _this.numriPemve() / _this.area() * 1000;
-            console.log(dendesiaPemve);
+            let dendesiaPemve = _this.numriPemve() / _this.area() * 10000;
             if(dendesiaPemve < 3.08) color = "#FCFCFF";
             if(dendesiaPemve < 3.24) color = "#F2F8F6";
             else if(dendesiaPemve < 4.67) color = "#E7F4ED";
@@ -119,27 +192,33 @@ class PolygonParser {
         try {
             $("#emriLagjes").text(this.polygonName);
             $("#totalDrunje").text(this.numriPemve());
+            $("#totalMobilari").text(this.numriMobiliari());
         }
         catch(e){
         //
         }
         try {
-            $("#totalDrunjeGjethrenes").text(this.pemet[0].numberOfTrees("gjetherenes", ""));
-            $("#gjrLarte").text(this.pemet[0].numberOfTrees("gjetherenes", "larte"));
-            $("#gjrMesem").text(this.pemet[0].numberOfTrees("gjetherenes", "mesem"));
-            $("#gjrUlet").text(this.pemet[0].numberOfTrees("gjetherenes", "ulet"));
+            $("#totalDrunjeGjethrenes").text(this.numriPemveByTypeSize("gjetherenes", ""));
+            $("#gjrLarte").text(this.numriPemveByTypeSize("gjetherenes", "larte"));
+            $("#gjrMesem").text(this.numriPemveByTypeSize("gjetherenes", "mesem"));
+            $("#gjrUlet").text(this.numriPemveByTypeSize("gjetherenes", "ulet"));
+
+
+            $("#totalDrunjeGjethmbajtes").text(this.numriPemveByTypeSize("gjethembajtes", ""));
+            $("#gjmLarte").text(this.numriPemveByTypeSize("gjethembajtes", "larte"));
+            $("#gjmMesem").text(this.numriPemveByTypeSize("gjethembajtes", "mesem"));
+            $("#gjmUlet").text(this.numriPemveByTypeSize("gjethembajtes", "ulet"));
+
+
+            $("#nrUlese").text(this.numriMobiliariByType("ulese"));
+            $("#nrNdricim").text(this.numriMobiliariByType("ndricim"));
+            $("#nrMbeturina").text(this.numriMobiliariByType("mbeturina"));
+
+            $("#mobGjendjeEMire").text(this.mobiliariGjendjeEMire());
+            $("#mobGjendjeJoEMire").text(this.mobiliariGjendjeJoEMire());
         }
         catch (e) {
-            //
-        }
-        try {
-            $("#totalDrunjeGjethmbajtes").text(this.pemet[0].numberOfTrees("gjetherenes", ""));
-            $("#gjmLarte").text(this.pemet[0].numberOfTrees("gjetherenes", "larte"));
-            $("#gjmMesem").text(this.pemet[0].numberOfTrees("gjetherenes", "mesem"));
-            $("#gjmUlet").text(this.pemet[0].numberOfTrees("gjetherenes", "ulet"));
-        }
-        catch (e) {
-            //
+            console.log(e);
         }
 
 

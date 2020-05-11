@@ -79,19 +79,19 @@ require("header.php");
 					<p>Gjithsej njësi:
 				</div>
 				<div class="col-5" style="align-self: flex-end;">
-					<span id="totalMobilari" class="font-weight-bold" style="font-size: 39px;">1078</span></p>
+					<span id="totalMobilari" class="font-weight-bold" style="font-size: 39px;">Loading</span></p>
 				</div>
 				<div class="col-12">
 					<hr/>
 				</div>
 				<div class="col-6">
-					<button class="button rounded-circle border-0 pt-3" style="background-color: #e24d21; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ulëse: <span>508</span></label><br/>
-					<button class="button rounded-circle border-0 pt-3" style="background-color: #4090a8; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ndriçim: <span>508</span></label><br/>
-					<button class="button rounded-circle border-0 pt-3" style="background-color: #624785; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Mbeturina: <span>508</span></label><br/>
+					<button onclick="toggleTypeOfMobiliari(this, 'ulese')" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #e24d21; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ulëse: <span id="nrUlese">Loading</span></label><br/>
+					<button onclick="toggleTypeOfMobiliari(this, 'ndricim')" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #4090a8; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ndriçim: <span id="nrNdricim">Loading</span></label><br/>
+					<button onclick="toggleTypeOfMobiliari(this, 'mbeturina')" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #624785; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Mbeturina: <span id="nrMbeturina">Loading</span></label><br/>
 				</div>
 				<div class="col-6 text-right">
-					<p>gjendja e mirë: <span><b>200</b></span></p>
-					<p>gjendja jo e mirë: <span><b>200</b></span></p>
+					<p>gjendja e mirë: <b><span id="mobGjendjeEMire">Loading</span></b></p>
+					<p>gjendja jo e mirë: <b><span id="mobGjendjeJoEMire">Loading</span></b></p>
 				</div>
 			</div>
 

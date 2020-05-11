@@ -8,7 +8,7 @@ class TreeParser {
 	1 = mesem
 	2 = ulet
 	*/
-	totalNumberOfTrees;
+	totalNumberOfTrees = 0;
 	shouldBeShown = [[true, true, true], [true, true,true]];
 	constructor(jsonUrl){
 		this.jsonUrl = jsonUrl;
@@ -62,18 +62,12 @@ class TreeParser {
 	}
 
 	hide(){
-		if(this.shouldBeShown[0][0])
-			map.removeLayer(this.layerGjetherenes[0]);
-		if(this.shouldBeShown[0][1])
+		map.removeLayer(this.layerGjetherenes[0]);
 		map.removeLayer(this.layerGjetherenes[1]);
-		if(this.shouldBeShown[0][2])
-			map.removeLayer(this.layerGjetherenes[2]);
-		if(this.shouldBeShown[1][0])
-			map.removeLayer(this.layerGjethembajtes[0]);
-		if(this.shouldBeShown[1][1])
-			map.removeLayer(this.layerGjethembajtes[1]);
-		if(this.shouldBeShown[1][2])
-			map.removeLayer(this.layerGjethembajtes[2]);
+		map.removeLayer(this.layerGjetherenes[2]);
+		map.removeLayer(this.layerGjethembajtes[0]);
+		map.removeLayer(this.layerGjethembajtes[1]);
+		map.removeLayer(this.layerGjethembajtes[2]);
 	}
 	hideType(type, height){
 		if(type === "gjetherenes"){
