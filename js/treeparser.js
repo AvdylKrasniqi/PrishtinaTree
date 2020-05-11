@@ -78,10 +78,14 @@ class TreeParser {
 	hideType(type, height){
 		if(type === "gjetherenes"){
 			this.shouldBeShown[0][height] = false;
+			if(map.getZoom() < 17)
+				return;
 			map.removeLayer(this.layerGjetherenes[height]);
 		}
 		else if(type === "gjethembajtes"){
 			this.shouldBeShown[1][height] = false;
+			if(map.getZoom() < 17)
+				return;
 			map.removeLayer(this.layerGjethembajtes[height]);
 		}
 	}
@@ -89,10 +93,14 @@ class TreeParser {
 	showType(type, height){
 		if(type === "gjetherenes"){
 			this.shouldBeShown[0][height] = true;
+			if(map.getZoom() < 17)
+				return;
 			map.addLayer(this.layerGjetherenes[height]);
 		}
 		else if(type === "gjethembajtes"){
 			this.shouldBeShown[1][height] = true;
+			if(map.getZoom() < 17)
+				return;
 			map.addLayer(this.layerGjethembajtes[height]);
 		}
 	}
