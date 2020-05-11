@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efa5e628-f2c0-4dab-8718-c6e1a23cf7e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1axBseTMrMJ4j42QewrfuKbqHc2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa5e628-f2c0-4dab-8718-c6e1a23cf7e7" name="Default Changelist" comment="" />
+      <created>1587667572823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587667572823</updated>
+      <workItem from="1587667574229" duration="151000" />
+      <workItem from="1587667750856" duration="1274000" />
+      <workItem from="1587676145427" duration="452000" />
+      <workItem from="1587676642108" duration="9316000" />
+      <workItem from="1587740155831" duration="4914000" />
+      <workItem from="1587944882341" duration="15252000" />
+      <workItem from="1588022478831" duration="4273000" />
+      <workItem from="1588275178108" duration="600000" />
+      <workItem from="1588685909740" duration="15349000" />
+      <workItem from="1588713856376" duration="975000" />
+      <workItem from="1588761840869" duration="3204000" />
+      <workItem from="1588793105064" duration="366000" />
+      <workItem from="1588793506259" duration="13581000" />
+      <workItem from="1588942919016" duration="10263000" />
+      <workItem from="1589210002078" duration="22383000" />
+    </task>
+    <task id="LOCAL-00001" summary="New PolygonParser, to be continued!">
+      <created>1587686744548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587686744548</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Faster rendeing, get rid of clustering!">
+      <created>1588005900371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588005900371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/PrishtinaTree" />
+    </ignored-roots>
+    <MESSAGE value="New PolygonParser, to be continued!" />
+    <MESSAGE value="Faster rendeing, get rid of clustering!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Faster rendeing, get rid of clustering!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1588801208194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1588801208194" />
+    <state x="552" y="161" key="#Plugins" timestamp="1588793572278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1588793572278" />
+    <state x="666" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589216193095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589216193095" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588974115598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588974115598" />
+    <state x="583" y="2" key="CommitChangelistDialog2" timestamp="1588005896605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588005896605" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1588712150957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588712150957" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1588797587489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588797587489" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587677983302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1587677983302" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1587686747625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587686747625" />
+    <state x="668" y="204" width="583" height="614" key="find.popup" timestamp="1588801894010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="204" width="583" height="614" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588801894010" />
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1587741056819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587741056819" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1589230953844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589230953844" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589223392539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589223392539" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/script.js</url>
+          <line>294</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
