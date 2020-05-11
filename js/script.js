@@ -17,6 +17,27 @@ var toggleDesc = false;
 var hideTypeOfTrees, showTypeOfTrees, toggleTypeOfTrees, hideTypeOfMobiliari, showTypeOfMobiliari, toggleTypeOfMobiliari;
 var numriBanoreve = 208230;
 var totalNumriPemveNePr = 0;
+
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } else {
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+
+function showPosition(position) {
+	$("#newElementLatitude").val(position.coords.latitude);
+	$("#newElementLongitude").val(position.coords.longitude);
+}
+
+$("#newElementLongitude").on("keyup", function(){
+	currentLocation.setLatLng([$("#newElementLatitude").val(), $("#newElementLongitude").val()]);
+})
+$("#newElementLatitude").on("keyup", function(){
+	currentLocation.setLatLng([$("#newElementLatitude").val(), $("#newElementLongitude").val()]);
+})
+
 $("document").ready(function() {
 
 	$("#mapid").css("height", "calc(100vh - " + $("nav").outerHeight() + "px)")
@@ -309,12 +330,13 @@ $("document").ready(function() {
 
 	currentLocation = new L.marker([42.667542, 21.166191], {
 		draggable: true
-	}).addTo(map);
+	}).bindPopup('Zhvendosni pikën').addTo(map);
 
 	currentLocation.on("drag", function (e) {
 		let _temp = e.target;
 		let position = _temp.getLatLng();
-		console.log(position.lat, position.lng)
+		$("#newElementLatitude").val(position.lat);
+		$("#newElementLongitude").val(position.lng);
 	});
 
 

@@ -12,9 +12,8 @@ require("header.php");
 			<div id="mapid" class="w-100"></div>
 			<button onclick="$('#descDiv').toggle(function(){map.invalidateSize()});" id="descToggler" class="btn btn-sm btn-outline-dark btn-light" style="cursor: pointer; position: absolute; top:10px; right: 10px; z-index: 400"><span class="icon-arrow-right"></span></button>
 		</div>
-		<div id="descDiv" class="col-4 p-5" style=" overflow-y: scroll;">
-
-			<div id="legjenda" class="row pt-3">
+		<div id="descDiv" class="col-4  p-5" style=" overflow-y: scroll;">
+			<div id="legjenda" class="d-none row">
 				<div class="col-12">
 					<h3 id="emriLagjes">Loading</h3>
 				</div>
@@ -105,8 +104,27 @@ require("header.php");
                 <div class="col-8 mt-2"><h6>30 drunjë për kokë banori - numri ideal. Përqindja e arritur në Prishtinë (të hartëzuara):</h6></div>
                 <div class="col-2 mt-2"><b id="30drunjePerKokeBanori"></b>%</div>
 			</div>
-		</div>
+            <div id="shtoElement" class="row">
+                <div class="col-12">
+                    <form action="#" method="POST">
+                        <div class="row w-100">
+                            <div class="col-12">
+                                <button onclick="getLocation();" class="btn btn-primary">Get Location</button>
+                            </div>
+                            <div class="col-6">
 
+                                <label for="newElementLatitude">Latitude: </label>
+                                <input type="text" id="newElementLatitude" class="form-control" required="required">
+                            </div>
+                            <div class="col-6">
+                                <label for="newElementLongitude">Longitude: </label>
+                                <input type="text" id="newElementLongitude" class="form-control" required="required">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+		</div>
 	</div>
 </body>
 <script src="./js/script.js"></script>

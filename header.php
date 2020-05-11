@@ -61,7 +61,7 @@ echo '<head>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav ml-auto">
-      <a class="nav-item nav-link active mx-3" href="index.php">Ballina<br/><span class="text-muted">Home</span><span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link mx-3" href="index.php">Ballina<br/><span class="text-muted">Home</span><span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link mx-3" href="howitworks.php">Si funksionon?<br/><span class="text-muted">How it works</span></a>
       <a class="nav-item nav-link mx-3" href="about.php">Rreth prishtinatrees.org<br/><span class="text-muted">About prishtinatrees.org</span></a>
       <img src="./assets/images/header/header_right.png"  height="60" width="60" alt="">
