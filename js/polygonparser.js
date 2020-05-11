@@ -51,7 +51,7 @@ class PolygonParser {
     }
     numriPemve(){
         let sum = 0;
-        for(var i = 0; i < this.pemet.length; i++){
+        for(let i = 0; i < this.pemet.length; i++){
             sum += this.pemet[i].totalNumberOfTrees;
         }
         return sum;
@@ -67,6 +67,16 @@ class PolygonParser {
     hidePemet(){
         for(let i =  0; i < this.pemet.length; i++){
             this.pemet[i].hide();
+        }
+    }
+    hideTypeOfTrees(type, height){
+        for(let i = 0; i < this.pemet.length; i++){
+            this.pemet[i].hideType(type, height);
+        }
+    }
+    showTypeOfTrees(type, height){
+        for(let i = 0; i < this.pemet.length; i++){
+            this.pemet[i].showType(type, height);
         }
     }
     render() {

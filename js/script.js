@@ -11,6 +11,7 @@ var onPolyClick;
 var currentLocation;
 var updateDesc;
 var toggleDesc = false;
+var hideTypeOfTrees, showTypeOfTrees, toggleTypeOfTrees;
 $("document").ready(function() {
 
 	$("#mapid").css("height", "calc(100vh - " + $("nav").outerHeight() + "px)")
@@ -320,7 +321,29 @@ $("document").ready(function() {
 		)
 	);
 
+	hideTypeOfTrees = function(type, height){
+	    for(let i = 0; i < PolygonParsers.length; i++){
+	        PolygonParsers[i].hideTypeOfTrees(type, height);
+        }
+    }
+    showTypeOfTrees  = function(type, height){
+	    for(let i = 0; i < PolygonParsers.length; i++){
+	        PolygonParsers[i].showTypeOfTrees(type, height);
+        }
+    }
+
+    toggleTypeOfTrees = function(btn, type, height){
+	    if($(btn).attr("data-display") === "true"){
+            $(btn).attr("data-display", "false");
+            hideTypeOfTrees(type, height);
+        }
+	    else {
+            $(btn).attr("data-display", "true");
+            showTypeOfTrees(type, height);
+        }
+    }
 	setTimeout(function(){
 		updateDesc();
 	}, 5000);
+
 });

@@ -19,6 +19,7 @@ echo '<head>
 	<script src="https://cdn.jsdelivr.net/npm/@turf/turf@5.1.6/turf.min.js"></script>
     <script type="text/javascript" src="./js/polygonparser.js"></script>
     <link  href="./assets/images/icons/style.css" rel="stylesheet" >
+    
 	'
   /*
    *

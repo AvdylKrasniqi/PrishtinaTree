@@ -5,7 +5,6 @@ require("header.php");
 <!DOCTYPE html>
 <html>
 	<?php get_header(); ?>
-
 	<div class="row m-0" style="overflow: hidden;">
 		
 		<div class="col p-0">
@@ -46,9 +45,9 @@ require("header.php");
 						</div>
 
 						<div class="col-12">
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #4e753e; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjrLarte" class="pl-1" style="vertical-align: top;">Lartë: <span>Loading</span></label><br/>
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #7e9c3b; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjrMesem" class="pl-1" style="vertical-align: top;">Mesëm: <span>Loading</span></label><br/>
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #c0ae28; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjrUlet" class="pl-1" style="vertical-align: top;">Ultë: <span>Loading</span></label><br/>
+							<button onclick="toggleTypeOfTrees(this, 'gjetherenes', 0)" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #4e753e; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Lartë: <span id="gjrLarte" >Loading</span></label><br/>
+							<button onclick="toggleTypeOfTrees(this, 'gjetherenes', 1)" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #7e9c3b; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Mesëm: <span id="gjrMesem" >Loading</span></label><br/>
+							<button onclick="toggleTypeOfTrees(this, 'gjetherenes', 2)" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #c0ae28; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;" >Ultë: <span id="gjrUlet" >Loading</span></label><br/>
 						</div>
 					</div>
 				</div>
@@ -63,9 +62,9 @@ require("header.php");
 							<p>Gjithsej: <span id="totalDrunjeGjethmbajtes" class="font-weight-bold">Loading</span></p>
 						</div>
 						<div class="col-12">
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #674835; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjmLarte" class="pl-1" style="vertical-align: top;">Lartë: <span>Loading</span></label><br/>
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #62653a; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjmMesem" class="pl-1" style="vertical-align: top;">Mesëm: <span>Loading</span></label><br/>
-							<button class="button rounded-circle border-0 pt-3" style="background-color: #714220; outline: none; height: 30px; width: 30px;">&nbsp;</button><label id="gjmUlet" class="pl-1" style="vertical-align: top;">Ultë: <span>Loading</span></label><br/>
+							<button onclick="toggleTypeOfTrees(this, 'gjethembajtes', 0)" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #674835; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Lartë: <span id="gjmLarte" >Loading</span></label><br/>
+							<button onclick="toggleTypeOfTrees(this, 'gjethembajtes', 1)" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #62653a; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Mesëm: <span id="gjmMesem" >Loading</span></label><br/>
+							<button onclick="toggleTypeOfTrees(this, 'gjethembajtes', 2)" data-display="true" class="button rounded-circle border-0 pt-3" style="background-color: #714220; outline: none; height: 30px; width: 30px;">&nbsp;</button><label class="pl-1" style="vertical-align: top;">Ultë: <span id="gjmUlet" >Loading</span></label><br/>
 						</div>
 					</div>
 				</div>
