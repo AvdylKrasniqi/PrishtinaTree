@@ -334,11 +334,11 @@ $("document").ready(function() {
 
     toggleTypeOfTrees = function(btn, type, height){
 	    if($(btn).attr("data-display") === "true"){
-            $(btn).attr("data-display", "false");
+            $(btn).addClass('bg-light').attr("data-display", "false");
             hideTypeOfTrees(type, height);
         }
 	    else {
-            $(btn).attr("data-display", "true");
+            $(btn).removeClass('bg-light').attr("data-display", "true");
             showTypeOfTrees(type, height);
         }
     }
