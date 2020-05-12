@@ -1,3 +1,4 @@
+var map
 var gjetherenesLarteIcon
 var gjetherenesMesemIcon
 var gjetherenesUletIcon
@@ -27,22 +28,16 @@ function getLocation() {
 }
 
 function showPosition(position) {
-	$("#newElementLatitude").val(position.coords.latitude);
-	$("#newElementLongitude").val(position.coords.longitude);
+	$("input[name='latitude']").val(position.coords.latitude);
+	$("input[name='longitude']").val(position.coords.longitude);
+	currentLocation.setLatLng([position.coords.latitude, position.coords.longitude]);
 }
 
-
-$("#treeLatitude").on("keyup", function(){
-	currentLocation.setLatLng([$("#treeLatitude").val(), $("#treeLongitude").val()]);
+$("input[name='latitude']").on("change", function(){
+	currentLocation.setLatLng([$(this).val(), $("input[name='longitude']").val()]);
 })
-$("#treeLongitude").on("keyup", function(){
-	currentLocation.setLatLng([$("#treeLatitude").val(), $("#treeLongitude").val()]);
-})
-$("#mobLatitude").on("keyup", function(){
-	currentLocation.setLatLng([$("#mobLatitude").val(), $("#mobLongitude").val()]);
-})
-$("#mobLongitude").on("keyup", function(){
-	currentLocation.setLatLng([$("#mobLatitude").val(), $("#mobLongitude").val()]);
+$("input[name='longitude']").on("change", function(){
+	currentLocation.setLatLng([$("input[name='latitude']").val(), $(this).val()]);
 })
 
 $("document").ready(function() {
@@ -343,17 +338,23 @@ $("document").ready(function() {
 	currentLocation.bindPopup('Zhvendosni pikën');
 	currentLocation.on("drag", function (e) {
 		let position = e.target.getLatLng();
-		$("#treeLatitude").val(position.lat);
-		$("#mobLatitude").val(position.lat);
-		$("#treeLongitude").val(position.lng);
-		$("#mobLongitude").val(position.lng);
+		// $("#treeLatitude").val(position.lat);
+		// $("#mobLatitude").val(position.lat);
+		// $("#treeLongitude").val(position.lng);
+		// $("#mobLongitude").val(position.lng);
+		$("input[name='latitude']").val(position.lat);
+		$("input[name='longitude']").val(position.lng);
 	});
 	currentLocation.on("move", function (e) {
 		let position = e.target.getLatLng();
-		$("#treeLatitude").val(position.lat);
-		$("#mobLatitude").val(position.lat);
-		$("#treeLongitude").val(position.lng);
-		$("#mobLongitude").val(position.lng);
+		$("input[name='onPolygon']").val(whereIsTheMarker());
+		// $("#treeLatitude").val(position.lat);
+		// $("#mobLatitude").val(position.lat);
+		// $("#treeLongitude").val(position.lng);
+		// $("#mobLongitude").val(position.lng);g
+
+		$("input[name='latitude']").val(position.lat);
+		$("input[name='longitude']").val(position.lng);
 	});
 
 
@@ -364,6 +365,7 @@ $("document").ready(function() {
 
 	PolygonParsers.push(
 		new PolygonParser(
+			1,
 			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
 			"ulpiana",
 			[
@@ -376,6 +378,7 @@ $("document").ready(function() {
 	);
 	PolygonParsers.push(
 		new PolygonParser(
+			2,
 			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
 			"dardania",
 			[],
@@ -385,6 +388,7 @@ $("document").ready(function() {
 
 	PolygonParsers.push(
 		new PolygonParser(
+			3,
 			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
 			"aktash",
 			[
@@ -400,6 +404,7 @@ $("document").ready(function() {
 
 	PolygonParsers.push(
 		new PolygonParser(
+			4,
 			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
 			"kampusi",
 			[
@@ -415,6 +420,7 @@ $("document").ready(function() {
 	);
 	PolygonParsers.push(
 		new PolygonParser(
+			5,
 			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
 			"qendra",
 			[
@@ -440,6 +446,7 @@ $("document").ready(function() {
 
 	PolygonParsers.push(
 		new PolygonParser(
+			6,
 			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
 			"bregu i diellit",
 			[
@@ -454,6 +461,7 @@ $("document").ready(function() {
 
 	PolygonParsers.push(
 		new PolygonParser(
+			7,
 			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
 			"pejton",
 			[
@@ -470,6 +478,7 @@ $("document").ready(function() {
 
 	PolygonParsers.push(
 		new PolygonParser(
+			8,
 			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
 			"mahalla e muhaxhereve",
 			[
@@ -480,6 +489,14 @@ $("document").ready(function() {
 			]
 		)
 	);
+
+	whereIsTheMarker = function(){
+		for(let i = 0; i < PolygonParsers.length; i++){
+			if(PolygonParsers[i].hasPoint(currentLocation.getLatLng().lat, currentLocation.getLatLng().lng))
+				return PolygonParsers[i].id;
+		}
+		return -1;
+	}
 
 	hideTypeOfTrees = function(type, height){
 	    for(let i = 0; i < PolygonParsers.length; i++){

@@ -97,6 +97,9 @@ function action_wpcf7_before_send_mail( $contact_form ) {
                if (isset($submission->uploaded_files()["foto"])) {
                    update_post_meta($post_id, "foto", $submission->uploaded_files()["foto"]);
                }
+               if (isset($submission->uploaded_files()["onPolygon"])) {
+                   update_post_meta($post_id, "foto", $submission->uploaded_files()["onPolygon"]);
+               }
            }
            else if($submission->get_posted_data()['_wpcf7'] == '125'){
                if (isset($submission->get_posted_data()['latitude'])) {
@@ -113,6 +116,9 @@ function action_wpcf7_before_send_mail( $contact_form ) {
                }
                if (isset($submission->uploaded_files()["foto"])) {
                    update_post_meta($post_id, "foto", $submission->uploaded_files()["foto"]);
+               }
+               if (isset($submission->uploaded_files()["onPolygon"])) {
+                   update_post_meta($post_id, "foto", $submission->uploaded_files()["onPolygon"]);
                }
            }
      }

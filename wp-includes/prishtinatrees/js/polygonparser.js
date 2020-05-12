@@ -1,5 +1,6 @@
 
 class PolygonParser {
+    id;
     color;
     polygonName;
     jsonUrl;
@@ -8,8 +9,8 @@ class PolygonParser {
     pemet = [];
     mobiliari = [];
     isShowed = false;
-    constructor(jsonUrl, polygonName, pemet, mobiliari){
-
+    constructor(id, jsonUrl, polygonName, pemet, mobiliari){
+        this.id = id;
         this.polygonName = polygonName;
         this.jsonUrl = jsonUrl;
         for(let i = 0; i < pemet.length; i++){
@@ -20,6 +21,9 @@ class PolygonParser {
         }
         setTimeout(function(){}, 0);
         this.render();
+    }
+    get id(){
+        return this.id;
     }
     set color(color){
         this.color = color;
