@@ -12,9 +12,15 @@
  * @package prishtinatrees
  */
 
+//acf_form_head();
+
 get_header();
 ?>
-
+    <style>
+        .screen-reader-response {
+          display: none;
+        }
+    </style>
 	<main id="primary" class="site-main">
     <div class="row m-0" style="overflow: hidden;">
 
@@ -117,22 +123,25 @@ get_header();
                 </div>
                 <div id="shtoElement" class="row">
                     <div class="col-12">
-                        <form action="#" method="POST">
-                            <div class="row w-100">
-                                <div class="col-12">
-                                    <button onclick="getLocation();" class="btn btn-primary">Get Location</button>
-                                </div>
-                                <div class="col-6">
+                            <button onclick="getLocation();" class="btn btn-primary">Get Location</button>
+                        <?php
 
-                                    <label for="newElementLatitude">Latitude: </label>
-                                    <input type="text" id="newElementLatitude" class="form-control" required="required">
-                                </div>
-                                <div class="col-6">
-                                    <label for="newElementLongitude">Longitude: </label>
-                                    <input type="text" id="newElementLongitude" class="form-control" required="required">
-                                </div>
-                            </div>
-                        </form>
+                        echo do_shortcode('[contact-form-7 id="75" title="new tree form"]');
+
+//                            acf_form(array(
+//                                'post_id'		=> 'new_post',
+//                                'post_content'  => false,
+//                                'post_editor'   => false,
+//                                'new_post'		=> array(
+//                                    'post_title'	=> (string)((int)$recent_posts[0]["ID"] + 1),
+//                                    'post_type'		=> 'tree',
+//                                    'post_status'	=> 'Pending'
+//                                ),
+//                              //'return'		=> home_url('contact-form-thank-you'),
+//                                'submit_value'	=> 'Send'
+//                            ));
+
+                        ?>
                     </div>
                 </div>
             </div>
