@@ -30,7 +30,7 @@ get_header();
                 <button onclick="$('#descDiv').toggle(function(){map.invalidateSize()});" id="descToggler" class="btn btn-sm btn-outline-dark btn-light" style="cursor: pointer; position: absolute; top:10px; right: 10px; z-index: 400"><span class="icon-arrow-right"></span></button>
             </div>
             <div id="descDiv" class="col-4  p-5" style=" overflow-y: scroll;">
-                <div id="legjenda" class="d-none row">
+                <div id="legjenda" class="row">
                     <div class="col-12">
                         <h3 id="emriLagjes">Loading</h3>
                     </div>
@@ -91,7 +91,7 @@ get_header();
                         <span class="icon-Mobiliari" style="font-size: 60px;"></span>
                     </div>
                     <div class="col-5">
-                        <h5 class="text-uppercase">Mobilari urban</h5>
+                        <h5 class="text-uppercase">Mobiliari urban</h5>
                         <p>Gjithsej njësi:
                     </div>
                     <div class="col-5" style="align-self: flex-end;">
@@ -120,39 +120,65 @@ get_header();
                     <div class="col-2 NDNL"><b id="perqindjaENumritTeDrunjeveTePrishtines"></b>%</div>
                     <div class="col-8 mt-2"><h6>30 drunjë për kokë banori - numri ideal. Përqindja e arritur në Prishtinë (të hartëzuara):</h6></div>
                     <div class="col-2 mt-2"><b id="30drunjePerKokeBanori"></b>%</div>
-                </div>
-                <div id="shtoElement" class="row">
+                    <div class="col-12"><hr/></div>
                     <div class="col-12">
-                            <button onclick="getLocation();" class="btn btn-primary">Get Location</button>
-                        <?php
+                        <p>PrishtinaTrees.org është projekt që përditësohet vazhdimisht. Shumë elemente mund të
+                            mungojnë si pasojë e pamundësisë në qasje, ose ndonjë arsyeje tjetër. Nëse besoni se keni
+                            gjetur një element që nuk është shfaqur në hartë, ju lutem plotësoni pyetësorin në vijim. Për të
+                            filluar shtypni “Shto Element”
+                            <br/><br/>
+                            <i class="text-muted">
+                            PrishtinaTrees.org is a constantly evolving platform. Many elements may be missing due to lack
+                            of access, or for a number or other reasons. If you believe you have identified an element that is
+                            not displayed on the map, please fill in the following questionnaire. To begin, press “Add
+                            Element”</i>
+                        </p>
+                        <button class="btn btn-primary btn-block" onclick="$('#legjenda').hide(); $('#shtoElement').show(); currentLocation.setLatLng(map.getCenter())">Shto element / Add Element</button>
+                    </div>
+                </div>
+                <div id="shtoElement" class="row" style="display: none;">
+                    <button class="btn btn-light btn-block " onclick="$('#legjenda').show(); $('#shtoElement').hide(); map.removeLayer(currentLocation);">Anulo / Cancel</button>
+                    <div class="col-12">
+                        <select name="contributingFor" id="contributingFor" class="form-control mt-2">
+                            <option selected disabled>Zgjidhni llojin e elementeve</option>
+                            <option value="trees">Pemë</option>
+                            <option value="mobiliari">Mobiliari</option>
+                        </select>
 
-                        echo do_shortcode('[contact-form-7 id="75" title="new tree form"]');
-
-//                            acf_form(array(
-//                                'post_id'		=> 'new_post',
-//                                'post_content'  => false,
-//                                'post_editor'   => false,
-//                                'new_post'		=> array(
-//                                    'post_title'	=> (string)((int)$recent_posts[0]["ID"] + 1),
-//                                    'post_type'		=> 'tree',
-//                                    'post_status'	=> 'Pending'
-//                                ),
-//                              //'return'		=> home_url('contact-form-thank-you'),
-//                                'submit_value'	=> 'Send'
-//                            ));
-
-                        ?>
+                        <div id="newTreeForm" class="contributeForms" style="display: none;">
+                            <button onclick="getLocation();" class="btn btn-primary btn-block mt-2">Vendos vendndodhjen time</button>
+                            <?= do_shortcode('[contact-form-7 id="75" title="new tree form"]'); ?>
+                        </div>
+                        <div id="newMobiliariForm" class="contributeForms" style="display: none;">
+                            <button onclick="getLocation();" class="btn btn-primary btn-block mt-2">Vendos vendndodhjen time</button>
+                            <?= do_shortcode('[contact-form-7 id="125" title="new mobiliari form"]'); ?>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </body>
+
     <script src="<?= get_home_url() ?>/wp-includes/prishtinatrees/js/script.js"></script>
         <script>
             $(document).ready(function(){
                 $("body").css("overflow-y", "hidden");
                 $("#descDiv").css("height", "calc(100vh - " + $("nav").height() + "px)");
+                $( "#contributingFor" ).change(function() {
+                 map.addLayer(currentLocation); currentLocation.openPopup();
+                  if($(this).val() === "trees"){
+                    $(".contributeForms").hide();
+                    $("#newTreeForm").show();
+                  }else if($(this).val() === "mobiliari"){
+                    $(".contributeForms").hide();
+                    $("#newMobiliariForm").show();
+                  }
+                  else {
+
+                  }
+                });
             })
+
         </script>
     </html>
 	</main><!-- #main -->

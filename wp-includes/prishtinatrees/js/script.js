@@ -31,11 +31,18 @@ function showPosition(position) {
 	$("#newElementLongitude").val(position.coords.longitude);
 }
 
-$("#newElementLongitude").on("keyup", function(){
-	currentLocation.setLatLng([$("#newElementLatitude").val(), $("#newElementLongitude").val()]);
+
+$("#treeLatitude").on("keyup", function(){
+	currentLocation.setLatLng([$("#treeLatitude").val(), $("#treeLongitude").val()]);
 })
-$("#newElementLatitude").on("keyup", function(){
-	currentLocation.setLatLng([$("#newElementLatitude").val(), $("#newElementLongitude").val()]);
+$("#treeLongitude").on("keyup", function(){
+	currentLocation.setLatLng([$("#treeLatitude").val(), $("#treeLongitude").val()]);
+})
+$("#mobLatitude").on("keyup", function(){
+	currentLocation.setLatLng([$("#mobLatitude").val(), $("#mobLongitude").val()]);
+})
+$("#mobLongitude").on("keyup", function(){
+	currentLocation.setLatLng([$("#mobLatitude").val(), $("#mobLongitude").val()]);
 })
 
 $("document").ready(function() {
@@ -285,6 +292,7 @@ $("document").ready(function() {
 		//new TreeParser("./wp-includes/prishtinatrees/assets/datas/trees/ulpiana1_drunjet.json");
 	};
 
+
 	//ulpiana_polygon.on('click', onPolyClick);
 
 	L.control.scale().addTo(map);
@@ -330,13 +338,22 @@ $("document").ready(function() {
 
 	currentLocation = new L.marker([42.667542, 21.166191], {
 		draggable: true
-	}).bindPopup('Zhvendosni pikën').addTo(map);
+	});
 
+	currentLocation.bindPopup('Zhvendosni pikën');
 	currentLocation.on("drag", function (e) {
-		let _temp = e.target;
-		let position = _temp.getLatLng();
-		$("#newElementLatitude").val(position.lat);
-		$("#newElementLongitude").val(position.lng);
+		let position = e.target.getLatLng();
+		$("#treeLatitude").val(position.lat);
+		$("#mobLatitude").val(position.lat);
+		$("#treeLongitude").val(position.lng);
+		$("#mobLongitude").val(position.lng);
+	});
+	currentLocation.on("move", function (e) {
+		let position = e.target.getLatLng();
+		$("#treeLatitude").val(position.lat);
+		$("#mobLatitude").val(position.lat);
+		$("#treeLongitude").val(position.lng);
+		$("#mobLongitude").val(position.lng);
 	});
 
 
