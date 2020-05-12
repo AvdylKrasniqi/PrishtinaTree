@@ -11,7 +11,7 @@
 
 ?>
 <!doctype html>
-<html >
+<html>
 <head>
 	<title>Prishtina Trees</title>
 	<meta charset="utf-8">
@@ -39,14 +39,14 @@
   <script src="https://cdn.maptiler.com/mapbox-gl-leaflet/latest/leaflet-mapbox-gl.js"></script>
 
   <link rel="stylesheet" href="https://cdn.maptiler.com/mapbox-gl-js/v1.5.1/mapbox-gl.css" />
-
+    <? wp_head(); ?>
 </head>
 <body>
 
 <?php wp_body_open(); ?>
 	<!-- Image and text -->
 <nav class="navbar navbar-expand-lg bg-light navbar-light">
-  <a class="navbar-brand p-3" href="#">
+  <a class="navbar-brand p-3" href="<?= get_home_url()?>">
     <img src="<?= get_home_url()?>/wp-includes/prishtinatrees/assets/images/header/logo.svg"  height="90" class="d-inline-block align-top" alt="">
   </a>
   <div>

@@ -35,6 +35,13 @@ function prishtinatrees_pingback_header() {
 	}
 }
 add_action( 'wp_head', 'prishtinatrees_pingback_header' );
+
+
+
+
+
+
+
 function action_wpcf7_before_send_mail( $contact_form ) {
         $submission = WPCF7_Submission::get_instance();
        if($submission->get_posted_data()['_wpcf7'] == '75') {
@@ -91,10 +98,25 @@ function action_wpcf7_before_send_mail( $contact_form ) {
                    update_post_meta($post_id, "foto", $submission->uploaded_files()["foto"]);
                }
            }
-           else if($submission->get_posted_data()['_wpcf7'] == '75'){
-
+           else if($submission->get_posted_data()['_wpcf7'] == '125'){
+               if (isset($submission->get_posted_data()['latitude'])) {
+                   update_post_meta($post_id, 'latitude', $submission->get_posted_data()['latitude']);
+               }
+               if (isset($submission->get_posted_data()['longitude'])) {
+                   update_post_meta($post_id, 'longitude', $submission->get_posted_data()['longitude']);
+               }
+               if (isset($submission->get_posted_data()['lloji'])) {
+                   update_post_meta($post_id, 'lloji', $submission->get_posted_data()['lloji']);
+               }
+               if (isset($submission->get_posted_data()['gjendja'])) {
+                   update_post_meta($post_id, 'gjendja', $submission->get_posted_data()['gjendja']);
+               }
+               if (isset($submission->uploaded_files()["foto"])) {
+                   update_post_meta($post_id, "foto", $submission->uploaded_files()["foto"]);
+               }
            }
      }
 };
-
 add_action( 'wpcf7_before_send_mail', 'action_wpcf7_before_send_mail', 10, 1 );
+
+

@@ -1,3 +1,4 @@
+
 <?php
 /**
  * The main template file
@@ -15,6 +16,9 @@
 //acf_form_head();
 
 get_header();
+if(WPCF7_ContactForm::get_current() !== null){
+    echo '<script> var submittedBefore = true; var submittedFormId = ' . WPCF7_ContactForm::get_current()->id . '; </script>';
+}
 ?>
     <style>
         .screen-reader-response {
@@ -133,18 +137,22 @@ get_header();
                             not displayed on the map, please fill in the following questionnaire. To begin, press “Add
                             Element”</i>
                         </p>
-                        <button class="btn btn-primary btn-block" onclick="$('#legjenda').hide(); $('#shtoElement').show(); currentLocation.setLatLng(map.getCenter())">Shto element / Add Element</button>
+                        <button class="btn btn-primary btn-block" onclick="$('#legjenda').hide(); $('#shtoElement').show(); currentLocation.setLatLng(map.getCenter()); if($('#contributingFor').val() != null) { console.log('ops'); map.addLayer(currentLocation) }">Shto element / Add Element</button>
                     </div>
                 </div>
                 <div id="shtoElement" class="row" style="display: none;">
                     <button class="btn btn-light btn-block " onclick="$('#legjenda').show(); $('#shtoElement').hide(); map.removeLayer(currentLocation);">Anulo / Cancel</button>
                     <div class="col-12">
+                        <p>Në vijim plotësoni detajet/karakteristikat e elementit që dëshironi të shtoni në hartë. Të dhënat
+me simbolin * janë obligative. Pas vendosjes së të dhënave, shtypni “Submit”<br/>
+<i class="text-muted">Fill in the following details / characteristics of the element you want to add to the map. Data with
+the symbol * is mandatory. After filling in the information, press &quot;Submit&quot;</i></p>
                         <select name="contributingFor" id="contributingFor" class="form-control mt-2">
                             <option selected disabled>Zgjidhni llojin e elementeve</option>
                             <option value="trees">Pemë</option>
                             <option value="mobiliari">Mobiliari</option>
                         </select>
-
+                        <form action="" id="palidhje"></form>
                         <div id="newTreeForm" class="contributeForms" style="display: none;">
                             <button onclick="getLocation();" class="btn btn-primary btn-block mt-2">Vendos vendndodhjen time</button>
                             <?= do_shortcode('[contact-form-7 id="75" title="new tree form"]'); ?>
@@ -161,6 +169,7 @@ get_header();
 
     <script src="<?= get_home_url() ?>/wp-includes/prishtinatrees/js/script.js"></script>
         <script>
+
             $(document).ready(function(){
                 $("body").css("overflow-y", "hidden");
                 $("#descDiv").css("height", "calc(100vh - " + $("nav").height() + "px)");
@@ -177,11 +186,30 @@ get_header();
 
                   }
                 });
-            })
 
+                if(typeof submittedBefore !== 'undefined' && typeof submittedFormId !== 'undefined' ){
+                    $('#legjenda').hide();
+                    $('#shtoElement').show();
+                    $("#contributingFor").val("trees");
+
+                    if(submittedFormId == "75"){
+                        if(!$("#newTreeForm").text().includes("Thank you")){
+                            map.addLayer(currentLocation);
+                            $("#contributingFor").val("trees");
+                        }
+                    } else if(submittedFormId == "125"){
+                        $("#newMobiliariForm").show();
+
+                        if(!$("#newMobiliariForm").text().includes("Thank you")){
+                            map.addLayer(currentLocation);
+                            $("#contributingFor").val("mobiliari");
+                        }
+                    }
+                }
+
+            })
         </script>
     </html>
 	</main><!-- #main -->
-
 <?php
 get_footer();
