@@ -98,7 +98,7 @@ function action_wpcf7_before_send_mail( $contact_form ) {
                    update_post_meta($post_id, "foto", $submission->uploaded_files()["foto"]);
                }
                if (isset($submission->uploaded_files()["onPolygon"])) {
-                   update_post_meta($post_id, "foto", $submission->uploaded_files()["onPolygon"]);
+                   update_post_meta($post_id, "onpolygon", $submission->uploaded_files()["onPolygon"]);
                }
            }
            else if($submission->get_posted_data()['_wpcf7'] == '125'){
@@ -118,11 +118,27 @@ function action_wpcf7_before_send_mail( $contact_form ) {
                    update_post_meta($post_id, "foto", $submission->uploaded_files()["foto"]);
                }
                if (isset($submission->uploaded_files()["onPolygon"])) {
-                   update_post_meta($post_id, "foto", $submission->uploaded_files()["onPolygon"]);
+                   update_post_meta($post_id, "onpolygon", $submission->uploaded_files()["onPolygon"]);
                }
            }
-     }
+       }
 };
 add_action( 'wpcf7_before_send_mail', 'action_wpcf7_before_send_mail', 10, 1 );
 
 
+/**
+ * Register the /wp-json/acf/v3/posts endpoint so it will be cached.
+ */
+
+
+
+function wprc_add_acf_posts_endpoint( $allowed_endpoints ) {
+    if ( ! isset( $allowed_endpoints[ 'acf/v3' ] ) || ! in_array( 'posts', $allowed_endpoints[ 'acf/v3' ] ) ) {
+        $allowed_endpoints[ 'acf/v3' ][] = 'polygon';
+        $allowed_endpoints[ 'acf/v3' ][] = 'tree';
+        $allowed_endpoints[ 'acf/v3' ][] = 'mobiliari';
+    }
+    return $allowed_endpoints;
+}
+
+add_filter( 'wp_rest_cache/allowed_endpoints', 'wprc_add_acf_posts_endpoint', 10, 1);

@@ -362,7 +362,7 @@ $("document").ready(function() {
 		updateDesc();
 	});
 
-
+/*
 	PolygonParsers.push(
 		new PolygonParser(
 			1,
@@ -489,13 +489,15 @@ $("document").ready(function() {
 			]
 		)
 	);
+ */
 
 	whereIsTheMarker = function(){
 		for(let i = 0; i < PolygonParsers.length; i++){
 			if(PolygonParsers[i].hasPoint(currentLocation.getLatLng().lat, currentLocation.getLatLng().lng))
 				return PolygonParsers[i].id;
 		}
-		return -1;
+		//perndryshe boje return TeTjerat
+		return 152;
 	}
 
 	hideTypeOfTrees = function(type, height){

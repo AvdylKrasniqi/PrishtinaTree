@@ -106,59 +106,63 @@ class TreeParser {
 	   $.getJSON(this.jsonUrl, function(jd) {
 	   		_this.totalNumberOfTrees = jd.length;
 	   		for (var i = 0; i < jd.length; ++i) {
-		   		var a = jd[i];
+		   		var a = jd[i].acf;
+		   		// console.log("WOW");
+		   		// console.log(a);
 		   		var myIcon;
 				var description = "<dl>"
+									+ "<dt>ID:</dt>"
+									+ "<dd>" + jd[i]["id"] + "</dd>"
 									+ "<dt>Tipi i drurit</dt>"
-									+ "<dd>" + a["Lloji"] + "</dd>"
+									+ "<dd>" + a["lloji"] + "</dd>"
 									+ "<dt>Lartësia</dt>"
-									+ "<dd>" + a["Lartesi"] + "</dd>"
+									+ "<dd>" + a["lartesia"] + "</dd>"
 									+ "<dt>Gjendja</dt>"
-									+ "<dd>" + a["Gjendja"] + "</dd>"
+									+ "<dd>" + a["gjendja"] + "</dd>"
 									+ "<dt>Koordinatat</dt>"
-									+ "<dd>" + a["KordinataY"] + ", " + a["KordinataX"] + "</dd>"
+									+ "<dd>" + a["latitude"] + ", " + a["longitude"] + "</dd>"
 								+ "</dl>";
-				// var marker = new PruneCluster.Marker(a["KordinataY"], a["KordinataX"], {popup: description});
-				if(a["Lloji"] === "Gjethërënës") {
-					if(a["Lartesi"] === "I lartë (> 3m)"){
+				// var marker = new PruneCluster.Marker(a["latitude"], a["longitude"], {popup: description});
+				if(a["lloji"] === "Gjethërënës") {
+					if(a["lartesia"] === "I lartë (> 3m)"){
 						myIcon = gjetherenesLarteIcon;
-						markers[0][0].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						markers[0][0].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 						// markers.push(L.circl)
 					}
-					else if(a["Lartesi"] === "I mesëm (1 - 3m)"){
+					else if(a["lartesia"] === "I mesëm (1 - 3m)"){
 						myIcon = gjetherenesMesemIcon;
-						markers[0][1].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						markers[0][1].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 						// markers.push(L.circl)
 					}
-					else if(a["Lartesi"] === "I ulët (< 1m)"){
+					else if(a["lartesia"] === "I ulët (< 1m)"){
 						myIcon = gjetherenesUletIcon;
-						markers[0][2].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						markers[0][2].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 						// markers.push(L.circl)
 					}
 					else{
 						myIcon = gjetherenesMesemIcon;
-						markers[0][1].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						markers[0][1].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 						// markers.push(L.circl)
 					}
 				}
-				// else if(a["Lloji"] === "Gjethëmbajtës")
+				// else if(a["lloji"] === "Gjethëmbajtës")
 				else
 				{
-					if(a["Lartesi"] === "I lartë (> 3m)"){
+					if(a["lartesia"] === "I lartë (> 3m)"){
 						myIcon = gjethembajtesLarteIcon;
-						markers[1][0].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						markers[1][0].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 					}
-					else if(a["Lartesi"] === "I mesëm (1 - 3m)"){
+					else if(a["lartesia"] === "I mesëm (1 - 3m)"){
 						myIcon = gjethembajtesMesemIcon;
-						markers[1][1].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						markers[1][1].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 					}
-					else if(a["Lartesi"] === "I ulët (< 1m)"){
+					else if(a["lartesia"] === "I ulët (< 1m)"){
 						myIcon = gjethembajtesUletIcon;
-						markers[1][2].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						markers[1][2].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 					}
 					else{
 						myIcon = gjethembajtesMesemIcon;
-						markers[1][2].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+						markers[1][2].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 					}
 				}
 			}
@@ -167,13 +171,17 @@ class TreeParser {
 			}, 0);
 			//console.log(this.layer);
 			// _this.layer =  L.layerGroup(markers);
-			_this.layerGjetherenes[0] = L.layerGroup(markers[0][0]);
-			_this.layerGjetherenes[1] = L.layerGroup(markers[0][1]);
-			_this.layerGjetherenes[2] = L.layerGroup(markers[0][2]);
-			_this.layerGjethembajtes[0] = L.layerGroup(markers[1][0]);
-			_this.layerGjethembajtes[1] = L.layerGroup(markers[1][1]);
-			_this.layerGjethembajtes[2] = L.layerGroup(markers[1][2]);
-
+		   try {
+				_this.layerGjetherenes[0] = L.layerGroup(markers[0][0]);
+				_this.layerGjetherenes[1] = L.layerGroup(markers[0][1]);
+				_this.layerGjetherenes[2] = L.layerGroup(markers[0][2]);
+				_this.layerGjethembajtes[0] = L.layerGroup(markers[1][0]);
+				_this.layerGjethembajtes[1] = L.layerGroup(markers[1][1]);
+				_this.layerGjethembajtes[2] = L.layerGroup(markers[1][2]);
+			}
+			catch (e) {
+				console.log(e);
+			}
 			// _this.show();
 			// map.addLayer(_this.layer);
 	   });

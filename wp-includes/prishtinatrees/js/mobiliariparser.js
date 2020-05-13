@@ -107,31 +107,35 @@ class MobiliariParser {
 	   $.getJSON(this.jsonUrl, function(jd) {
 	   		_this.totalNumberOfMobiliari = jd.length;
 	   		for (var i = 0; i < jd.length; ++i) {
-		   		var a = jd[i];
+		   		var a = jd[i].acf;
+		   		// console.log("WOW");
+		   		// console.log(a);
 		   		var myIcon;
-		   		if(a["Gjendja"] === "Jo e mirë") _this.totalGjendjeJoEMire++;
+		   		if(a["gjendja"] === "Jo e mirë") _this.totalGjendjeJoEMire++;
 		   		else _this.totalGjendjeEMire++;
 				var description = "<dl>"
+									+ "<dt>ID:</dt>"
+									+ "<dd>" + jd[i]["id"] + "</dd>"
 									+ "<dt>Tipi</dt>"
-									+ "<dd>" + a["Tipi"] + "</dd>"
+									+ "<dd>" + a["lloji"] + "</dd>"
 									+ "<dt>Gjendja</dt>"
-									+ "<dd>" + a["Gjendja"] + "</dd>"
+									+ "<dd>" + a["gjendja"] + "</dd>"
 									+ "<dt>Koordinatat</dt>"
-									+ "<dd>" + a["KordinataY"] + ", " + a["KordinataX"] + "</dd>"
+									+ "<dd>" + a["latitude"] + ", " + a["longitude"] + "</dd>"
 								+ "</dl>";
-				if(a["Tipi"] === "Ndricim") {
+				if(a["lloji"] === "Ndricim") {
 
 					myIcon = ndricimIcon;
-					markers[0].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+					markers[0].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 
 				}
-				else if(a["Tipi"] === "Ulëse") {
+				else if(a["lloji"] === "Ulëse") {
 					myIcon = uleseIcon;
-					markers[1].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+					markers[1].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 				}
 				else {
 					myIcon = mbeturinaIcon;
-					markers[2].push(L.circle([a["KordinataY"], a["KordinataX"]],myIcon).bindPopup(description));
+					markers[2].push(L.circle([a["latitude"], a["longitude"]],myIcon).bindPopup(description));
 				}
 			}
 
@@ -139,10 +143,13 @@ class MobiliariParser {
 			}, 0);
 			//console.log(this.layer);
 			// _this.layer =  L.layerGroup(markers);
-			_this.layerNdricim = L.layerGroup(markers[0]);
-			_this.layerUlese = L.layerGroup(markers[1]);
-			_this.layerMbeturina = L.layerGroup(markers[2]);
-
+		   try {
+				_this.layerNdricim = L.layerGroup(markers[0]);
+				_this.layerUlese = L.layerGroup(markers[1]);
+				_this.layerMbeturina = L.layerGroup(markers[2]);
+			} catch (e) {
+			   console.log(e);
+		   }
 			// _this.show();
 			// map.addLayer(_this.layer);
 	   });

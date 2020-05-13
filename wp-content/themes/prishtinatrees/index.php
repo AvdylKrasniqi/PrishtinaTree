@@ -20,12 +20,10 @@ if(WPCF7_ContactForm::get_current() !== null){
     echo '<script> var submittedBefore = true; var submittedFormId = ' . WPCF7_ContactForm::get_current()->id . '; </script>';
 }
 ?>
-    <style>
-        .screen-reader-response {
-          display: none;
-        }
-    </style>
 	<main id="primary" class="site-main">
+
+
+
     <div class="row m-0" style="overflow: hidden;">
 
             <div class="col p-0">
@@ -34,6 +32,7 @@ if(WPCF7_ContactForm::get_current() !== null){
                 <button onclick="$('#descDiv').toggle(function(){map.invalidateSize()});" id="descToggler" class="btn btn-sm btn-outline-dark btn-light" style="cursor: pointer; position: absolute; top:10px; right: 10px; z-index: 400"><span class="icon-arrow-right"></span></button>
             </div>
             <div id="descDiv" class="col-4  p-5" style=" overflow-y: scroll;">
+
                 <div id="legjenda" class="row">
                     <div class="col-12">
                         <h3 id="emriLagjes">Loading</h3>
@@ -168,9 +167,30 @@ the symbol * is mandatory. After filling in the information, press &quot;Submit&
     </body>
 
     <script src="<?= get_home_url() ?>/wp-includes/prishtinatrees/js/script.js"></script>
+        <?php
+                    $posts = array(
+                      'post_type'   => 'polygon',
+                      'numberposts' => -1,
+                    );
+                    $lastposts = get_posts($posts);
+
+//                    var_dump($lastposts);
+                    if ( $lastposts ) {
+                        echo "<script>";
+                        foreach ( $lastposts as $post ){
+                            setup_postdata( $post );
+                            echo 'PolygonParsers.push(new PolygonParser(' . get_the_ID() . ', "' . get_home_url() . '/wp-json/acf/v3/polygon/'. get_the_ID()  . '", "';
+                            echo the_field('name') . '", ["' . get_home_url()  . '/wp-json/acf/v3/tree?per_page=20000&filter[meta_key]=onpolygon&filter[meta_compare]=LIKE&filter[meta_value]=' . get_the_ID() . '"], ["' . get_home_url()  . '/wp-json/acf/v3/mobiliari?per_page=20000&filter[meta_key]=onpolygon&filter[meta_compare]=LIKE&filter[meta_value]=' . get_the_ID() . '"]));' . PHP_EOL;
+                        }
+                        echo "</script>";
+                        wp_reset_postdata();
+                    }
+                    ?>
         <script>
 
             $(document).ready(function(){
+
+
                 $("body").css("overflow-y", "hidden");
                 $("#descDiv").css("height", "calc(100vh - " + $("nav").height() + "px)");
                 $( "#contributingFor" ).change(function() {
@@ -195,15 +215,17 @@ the symbol * is mandatory. After filling in the information, press &quot;Submit&
                     if(submittedFormId == "75"){
                         if(!$("#newTreeForm").text().includes("Thank you")){
                             map.addLayer(currentLocation);
-                            $("#contributingFor").val("trees");
                         }
+                        $("#contributingFor").val("trees");
+                        $("#newTreeForm").show();
                     } else if(submittedFormId == "125"){
                         $("#newMobiliariForm").show();
 
                         if(!$("#newMobiliariForm").text().includes("Thank you")){
                             map.addLayer(currentLocation);
-                            $("#contributingFor").val("mobiliari");
                         }
+                        $("#contributingFor").val("mobiliari");
+                        $("#newMobiliariForm").show();
                     }
                 }
 
