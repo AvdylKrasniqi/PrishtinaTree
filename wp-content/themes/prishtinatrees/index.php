@@ -179,13 +179,13 @@ the symbol * is mandatory. After filling in the information, press &quot;Submit&
                         echo "<script>";
                         foreach ( $lastposts as $post ){
                             setup_postdata( $post );
-                            echo 'PolygonParsers.push(new PolygonParser(' . get_the_ID() . ', "' . get_home_url() . '/wp-json/acf/v3/polygon/'. get_the_ID()  . '", "';
-                            echo the_field('name') . '", ["' . get_home_url()  . '/wp-json/acf/v3/tree?per_page=20000&filter[meta_key]=onpolygon&filter[meta_compare]=LIKE&filter[meta_value]=' . get_the_ID() . '"], ["' . get_home_url()  . '/wp-json/acf/v3/mobiliari?per_page=20000&filter[meta_key]=onpolygon&filter[meta_compare]=LIKE&filter[meta_value]=' . get_the_ID() . '"]));' . PHP_EOL;
+                            echo 'PolygonParsers.push(new PolygonParser(' . get_the_ID() . ', "' . get_home_url() . '/datas/polygons/'. get_the_ID()  . '.json", "';
+                            echo the_field('name') . '", ["' . get_home_url()  . '/datas/trees/' . get_the_ID() . '.json"], ["' . get_home_url()  . '/datas/mobiliari/' . get_the_ID() . '.json"]));' . PHP_EOL;
                         }
                         echo "</script>";
                         wp_reset_postdata();
                     }
-                    ?>
+        ?>
         <script>
 
             $(document).ready(function(){

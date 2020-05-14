@@ -164,11 +164,7 @@ class PolygonParser {
 
             _this.polygoncoords = JSON.parse("[" + data.acf["coords"] + "]");
             _this.polygonName = data.acf["name"];
-            // console.log(data);
-            // console.log(_this.polygonName);
-            // _this.polygoncoords =  data[0][_this.polygonName];
             _this.turfpolygon = turf.polygon([_this.polygoncoords]);
-            console.log(_this.turfpolygon);
             _this.layer = L.polygon(_this.polygoncoords, {
                 color: "white",
                 fillColor: "white",
@@ -203,7 +199,7 @@ class PolygonParser {
 
             _this.layer.on('click', onPolyClick);
 
-            }, 3000);
+            }, 5000);
         });
     }
     updateDesc(){
@@ -242,7 +238,5 @@ class PolygonParser {
         catch (e) {
             console.log(e);
         }
-
-
     }
 }
