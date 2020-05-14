@@ -42,6 +42,12 @@ get_header();
             $handle = fopen($filename,"w");
             fwrite($handle,$homepage);
 
+            $site = get_home_url()  . '/wp-json/acf/v3/zhurma?per_page=20000&filter[meta_key]=onpolygon&filter[meta_compare]=LIKE&filter[meta_value]=' . get_the_ID();
+            $homepage = file_get_contents($site);
+            $filename = getcwd() . '/datas/zhurma/' . get_the_ID() . '.json';
+            $handle = fopen($filename,"w");
+            fwrite($handle,$homepage);
+
         }
         wp_reset_postdata();
     }

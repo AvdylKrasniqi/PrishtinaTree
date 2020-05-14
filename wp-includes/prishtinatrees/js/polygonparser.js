@@ -8,8 +8,9 @@ class PolygonParser {
     turfpolygon;
     pemet = [];
     mobiliari = [];
+    zhurma = [];
     isShowed = false;
-    constructor(id, jsonUrl, polygonName, pemet, mobiliari){
+    constructor(id, jsonUrl, polygonName, pemet, mobiliari, zhurma){
         this.id = id;
         this.polygonName = polygonName;
         this.jsonUrl = jsonUrl;
@@ -18,6 +19,9 @@ class PolygonParser {
         }
         for(let i = 0; i < mobiliari.length; i++){
             this.krijoMobiliari(mobiliari[i]);
+        }
+        for(let i = 0; i < zhurma.length; i++){
+            this.krijoZhurma(zhurma[i]);
         }
         setTimeout(function(){}, 0);
         this.render();
@@ -52,6 +56,31 @@ class PolygonParser {
             map.addLayer(this.layer);
             this.isShowed = true;
         }
+    }
+
+    /*START OF ZHURMA*/
+    krijoZhurma(jsonUrl){
+        this.zhurma.push(new ZhurmaParser(jsonUrl));
+    }
+
+    showZhurma(){
+        for(let i =  0; i < this.zhurma.length; i++){
+            this.zhurma[i].show();
+        }
+    }
+    hideZhurma(){
+        for(let i =  0; i < this.zhurma.length; i++){
+            this.zhurma[i].hide();
+        }
+    }
+
+    mesatarjaZhurma(){
+        let sum = 0;
+        let i = 0;
+        for(i; i < this.zhurma.length; i++){
+            sum += this.zhurma[i].totalNumberOfZhurma;
+        }
+        return sum/i;
     }
 
     /*START OF PEMET*/
@@ -165,17 +194,20 @@ class PolygonParser {
             _this.polygoncoords = JSON.parse("[" + data.acf["coords"] + "]");
             _this.polygonName = data.acf["name"];
             _this.turfpolygon = turf.polygon([_this.polygoncoords]);
+
             _this.layer = L.polygon(_this.polygoncoords, {
                 color: "white",
                 fillColor: "white",
                 fillOpacity: 0.7
             }).bindTooltip(_this.polygonName,
                 {permanent: true, direction: "center", className: 'toolTipClass'}
-            ).openTooltip().addTo(map);
+            ).openTooltip();
+
         }).always(function () {
 
-            setTimeout(function(){
 
+            setTimeout(function(){
+_this.layer.addTo(map);
             let color;
             let dendesiaPemve = (_this.numriPemve() * 1000) / _this.area();
             if (dendesiaPemve < 3.08) color = "#FCFCFF";
@@ -188,18 +220,17 @@ class PolygonParser {
             else if (dendesiaPemve < 6.74) color = "#B0DDBD";
             else if (dendesiaPemve < 7.63) color = "#A5D9B4";
             else if (dendesiaPemve < 7.66) color = "#9AD5AB";
-            else if (dendesiaPemve < 8.77) color = "#177917";
             else if (dendesiaPemve < 9.32) color = "#8FD0A1";
             else if (dendesiaPemve < 10.28) color = "#84CC98";
             else if (dendesiaPemve < 10.89) color = "#79C78E";
             else if (dendesiaPemve < 10.89) color = "#6EC385";
             else if (dendesiaPemve < 14.60) color = "#63BE7B";
-            else color = "#63BE7B";
+            else color = "#177917";
             _this.layer.setStyle({"fillColor": color});
 
             _this.layer.on('click', onPolyClick);
 
-            }, 5000);
+            }, 1000);
         });
     }
     updateDesc(){
@@ -234,6 +265,8 @@ class PolygonParser {
 
             $("#reduktimiCO2PerVit").text((this.numriPemve()/14.5).toFixed(3));
             $("#perqindjaENumritTeDrunjeveTePrishtines").text((100*this.numriPemve()/totalNumriPemveNePr).toFixed(3));
+
+            $("#mesatarjaZhurma").text(this.mesatarjaZhurma());
         }
         catch (e) {
             console.log(e);

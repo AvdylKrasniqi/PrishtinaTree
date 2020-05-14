@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?eeprxp');
-  src:  url('fonts/icomoon.eot?eeprxp#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?eeprxp') format('truetype'),
-    url('fonts/icomoon.woff?eeprxp') format('woff'),
-    url('fonts/icomoon.svg?eeprxp#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?1ujtgj');
+  src:  url('fonts/icomoon.eot?1ujtgj#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1ujtgj') format('truetype'),
+    url('fonts/icomoon.woff?1ujtgj') format('woff'),
+    url('fonts/icomoon.svg?1ujtgj#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-zhurma:before {
+  content: "\e910";
+}
 .icon-Mobiliari:before {
   content: "\e90f";
 }
@@ -61,9 +64,6 @@
 .icon-neighborhoods:before {
   content: "\e90a";
 }
-.icon-prishtinaico:before {
-  content: "\e90b";
-}
 .icon-scope:before {
   content: "\e90c";
 }
@@ -73,9 +73,9 @@
 .icon-work-team:before {
   content: "\e90e";
 }
-.icon-arrow-right:before {
-  content: "\ea34";
+.icon-404:before {
+  content: "\e90b";
 }
-.icon-arrow-left:before {
-  content: "\ea38";
+.icon-map:before {
+  content: "\e94b";
 }

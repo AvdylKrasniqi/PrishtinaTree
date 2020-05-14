@@ -29,25 +29,34 @@ if(WPCF7_ContactForm::get_current() !== null){
             <div class="col p-0">
                 <div id="progress"><div id="progress-bar"></div></div>
                 <div id="mapid" class="w-100"></div>
-                <button onclick="$('#descDiv').toggle(function(){map.invalidateSize()});" id="descToggler" class="btn btn-sm btn-outline-dark btn-light" style="cursor: pointer; position: absolute; top:10px; right: 10px; z-index: 400"><span class="icon-arrow-right"></span></button>
+                <button onclick="<?php if(!wp_is_mobile()) { echo"$('#descDiv').toggle(function(){map.invalidateSize() });";} ?> " id="descToggler" class="btn btn-sm btn-outline-dark btn-light" style="cursor: pointer; position: absolute; top:10px; right: 10px; z-index: 400"><span class="icon-map"></span></button>
             </div>
-            <div id="descDiv" class="col-4  p-5" style=" overflow-y: scroll;">
-
+            <div id="descDiv" class="col-4 p-5 <?php if(wp_is_mobile()) echo "d-none"; ?>" style="overflow-y: scroll;">
+                <?php if(wp_is_mobile()){
+                    echo '<button class="btn btn-light float-right" id="toggleBack"><span class="icon-map"></span></button>
+                    <script>
+                    $("#toggleBack").on("click", function() {
+                        $("#descDiv").prev().removeClass("d-none");
+                        $("#descDiv").removeClass("col p-1").addClass("col-4 p-5 d-none");
+                    });
+</script>
+';
+                } ?>
                 <div id="legjenda" class="row">
                     <div class="col-12">
-                        <h3 id="emriLagjes">Loading</h3>
+                        <h3 id="emriLagjes" class="text-uppercase">Loading</h3>
                     </div>
                     <div class="col-12">
                         <hr/>
                     </div>
-                    <div class="col-2">
+                    <div class="col-3" style="overflow: hidden;">
                         <span class="icon-drunjte" style="font-size: 60px;"></span>
                     </div>
                     <div class="col-5">
                         <h5>DRUNJË</h5>
                         <p>Gjithsej njësi:
                     </div>
-                    <div class="col-5" style="align-self: flex-end;">
+                    <div class="col-4" style="align-self: flex-end;">
                         <span id="totalDrunje" class="font-weight-bold" style="font-size: 39px;">Loading</span></p>
                     </div>
                     <div class="col-12">
@@ -55,10 +64,10 @@ if(WPCF7_ContactForm::get_current() !== null){
                     </div>
                     <div class="col-6">
                         <div class="row">
-                            <div class="col-2">
+                            <div class="col-3" style="overflow: hidden;">
                                 <span class="icon-gjethembajtes" style="font-size: 60px;"></span>
                             </div>
-                            <div class="col-10">
+                            <div class="col-9">
                                 <h5>Gjetherënës</h5>
                                 <p>Gjithsej: <span id="totalDrunjeGjethrenes" class="font-weight-bold">Loading</span></p>
                             </div>
@@ -73,10 +82,10 @@ if(WPCF7_ContactForm::get_current() !== null){
 
                     <div class="col-6">
                         <div class="row">
-                            <div class="col-2">
+                            <div class="col-3" style="overflow: hidden;">
                                 <span class="icon-gjetherenes" style="font-size: 60px;"></span>
                             </div>
-                            <div class="col-10">
+                            <div class="col-9">
                                 <h5>Gjethembajtës</h5>
                                 <p>Gjithsej: <span id="totalDrunjeGjethmbajtes" class="font-weight-bold">Loading</span></p>
                             </div>
@@ -90,14 +99,14 @@ if(WPCF7_ContactForm::get_current() !== null){
                     <div class="col-12">
                         <hr>
                     </div>
-                    <div class="col-2">
+                    <div class="col-3" style="overflow: hidden;">
                         <span class="icon-Mobiliari" style="font-size: 60px;"></span>
                     </div>
                     <div class="col-5">
                         <h5 class="text-uppercase">Mobiliari urban</h5>
                         <p>Gjithsej njësi:
                     </div>
-                    <div class="col-5" style="align-self: flex-end;">
+                    <div class="col-4" style="align-self: flex-end;">
                         <span id="totalMobilari" class="font-weight-bold" style="font-size: 39px;">Loading</span></p>
                     </div>
                     <div class="col-12">
@@ -113,8 +122,14 @@ if(WPCF7_ContactForm::get_current() !== null){
                         <p>gjendja jo e mirë: <b><span id="mobGjendjeJoEMire">Loading</span></b></p>
                     </div>
                     <div class="col-12"><hr/></div>
-                    <div class="col-2"><span style="font-size: 70px;" class="icon-co2"></span></div>
-                    <div class="col-6"><h5>Reduktimi i Dioksidit të Karbonit për çdo vit:</h5></div>
+                    <div class="col-3" style="overflow: hidden;">
+                        <span class="icon-zhurma" style="font-size: 40px; padding-left: 15px;"></span>
+                    </div>
+                    <div class="col-5"><h6>Niveli mesatar i Zhurmës: </h6></div>
+                    <div class="col-4"><span id="mesatarjaZhurma" style="font-size: 20px; font-weight: bold;">Loading</span><span class="text-muted">dB</span></div>
+                    <div class="col-12"><hr/></div>
+                    <div class="col-3" style="overflow: hidden;"><span style="font-size: 70px;" class="icon-co2"></span></div>
+                    <div class="col-5"><h6>Reduktimi i Dioksidit të Karbonit për çdo vit:</h6></div>
                     <div class="col-4"><span id="reduktimiCO2PerVit" style="font-size: 20px; font-weight: bold;"></span>ton</div>
                     <div class="col-12"><hr/></div>
                     <div class="col-8 DPKB"><h6>Drunjë për kokë banori në Prishtinë (të hartëzuara):</h6></div>
@@ -150,15 +165,19 @@ the symbol * is mandatory. After filling in the information, press &quot;Submit&
                             <option selected disabled>Zgjidhni llojin e elementeve</option>
                             <option value="trees">Pemë</option>
                             <option value="mobiliari">Mobiliari</option>
+                            <option value="zhurma">Zhurma</option>
                         </select>
-                        <form action="" id="palidhje"></form>
                         <div id="newTreeForm" class="contributeForms" style="display: none;">
                             <button onclick="getLocation();" class="btn btn-primary btn-block mt-2">Vendos vendndodhjen time</button>
-                            <?= do_shortcode('[contact-form-7 id="75" title="new tree form"]'); ?>
+                            <?= do_shortcode('[contact-form-7 id="15510" title="new tree form"]'); ?>
                         </div>
                         <div id="newMobiliariForm" class="contributeForms" style="display: none;">
                             <button onclick="getLocation();" class="btn btn-primary btn-block mt-2">Vendos vendndodhjen time</button>
-                            <?= do_shortcode('[contact-form-7 id="125" title="new mobiliari form"]'); ?>
+                            <?= do_shortcode('[contact-form-7 id="15509" title="new mobiliari form"]'); ?>
+                        </div>
+                        <div id="newZhurmaForm" class="contributeForms" style="display: none;">
+                            <button onclick="getLocation();" class="btn btn-primary btn-block mt-2">Vendos vendndodhjen time</button>
+                            <?= do_shortcode('[contact-form-7 id="15511" title="new zhurma form"]'); ?>
                         </div>
                     </div>
                 </div>
@@ -180,7 +199,7 @@ the symbol * is mandatory. After filling in the information, press &quot;Submit&
                         foreach ( $lastposts as $post ){
                             setup_postdata( $post );
                             echo 'PolygonParsers.push(new PolygonParser(' . get_the_ID() . ', "' . get_home_url() . '/datas/polygons/'. get_the_ID()  . '.json", "';
-                            echo the_field('name') . '", ["' . get_home_url()  . '/datas/trees/' . get_the_ID() . '.json"], ["' . get_home_url()  . '/datas/mobiliari/' . get_the_ID() . '.json"]));' . PHP_EOL;
+                            echo the_field('name') . '", ["' . get_home_url()  . '/datas/trees/' . get_the_ID() . '.json"], ["' . get_home_url()  . '/datas/mobiliari/' . get_the_ID() . '.json"], ["' . get_home_url()  . '/datas/zhurma/' . get_the_ID() . '.json"]));' . PHP_EOL;
                         }
                         echo "</script>";
                         wp_reset_postdata();
@@ -192,18 +211,25 @@ the symbol * is mandatory. After filling in the information, press &quot;Submit&
 
 
                 $("body").css("overflow-y", "hidden");
+
                 $("#descDiv").css("height", "calc(100vh - " + $("nav").height() + "px)");
+                    $('input[type="file"]').change(function(e){
+                    var fileName = e.target.files[0].name;
+                    $(e.target).next(fileName);
+                });
+
                 $( "#contributingFor" ).change(function() {
                  map.addLayer(currentLocation); currentLocation.openPopup();
+
                   if($(this).val() === "trees"){
                     $(".contributeForms").hide();
                     $("#newTreeForm").show();
                   }else if($(this).val() === "mobiliari"){
                     $(".contributeForms").hide();
                     $("#newMobiliariForm").show();
-                  }
-                  else {
-
+                  }else if($(this).val() === "zhurma"){
+                    $(".contributeForms").hide();
+                    $("#newZhurmaForm").show();
                   }
                 });
 
@@ -212,24 +238,37 @@ the symbol * is mandatory. After filling in the information, press &quot;Submit&
                     $('#shtoElement').show();
                     $("#contributingFor").val("trees");
 
-                    if(submittedFormId == "75"){
+                    if(submittedFormId == "15510"){
                         if(!$("#newTreeForm").text().includes("Thank you")){
                             map.addLayer(currentLocation);
                         }
                         $("#contributingFor").val("trees");
                         $("#newTreeForm").show();
-                    } else if(submittedFormId == "125"){
-                        $("#newMobiliariForm").show();
-
+                    } else if(submittedFormId == "15509"){
                         if(!$("#newMobiliariForm").text().includes("Thank you")){
                             map.addLayer(currentLocation);
                         }
                         $("#contributingFor").val("mobiliari");
                         $("#newMobiliariForm").show();
                     }
+                    else if(submittedFormId == "15511"){
+                        if(!$("#newZhurmaForm").text().includes("Thank you")){
+                            map.addLayer(currentLocation);
+                        }
+                        $("#contributingFor").val("mobiliari");
+                        $("#newZhurmaForm").show();
+                    }
                 }
 
             })
+            <?php if(wp_is_mobile()) {
+                echo '
+                    $("#descToggler").on("click", function(){
+                        $("#descDiv").removeClass("col-4 p-5 d-none").addClass("col p-1");
+                        $("#descDiv").prev().addClass("d-none");
+                    });
+                ';
+            }?>
         </script>
     </html>
 	</main><!-- #main -->

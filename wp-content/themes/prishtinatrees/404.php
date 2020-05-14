@@ -1,8 +1,13 @@
 <?php
 /**
- * The template for displaying 404 pages (not found)
+ * The template for displaying all pages
  *
- * @link https://codex.wordpress.org/Creating_an_Error_404_Page
+ * This is the template that displays all pages by default.
+ * Please note that this is the WordPress construct of pages
+ * and that other 'pages' on your WordPress site may use a
+ * different template.
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
  * @package prishtinatrees
  */
@@ -12,48 +17,35 @@ get_header();
 
 	<main id="primary" class="site-main">
 
-		<section class="error-404 not-found">
-			<header class="page-header">
-				<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'prishtinatrees' ); ?></h1>
-			</header><!-- .page-header -->
-
-			<div class="page-content">
-				<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'prishtinatrees' ); ?></p>
-
-					<?php
-					get_search_form();
-
-					the_widget( 'WP_Widget_Recent_Posts' );
-					?>
-
-					<div class="widget widget_categories">
-						<h2 class="widget-title"><?php esc_html_e( 'Most Used Categories', 'prishtinatrees' ); ?></h2>
-						<ul>
-							<?php
-							wp_list_categories(
-								array(
-									'orderby'    => 'count',
-									'order'      => 'DESC',
-									'show_count' => 1,
-									'title_li'   => '',
-									'number'     => 10,
-								)
-							);
-							?>
-						</ul>
-					</div><!-- .widget -->
-
-					<?php
-					/* translators: %1$s: smiley */
-					$prishtinatrees_archive_content = '<p>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', 'prishtinatrees' ), convert_smilies( ':)' ) ) . '</p>';
-					the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$prishtinatrees_archive_content" );
-
-					the_widget( 'WP_Widget_Tag_Cloud' );
-					?>
-
-			</div><!-- .page-content -->
-		</section><!-- .error-404 -->
-
+        <style>
+            #howitworks span {
+                font-size: 40px;
+            }
+        </style>
+        <div id="howitworks" class="container my-5">
+            <div class="row m-0 mt-5">
+                <div class="col-6">
+                    <span class="icon-404" style="font-size: 100px;"></span>
+                    <h4 class="my-3">404 !</h4>
+                    <p>Kjo faqe nuk ekziston.</p>
+                    <p>Ju lutem provoni njerën nga faqet tjera:</p>
+                    <b><a class="text-dark" href="<?= get_home_url(); ?>">Ballina</a> |
+                        <a class="text-dark" href="<?= get_home_url(); ?>/howitworks">Si funksionon?</a> |
+                        <a class="text-dark" href="<?= get_home_url(); ?>/about">Rreth prishtinatrees.org</a>
+                    </b>
+                </div>
+                <div class="col-6 text-en">
+                    <span class="icon-404" style="font-size: 100px;"></span>
+                    <h4 class="my-3">404 !</h4>
+                    <p>This page does not exist.</p>
+                    <p>Please try one of the other pages:</p>
+                    <b> <a class="text-en" href="<?= get_home_url(); ?>">Ballina</a> |
+                        <a class="text-en" href="<?= get_home_url(); ?>/howitworks">How it works?</a> |
+                        <a class="text-en" href="<?= get_home_url(); ?>/about">About prishtinatrees.org</a>
+                    </b>
+                </div>
+            </div>
+        </div>
 	</main><!-- #main -->
 
 <?php

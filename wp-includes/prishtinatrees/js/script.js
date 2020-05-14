@@ -1,13 +1,14 @@
-var map
-var gjetherenesLarteIcon
-var gjetherenesMesemIcon
-var gjetherenesUletIcon
-var gjethembajtesLarteIcon
-var gjethembajtesMesemIcon
-var gjethembajtesUletIcon
-var uleseIcon
-var ndricimIcon
-var mbeturinaIcon
+var map;
+var gjetherenesLarteIcon;
+var gjetherenesMesemIcon;
+var gjetherenesUletIcon;
+var gjethembajtesLarteIcon;
+var gjethembajtesMesemIcon;
+var gjethembajtesUletIcon;
+var uleseIcon;
+var ndricimIcon;
+var mbeturinaIcon;
+var zhurmaIcon;
 var x;
 var TreeParsers = [];
 var PolygonParsers = [];
@@ -240,6 +241,15 @@ $("document").ready(function() {
 				return sum;
 			});
 
+			$("#mesatarjaZhurma").text(function(){
+				let i = 0;
+				let sum = 0;
+				for(i; i < PolygonParsers.length; i++){
+					sum += PolygonParsers[i].mesatarjaZhurma();
+				}
+				return (sum/i).toFixed(2);
+			});
+
 		}
 		else {
 			toggleDesc = false;
@@ -265,8 +275,16 @@ $("document").ready(function() {
 	ndricimIcon = {color: '#4090a8', fillColor: '#4090a8', fillOpacity: 0.5, radius: 1}
 	mbeturinaIcon = {color: '#624785', fillColor: '#624785', fillOpacity: 0.5, radius: 1}
 
+	zhurmaIcon = L.divIcon({
+        className: 'custom-div-icon',
+        html: "<span class='icon-zhurma'></span>",
+        iconSize: [30, 42],
+        iconAnchor: [0, 0],
+		popupAnchor: [5, 3]
+    });
+
 	var gl = L.mapboxGL({
-		attribution: '<a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>',
+		attribution: ' PrishtinaTrees v.Alpha | <a href="https://www.maptiler.com/copyright/" target="_blank">© MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>',
 		accessToken: 'not-needed',
 		style: 'https://api.maptiler.com/maps/positron/style.json?key=SUSH2C7iOeiRtPMHq2pu'
 	}).addTo(map);
@@ -284,7 +302,6 @@ $("document").ready(function() {
 	onPolyClick = function (event) {
 		map.fitBounds(event.target.getBounds())
 		map.flyTo(event.target.getBounds().getCenter(), 17);
-		//new TreeParser("./wp-includes/prishtinatrees/assets/datas/trees/ulpiana1_drunjet.json");
 	};
 
 
@@ -302,6 +319,7 @@ $("document").ready(function() {
 				try {
 					PolygonParsers[i].showPemet();
 					PolygonParsers[i].showMobiliari();
+					PolygonParsers[i].showZhurma();
 				} catch (e) {
 					//console.log(e);
 				}
@@ -312,6 +330,7 @@ $("document").ready(function() {
 				try {
 					PolygonParsers[i].hidePemet();
 					PolygonParsers[i].hideMobiliari();
+					PolygonParsers[i].hideZhurma();
 				} catch (e) {
 					//console.log(e);
 				}
@@ -338,21 +357,12 @@ $("document").ready(function() {
 	currentLocation.bindPopup('Zhvendosni pikën');
 	currentLocation.on("drag", function (e) {
 		let position = e.target.getLatLng();
-		// $("#treeLatitude").val(position.lat);
-		// $("#mobLatitude").val(position.lat);
-		// $("#treeLongitude").val(position.lng);
-		// $("#mobLongitude").val(position.lng);
 		$("input[name='latitude']").val(position.lat);
 		$("input[name='longitude']").val(position.lng);
 	});
 	currentLocation.on("move", function (e) {
 		let position = e.target.getLatLng();
 		$("input[name='onPolygon']").val(whereIsTheMarker());
-		// $("#treeLatitude").val(position.lat);
-		// $("#mobLatitude").val(position.lat);
-		// $("#treeLongitude").val(position.lng);
-		// $("#mobLongitude").val(position.lng);g
-
 		$("input[name='latitude']").val(position.lat);
 		$("input[name='longitude']").val(position.lng);
 	});
@@ -361,135 +371,6 @@ $("document").ready(function() {
 	map.on('dragend', function (e) {
 		updateDesc();
 	});
-
-/*
-	PolygonParsers.push(
-		new PolygonParser(
-			1,
-			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
-			"ulpiana",
-			[
-				"./wp-includes/prishtinatrees/assets/datas/trees/ulpiana1_drunjet.json"
-			],
-			[
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/ulpiana1_mobiliari.json"
-			]
-		)
-	);
-	PolygonParsers.push(
-		new PolygonParser(
-			2,
-			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
-			"dardania",
-			[],
-			[]
-		)
-	);
-
-	PolygonParsers.push(
-		new PolygonParser(
-			3,
-			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
-			"aktash",
-			[
-				"./wp-includes/prishtinatrees/assets/datas/trees/aktash1_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/aktash2_drunjet.json"
-			],
-			[
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/aktash1_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/aktash2_mobiliari.json"
-			]
-		)
-	);
-
-	PolygonParsers.push(
-		new PolygonParser(
-			4,
-			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
-			"kampusi",
-			[
-				"./wp-includes/prishtinatrees/assets/datas/trees/kampusi1_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/kampusi2_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/kampusi3_drunjet.json"
-			],
-			[
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/kampusi1_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/kampusi2_mobiliari.json"
-			]
-		)
-	);
-	PolygonParsers.push(
-		new PolygonParser(
-			5,
-			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
-			"qendra",
-			[
-				"./wp-includes/prishtinatrees/assets/datas/trees/qendra1_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/qendra2_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/qendra3_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/qendra4_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/qendra5_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/qendra6_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/qendra7_drunjet.json"
-			],
-			[
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/qendra1_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/qendra2_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/qendra3_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/qendra4_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/qendra5_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/qendra6_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/qendra7_mobiliari.json"
-			]
-		)
-	);
-
-	PolygonParsers.push(
-		new PolygonParser(
-			6,
-			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
-			"bregu i diellit",
-			[
-				"./wp-includes/prishtinatrees/assets/datas/trees/breguidiellit1_drunjet.json"
-			],
-			[
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/breguidiellit1_mobiliari.json"
-			]
-		)
-	);
-
-
-	PolygonParsers.push(
-		new PolygonParser(
-			7,
-			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
-			"pejton",
-			[
-				"./wp-includes/prishtinatrees/assets/datas/trees/pejton1_drunjet.json",
-				"./wp-includes/prishtinatrees/assets/datas/trees/pejton2_drunjet.json"
-			],
-			[
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/pejton1_mobiliari.json",
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/pejton2_mobiliari.json"
-			]
-		)
-	);
-
-
-	PolygonParsers.push(
-		new PolygonParser(
-			8,
-			"./wp-includes/prishtinatrees/assets/datas/kufijte.json",
-			"mahalla e muhaxhereve",
-			[
-				"./wp-includes/prishtinatrees/assets/datas/trees/mahallamuhaxhereve1_drunjet.json"
-			],
-			[
-				"./wp-includes/prishtinatrees/assets/datas/mobiliari/mahallamuhaxhereve1_mobiliari.json"
-			]
-		)
-	);
- */
 
 	whereIsTheMarker = function(){
 		for(let i = 0; i < PolygonParsers.length; i++){
